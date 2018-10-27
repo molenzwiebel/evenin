@@ -1,0 +1,1413 @@
+[{
+    "name": "Q'anjob'al",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=kjb",
+    "location": "Guatemala.",
+    "greetings": [{
+        "phrase": "Txajin",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Txajin mamin",
+        "explanation": "general greeting spoken to a man"
+    }, {
+        "phrase": "Txajin chicay",
+        "explanation": "general greeting spoken to a woman"
+    }, {
+        "phrase": "Txajej hinteq mamin",
+        "explanation": "general greeting spoken to a woman"
+    }, {
+        "phrase": "Txajej hinteq chikay",
+        "explanation": "general greeting spoken to a woman"
+    }, {
+        "phrase": "Janik'",
+        "explanation": "general greeting spoken in San Pedro Soloma"
+    }, {
+        "phrase": "Watx' mi ha k'ul?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Watx' in k'ul",
+        "explanation": "reply to Watx' mi ha k'ul"
+    }, {
+        "phrase": "Watx'",
+        "explanation": "reply to Watx' mi ha k'ul"
+    }, {
+        "phrase": "Texi ha k'ul?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Watx' k'al mi?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Ja' watx' k'al",
+        "explanation": "reply to Watx' k'al mi"
+    }]
+}, {
+    "name": "Qaqet",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=byx",
+    "location": "Papua New Guinea: Gazelle Peninsula.",
+    "greetings": [{
+        "phrase": "Atlo",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Atlu",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Qawasqar",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=alc",
+    "location": "Chile: Patagonia.",
+    "greetings": [{
+        "phrase": "Kiávaru",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Jetaksta k'oának kucelakso",
+        "explanation": "greeting spoken to a group of friends"
+    }, {
+        "phrase": "Kusá?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Che kulak",
+        "explanation": "reply to Kusá"
+    }]
+}, {
+    "name": "Q'eqchi'",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=kek",
+    "location": "Guatemala: Alta Verapaz and Petén.",
+    "greetings": [{
+        "phrase": "Sahil ch'oolejil",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Ma xatsaqewk?",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Sa', b'antiox",
+        "explanation": "reply to Ma xatsaqewk"
+    }, {
+        "phrase": "Ma xatsaqewk laa'at?",
+        "explanation": "morning greeting, \"how did you wake up?\""
+    }, {
+        "phrase": "Hehe', laa'in xinsaqewk",
+        "explanation": "reply to Ma xatsaqewk laa'at"
+    }, {
+        "phrase": "Hehe', laa'in xinsaqewk, b'antiox",
+        "explanation": "reply to Ma xatsaqewk laa'at"
+    }, {
+        "phrase": "Ch'owa'",
+        "explanation": "greeting spoken to an elder man"
+    }, {
+        "phrase": "Ch'owa'xin",
+        "explanation": "greeting spoken to an elder man"
+    }, {
+        "phrase": "Wa'xin",
+        "explanation": "greeting spoken to an elder man"
+    }, {
+        "phrase": "Wa'chin",
+        "explanation": "greeting spoken to an elder man"
+    }, {
+        "phrase": "Ch'ona",
+        "explanation": "greeting spoken to an elder woman"
+    }, {
+        "phrase": "Na'xin",
+        "explanation": "greeting spoken to an elder woman"
+    }, {
+        "phrase": "Na'chin",
+        "explanation": "greeting spoken to an elder woman"
+    }, {
+        "phrase": "Chan xakwil?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Xo xaq'a'in",
+        "explanation": "reply to Chan xakwil"
+    }, {
+        "phrase": "Ma sa laach'ool?",
+        "explanation": "how are you, literally \"is your heart rich/comfortable?\""
+    }, {
+        "phrase": "Sa sa' linch'ool",
+        "explanation": "reply to Ma sa laach'ool"
+    }, {
+        "phrase": "Sa sa' linch'ool, b'antiox",
+        "explanation": "reply to Ma sa laach'ool"
+    }, {
+        "phrase": "Chaab'il li e'qla",
+        "explanation": "morning greeting (calque from Spanish)"
+    }, {
+        "phrase": "Chaab'il li ewu",
+        "explanation": "afternoon and evening greeting (calque from Spanish)"
+    }, {
+        "phrase": "Chaab'il li q'ojy'ink",
+        "explanation": "nighttime greeting (calque from Spanish)"
+    }]
+}, {
+    "name": "Qiang, Northern",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=cng",
+    "location": "China: Sichuan.",
+    "greetings": [{
+        "phrase": "Tə",
+        "explanation": "general greeting in the Goukou dialect"
+    }, {
+        "phrase": "Unn tsha",
+        "explanation": "morning greeting in the Goukou dialect"
+    }, {
+        "phrase": "Maekhua zhəsa",
+        "explanation": "evening greeting in the Goukou dialect"
+    }, {
+        "phrase": "Əzhi",
+        "explanation": "nighttime greeting in the Goukou dialect"
+    }, {
+        "phrase": "Unn jiu lea",
+        "explanation": "general greeting in the Huilong dialect"
+    }, {
+        "phrase": "Unn dha",
+        "explanation": "morning greeting in the Huilong dialect"
+    }, {
+        "phrase": "Mia yiae",
+        "explanation": "evening greeting in the Huilong dialect"
+    }, {
+        "phrase": "Nesha",
+        "explanation": "nighttime greeting in the Huilong dialect"
+    }, {
+        "phrase": "Nə",
+        "explanation": "general greeting in the Luhua dialect"
+    }, {
+        "phrase": "Kun dadzha nyi",
+        "explanation": "morning greeting in the Luhua dialect"
+    }, {
+        "phrase": "Aeshyi na",
+        "explanation": "evening greeting in the Luhua dialect"
+    }, {
+        "phrase": "Kuejin",
+        "explanation": "nighttime greeting in the Luhua dialect"
+    }, {
+        "phrase": "Stəstə",
+        "explanation": "general greeting in the Luoxiang dialect"
+    }, {
+        "phrase": "Ku dzha",
+        "explanation": "morning greeting in the Luoxiang dialect"
+    }, {
+        "phrase": "Maerze na",
+        "explanation": "evening greeting in the Luoxiang dialect"
+    }, {
+        "phrase": "Təzd",
+        "explanation": "nighttime greeting in the Luoxiang dialect"
+    }, {
+        "phrase": "Ai",
+        "explanation": "general greeting in the Mawo dialect"
+    }, {
+        "phrase": "Kuə dzanyi",
+        "explanation": "morning greeting in the Mawo dialect"
+    }, {
+        "phrase": "Maerzə na",
+        "explanation": "evening greeting in the Mawo dialect"
+    }, {
+        "phrase": "Ankəm",
+        "explanation": "nighttime greeting in the Mawo dialect"
+    }, {
+        "phrase": "Ku dzhan",
+        "explanation": "morning greeting in the Wabo dialect"
+    }, {
+        "phrase": "Maekhae na",
+        "explanation": "evening greeting in the Wabo dialect"
+    }, {
+        "phrase": "Kə dalə",
+        "explanation": "morning greeting in the Weicheng dialect"
+    }, {
+        "phrase": "Gəsta na ma",
+        "explanation": "evening greeting in the Weicheng dialect"
+    }, {
+        "phrase": "Anema",
+        "explanation": "nighttime greeting in the Weicheng dialect"
+    }, {
+        "phrase": "Shtsyəsyə",
+        "explanation": "general greeting in the Weigu dialect [cng-wei]"
+    }, {
+        "phrase": "Ku dadzha nae",
+        "explanation": "morning greeting in the Weigu dialect [cng-wei]"
+    }, {
+        "phrase": "Gits nan",
+        "explanation": "evening greeting in the Weigu dialect [cng-wei]"
+    }, {
+        "phrase": "Kujən",
+        "explanation": "nighttime greeting in the Weigu dialect [cng-wei]"
+    }, {
+        "phrase": "Ste",
+        "explanation": "general greeting in the Xuecheng dialect"
+    }, {
+        "phrase": "No dzhə so",
+        "explanation": "morning greeting in the Xuecheng dialect"
+    }, {
+        "phrase": "Dzhie tsə na",
+        "explanation": "evening greeting in the Xuecheng dialect"
+    }, {
+        "phrase": "Ne tyi mo",
+        "explanation": "nighttime greeting in the Xuecheng dialect"
+    }]
+}, {
+    "name": "Qiang, Southern",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qxs",
+    "location": "China: Sichuan.",
+    "greetings": [{
+        "phrase": "Unn nan",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Ssuxxi vhunngu nay",
+        "explanation": "greeting spoken to a group of people"
+    }, {
+        "phrase": "Ozwgvu nan",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Zzea sed nyi nan",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Maeva nan",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Ili nay?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Ili na ya?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Gva na gvulea",
+        "explanation": "reply to Ili nay and Ili na ya"
+    }, {
+        "phrase": "Na gvulea",
+        "explanation": "reply to Ili nay and Ili na ya"
+    }, {
+        "phrase": "Tie",
+        "explanation": "general greeting in the Taoping dialect [qxs-tao]"
+    }, {
+        "phrase": "No dzhə so",
+        "explanation": "morning greeting in the Taoping dialect [qxs-tao]"
+    }, {
+        "phrase": "Pə dzhie na",
+        "explanation": "evening greeting in the Taoping dialect [qxs-tao]"
+    }, {
+        "phrase": "Kər ku ne",
+        "explanation": "nighttime greeting in the Taoping dialect [qxs-tao]"
+    }]
+}, {
+    "name": "Quapaw",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qua",
+    "location": "United States of America: Oklahoma.",
+    "greetings": [{
+        "phrase": "Hawé",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Haníší?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Huníše?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Hoaniakhé?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Hákoaniakshé?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Ógaše ahanike?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Ógaše díge",
+        "explanation": "reply to Ógaše ahanike"
+    }, {
+        "phrase": "Hankítte?",
+        "explanation": "where are you going?"
+    }]
+}, {
+    "name": "Quechan",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=yum",
+    "location": "United States: Fort Yuma, California.",
+    "greetings": [{
+        "phrase": "Kumathum",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Kawits kumathum",
+        "explanation": "informal greeting"
+    }, {
+        "phrase": "Kiyi",
+        "explanation": "greeting spoken by a man to a male friend"
+    }, {
+        "phrase": "Shiyi",
+        "explanation": "greeting spoken by a woman to a female friend"
+    }, {
+        "phrase": "Ma axot moovak?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Axot",
+        "explanation": "reply to Ma axot moovak"
+    }, {
+        "phrase": "Axoyt'ta",
+        "explanation": "reply to Ma axot moovak"
+    }]
+}, {
+    "name": "Quechua, Ambo-Pasco",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qva",
+    "location": "Peru.",
+    "greetings": [{
+        "phrase": "Alilachu?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Alilachu caycanqui?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Imanuylatag caycanqui?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Alilam caycä",
+        "explanation": "reply to Alilachu, Alilachu caycanqui and Imanuylatag caycanqui"
+    }, {
+        "phrase": "Wasilayqui?",
+        "explanation": "greeting spoken at a house, \"is anyone home?\""
+    }, {
+        "phrase": "Shamushcä",
+        "explanation": "greeting spoken by a visitor, \"I've come\""
+    }]
+}, {
+    "name": "Quechua, Arequipa",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qxu",
+    "location": "Peru: Arequipa Department.",
+    "greetings": [{
+        "phrase": "Imaynallataq kachkanki?",
+        "explanation": "how are you? spoken to one person"
+    }, {
+        "phrase": "Imaynallataq kachkankichis?",
+        "explanation": "how are you? spoken to a group of people"
+    }, {
+        "phrase": "Allinllam",
+        "explanation": "reply to Imaynallataq kachkanki and Imaynallataq kachkankichis"
+    }, {
+        "phrase": "Allinllachu?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Allinllachu kakuchanki?",
+        "explanation": "how are you? spoken to one person"
+    }, {
+        "phrase": "Allinllachu kakuchankichis?",
+        "explanation": "how are you? spoken to a group of people"
+    }, {
+        "phrase": "Allinllataqmi",
+        "explanation": "reply to Allinllachu and Allinllachu kakuchanki"
+    }]
+}, {
+    "name": "Quechua, Ayacucho",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=quy",
+    "location": "Peru: Ayacucho.",
+    "greetings": [{
+        "phrase": "Rimaykullayki taytay",
+        "explanation": "general greeting spoken to a man"
+    }, {
+        "phrase": "Rimaykullayki mamay",
+        "explanation": "general greeting spoken to a woman"
+    }, {
+        "phrase": "Chaskillaykim taytay",
+        "explanation": "reply to Rimaykullayki spoken to a man"
+    }, {
+        "phrase": "Chaskillaykim mamay",
+        "explanation": "reply to Rimaykullayki spoken to a woman"
+    }, {
+        "phrase": "Allin punchaw",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Imaynalla paqarimunki?",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Imaynalla paqarinki?",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Imaynalla achikyanki?",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Imaynalla achikyakunki?",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Allin sukha",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Imayna sukhanki?",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Imaynalla sukhanki?",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Allin ch'isi",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Allin tuta",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Imaynallataq kachkanki?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Allinllam",
+        "explanation": "reply to Imaynallataq kachkanki"
+    }, {
+        "phrase": "Allinllachu?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Allinllachu kanki?",
+        "explanation": "how are you? spoken to one person"
+    }, {
+        "phrase": "Allinllachu kankichik?",
+        "explanation": "how are you? spoken to a group"
+    }, {
+        "phrase": "Allinllachu kachkanki?",
+        "explanation": "how are you? spoken to one person"
+    }, {
+        "phrase": "Allinllachu kachkankichik?",
+        "explanation": "how are you? spoken to a group"
+    }, {
+        "phrase": "Allinllam kachkani",
+        "explanation": "reply to Allinllachu kachkanki"
+    }, {
+        "phrase": "Imaynalla purinki?",
+        "explanation": "how are you? spoken to one person"
+    }, {
+        "phrase": "Imaynalla purinkichik?",
+        "explanation": "how are you? spoken to a group"
+    }, {
+        "phrase": "Imayna risunki?",
+        "explanation": "how are you? informal"
+    }, {
+        "phrase": "Haykuykuy",
+        "explanation": "welcome greeting: \"come in\""
+    }]
+}, {
+    "name": "Quechua, Cajamarca",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qvc",
+    "location": "Peru: Chetilla and Los Baños.",
+    "greetings": [{
+        "phrase": "Allin punchaw",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Allin chishi",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Allillachu kangi?",
+        "explanation": "how are you? spoken to one person"
+    }, {
+        "phrase": "Allillachu kangichij?",
+        "explanation": "how are you? spoken to a group"
+    }, {
+        "phrase": "Imashinam kangi?",
+        "explanation": "how are you? spoken to one person"
+    }, {
+        "phrase": "Imashinam kangichij?",
+        "explanation": "how are you? spoken to a group"
+    }, {
+        "phrase": "Allilla",
+        "explanation": "reply to Allillachu kangi and Imashinam kangi"
+    }, {
+        "phrase": "Allillám",
+        "explanation": "reply to Allillachu kangi and Imashinam kangi"
+    }]
+}, {
+    "name": "Quechua, Cajatambo North Lima",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qvl",
+    "location": "Peru.",
+    "greetings": [{
+        "phrase": "Alilacu caycanqui?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Quechua, Chilean",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=cqu",
+    "location": "Chile: northern second region.",
+    "greetings": [{
+        "phrase": "Allin p'unchaj",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Allin sukha",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Allin tuta",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Imaynalla kasanki?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Quechua, Chiquian",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qxa",
+    "location": "Peru: Ancash Department.",
+    "greetings": [{
+        "phrase": "Alilacu caycanqui?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Imanollatak quecanqui?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Yamellam quecaa",
+        "explanation": "reply to Imanollatak quecanqui"
+    }]
+}, {
+    "name": "Quechua, Classical",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qwc",
+    "location": "Peru.",
+    "greetings": [{
+        "phrase": "Ama sua, ama llulla, ama qhella",
+        "explanation": "traditional greeting formerly used in the Incan Empire (\"don't steal, don't lie, don't be lazy\")"
+    }]
+}, {
+    "name": "Quechua, Conchucos",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qxn",
+    "location": "Peru: Pomabamba.",
+    "greetings": [{
+        "phrase": "Winchis",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Quechua, Corongo Ancash",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qwa",
+    "location": "Peru.",
+    "greetings": [{
+        "phrase": "Imanöllatan quëcanqui?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Quechua, Cusco",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=quz",
+    "location": "Peru: Cusco.",
+    "greetings": [{
+        "phrase": "Napaykullayki",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Napaykuyin",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Rimaykullayki",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Allin p'unchay",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Allin p'unchay kachun",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Allin p'unchay kachun qampaq",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Wuynus diyas",
+        "explanation": "morning greeting (from Spanish)"
+    }, {
+        "phrase": "Allin ch'isi",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Allin ch'isi kachun",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Allin ch'isi kachun qampaq",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Wuynas tardis",
+        "explanation": "afternoon greeting (from Spanish)"
+    }, {
+        "phrase": "Allin tuta",
+        "explanation": "evening and nighttime greeting"
+    }, {
+        "phrase": "Allin tuta kachun",
+        "explanation": "evening and nighttime greeting"
+    }, {
+        "phrase": "Allin tuta kachun qampaq",
+        "explanation": "evening and nighttime greeting"
+    }, {
+        "phrase": "Wuynas nuchis",
+        "explanation": "evening and nighttime greeting (from Spanish)"
+    }, {
+        "phrase": "Allillanchu?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Imaynan kasanki?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Imaynalla kasanki?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Imaynallam kasanki?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Imaynallataq kasanki?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Allillanmi",
+        "explanation": "reply to Allillanchu, Imaynam kasanki, Imaynalla kasanki, etc."
+    }, {
+        "phrase": "Allillanmi, sulpayki",
+        "explanation": "reply to Allillanchu, Imaynam kasanki, Imaynalla kasanki, etc."
+    }, {
+        "phrase": "Allillanpuni",
+        "explanation": "reply to Allillanchu, Imaynam kasanki, Imaynalla kasanki, etc."
+    }, {
+        "phrase": "Pasaykamuy",
+        "explanation": "welcome greeting: \"come in\""
+    }, {
+        "phrase": "Haykuykamuy",
+        "explanation": "welcome greeting: \"come in\""
+    }, {
+        "phrase": "Haykuykuy",
+        "explanation": "welcome greeting: \"come in\""
+    }]
+}, {
+    "name": "Quechua, Eastern Apurímac",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qve",
+    "location": "Peru: Apurímac.",
+    "greetings": [{
+        "phrase": "Allin punchaw",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Allin suka",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Allin tuta",
+        "explanation": "evening and nighttime greeting"
+    }, {
+        "phrase": "Allillanchu?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Allillanmi",
+        "explanation": "reply to Allillanchu"
+    }, {
+        "phrase": "Imaynallan kashanki?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Quechua, Huallaga",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qub",
+    "location": "Peru: Huánuco Department.",
+    "greetings": [{
+        "phrase": "Iy",
+        "explanation": "general greeting used to get someone's attention"
+    }, {
+        "phrase": "Y",
+        "explanation": "general greeting used to get someone's attention"
+    }, {
+        "phrase": "Iy öye",
+        "explanation": "general greeting used to get someone's attention"
+    }, {
+        "phrase": "Y öye",
+        "explanation": "general greeting used to get someone's attention"
+    }, {
+        "phrase": "Allichu caycanqui?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Allillachu caycanqui?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Imanöllataj goyaycanqui?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Imanöllataj caycanqui?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Imanötaj caycanqui?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Allillanmi",
+        "explanation": "reply to Imanötaj caycanqui"
+    }, {
+        "phrase": "Ö, allillani cayca",
+        "explanation": "reply to Imanötaj caycanqui"
+    }, {
+        "phrase": "Allichu waräshcanqui?",
+        "explanation": "how are you? used in the morning"
+    }, {
+        "phrase": "Allichu warämushcanqui?",
+        "explanation": "how are you? used in the morning, spoken to a person who came from afar"
+    }, {
+        "phrase": "Shay",
+        "explanation": "greeting spoken by a man to a male friend"
+    }, {
+        "phrase": "Wasillayqui?",
+        "explanation": "greeting spoken when approaching a house"
+    }, {
+        "phrase": "Wasi callan",
+        "explanation": "reply to Wasillayqui"
+    }, {
+        "phrase": "Jaucallachu?",
+        "explanation": "greeting spoken after a long absence"
+    }]
+}, {
+    "name": "Quechua, Huamalíes",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qvh",
+    "location": "Peru.",
+    "greetings": [{
+        "phrase": "Alilacu caycanqui?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Imanölatä caycanqui?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Quechua, Huaylas Ancash",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qwh",
+    "location": "Peru.",
+    "greetings": [{
+        "phrase": "Winchis",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Jey",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Jaw",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Imanowllataq keykanki?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Yameyllaku?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Yameyllaku keykanki?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Yameyllam keykä",
+        "explanation": "reply to Yameyllaku keykanki"
+    }]
+}, {
+    "name": "Quechua, Huaylla Wanca",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qvw",
+    "location": "Peru: South Junin.",
+    "greetings": [{
+        "phrase": "Allinllachun?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Quechua, Jauja Wanca",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qxw",
+    "location": "Peru: South Junin.",
+    "greetings": [{
+        "phrase": "Allinllachun?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Quechua, Lambayeque",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=quf",
+    "location": "Peru: Lambayeque.",
+    "greetings": [{
+        "phrase": "Allilanchu kanki?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Allilanmi kani",
+        "explanation": "reply to Allillanchu kanki"
+    }, {
+        "phrase": "Chaynupalachu?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Imanutaq kanki?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Imanu kanki?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Quechua, Margos-Yarowilca-Lauricocha",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qvm",
+    "location": "Peru.",
+    "greetings": [{
+        "phrase": "Alilacu caycanqui?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Alilami caycä",
+        "explanation": "reply to Alilacu caycanqui"
+    }, {
+        "phrase": "Imanölatag caycanqui?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Wayilayqui",
+        "explanation": "greeting spoken at a house, \"is anyone home?\""
+    }, {
+        "phrase": "Wayicalan",
+        "explanation": "reply to Wayilayqui"
+    }]
+}, {
+    "name": "Quechua, Napo",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qvo",
+    "location": "Ecuador: Alto Napo.",
+    "greetings": [{
+        "phrase": "Alli puncha",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Alli chishi",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Alli tuta",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Imasnara angui?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Alliyachu angui?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Kausanguichu?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Allimi ani",
+        "explanation": "reply to Imasnara angui, Alliyachu angui, and Kausanguichu"
+    }]
+}, {
+    "name": "Quechua, Northern Bolivian",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qul",
+    "location": "Bolivia: Taquile and Lake Titicaca.",
+    "greetings": [{
+        "phrase": "Allin p'unchaw",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Quechua, North Conchucos Ancash",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qxn",
+    "location": "Peru.",
+    "greetings": [{
+        "phrase": "Imanötan caycanqui?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Quechua, North Junín",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qvn",
+    "location": "Peru: Junín Department.",
+    "greetings": [{
+        "phrase": "Winus tyas",
+        "explanation": "morning greeting (from Spanish)"
+    }, {
+        "phrase": "Alilachu kayanki?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Alilachu kayaalanki?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Alim kayaalaa",
+        "explanation": "reply to Alilachu kayanki and Alilachu kayaalanki"
+    }]
+}, {
+    "name": "Quechua, Panao",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qxh",
+    "location": "Peru: Huánuco Department.",
+    "greetings": [{
+        "phrase": "Allichu caycanqui?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Allillachu caycanqui?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Imanuyllataj caycanqui?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Allillami caycä",
+        "explanation": "reply to Imanuyllataj caycanqui"
+    }]
+}, {
+    "name": "Quechua, Puno",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qxp",
+    "location": "Peru: Puno Department.",
+    "greetings": [{
+        "phrase": "Allillanchu",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Allin punchay",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Allin chisi",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Allin tuta",
+        "explanation": "evening and nighttime greeting"
+    }, {
+        "phrase": "Imaynallan cashanki?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Quechua, San Martín",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qvs",
+    "location": "Peru.",
+    "greetings": [{
+        "phrase": "Allichu?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Alli",
+        "explanation": "reply to Allichu"
+    }, {
+        "phrase": "Allillachu kanki?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Allillami kani",
+        "explanation": "reply to Allillachu kanki"
+    }, {
+        "phrase": "Imashnatí kanki?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Imashnatá kanki?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Bellullami kani",
+        "explanation": "reply to Imashnatí kanki and Imashnatá kanki"
+    }]
+}, {
+    "name": "Quechua, Southern Bolivian",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=quh",
+    "location": "Bolivia: Cochabamba.",
+    "greetings": [{
+        "phrase": "Allin p'unchaj",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Allin sukha",
+        "explanation": "afternoon greeting"
+    }]
+}, {
+    "name": "Quechua, Southern Conchucos Ancash",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qxo",
+    "location": "Peru: Ancash.",
+    "greetings": [{
+        "phrase": "Imanöllatä caycanqui?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Imanötä caycanqui?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Allillacu caycanqui?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Allillacu?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Allillam caycä",
+        "explanation": "reply to Allillacu caycanqui and Allillacu"
+    }]
+}, {
+    "name": "Quechua, Southern Pastaza",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qup",
+    "location": "Peru: Tigre.",
+    "greetings": [{
+        "phrase": "Alichu?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Alimi",
+        "explanation": "reply to Alichu"
+    }, {
+        "phrase": "Ali puncha",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Ali chishi",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Ali tuta",
+        "explanation": "nighttime greeting"
+    }]
+}, {
+    "name": "Quechua, Yauyos",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qux",
+    "location": "Peru: Huancavelica.",
+    "greetings": [{
+        "phrase": "Rimallasayki",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Saludallasayki",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Buynus diyas",
+        "explanation": "morning greeting (from Spanish)"
+    }, {
+        "phrase": "Buynas tardis",
+        "explanation": "afternoon greeting (from Spanish)"
+    }, {
+        "phrase": "Buynas nuchis",
+        "explanation": "nighttime greeting (from Spanish)"
+    }, {
+        "phrase": "Imamish kayanki?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Quichua, Calderón Highland",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qud",
+    "location": "Ecuador: Pichincha, Quito, Calderón, and Cayambe.",
+    "greetings": [{
+        "phrase": "Alli punlla",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Alli chishi",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Alli tuta",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Allilachu gangui?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Ari, allilami gani",
+        "explanation": "reply to Allilachu gangui"
+    }, {
+        "phrase": "Imanallataj gangui?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Imanalla gangui?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Imanalla?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Allilami gani",
+        "explanation": "reply to Imanallataj gangui, Imanalla gangui, and Imanalla"
+    }, {
+        "phrase": "Shamupashun",
+        "explanation": "greeting spoken by a visitor"
+    }, {
+        "phrase": "Shamupaichij",
+        "explanation": "reply to Shamupashun"
+    }]
+}, {
+    "name": "Quichua, Cañar",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qxr",
+    "location": "Ecuador.",
+    "greetings": [{
+        "phrase": "Alli punzha",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Allillachu cangui?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Allimari cangui?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Quichua, Chimborazo",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qug",
+    "location": "Ecuador.",
+    "greetings": [{
+        "phrase": "Alli puncha",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Alli chishi",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Alli tuta",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Imanalla?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Allillachu cangui?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Allillachu canguichij?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Allillami cani",
+        "explanation": "reply to Imanalla, Allillachu cangui and Allillachu canguichij"
+    }, {
+        "phrase": "Ari, allillami cani",
+        "explanation": "reply to Allillachu cangui and Allillachu canguichij"
+    }, {
+        "phrase": "Aris, allillami cani",
+        "explanation": "reply to Allillachu cangui and Allillachu canguichij in the Colta dialect"
+    }, {
+        "phrase": "Alli shamushca",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Alli shamushca capai",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Alli shamushca capaichi",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Quichua, Imbabura",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qvi",
+    "location": "Ecuador: Otavalo.",
+    "greetings": [{
+        "phrase": "Alli punlla",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Alli chishi",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Alli tuta",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Kawsanguichu?",
+        "explanation": "how are you? spoken to one person"
+    }, {
+        "phrase": "Kawsanimi",
+        "explanation": "reply to Kawsanguichu"
+    }, {
+        "phrase": "Kawsanguichichu?",
+        "explanation": "how are you? spoken to a group of people"
+    }, {
+        "phrase": "Kawsanchimi",
+        "explanation": "reply to Kawsanguichichu"
+    }, {
+        "phrase": "Imanalla?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Alilla",
+        "explanation": "reply to Imanalla"
+    }, {
+        "phrase": "Sumak",
+        "explanation": "reply to Imanalla"
+    }, {
+        "phrase": "Alli shamushka kapaychik",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Shamupay",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Quichua, Loja Highland",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qvj",
+    "location": "Ecuador: Tambopamba.",
+    "greetings": [{
+        "phrase": "Alli puncha",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Alli tutamanta",
+        "explanation": "early morning greeting"
+    }, {
+        "phrase": "Alli pakari",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Alli chishi",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Alli tuta",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Kawsankichu?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Kawsanimi",
+        "explanation": "reply to Kawsankichu"
+    }, {
+        "phrase": "Imanalla?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Alli",
+        "explanation": "reply to Imanalla"
+    }, {
+        "phrase": "Allilla",
+        "explanation": "reply to Imanalla"
+    }, {
+        "phrase": "Allillachu kanki?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Imapash tiyanchu?",
+        "explanation": "how are you? \"what's new\""
+    }, {
+        "phrase": "Alli shamushka",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Quichua, Northern Pastaza",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qvz",
+    "location": "Ecuador.",
+    "greetings": [{
+        "phrase": "Shamuhuni",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Alli punlla",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Pasiac shamui",
+        "explanation": "greeting spoken to a visitor"
+    }, {
+        "phrase": "Alichu?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Alimi",
+        "explanation": "reply to Alichu"
+    }, {
+        "phrase": "Imasataungui?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Alillamauni",
+        "explanation": "reply to Imasataungui"
+    }, {
+        "phrase": "Causaunguichu?",
+        "explanation": "how are you? used when speaking to a person you haven't seen for a while"
+    }, {
+        "phrase": "Indá, causaunimi",
+        "explanation": "reply to Causaunguichu"
+    }]
+}, {
+    "name": "Quichua, Salasaca",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qxl",
+    "location": "Ecuador.",
+    "greetings": [{
+        "phrase": "Alli punlla",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Alli chishi",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Alli tuta",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Is dias",
+        "explanation": "morning greeting (from Spanish)"
+    }, {
+        "phrase": "Is tardi",
+        "explanation": "afternoon greeting (from Spanish)"
+    }, {
+        "phrase": "Is nuchi",
+        "explanation": "nighttime greeting (from Spanish)"
+    }, {
+        "phrase": "Imanalla?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Allillami kani",
+        "explanation": "reply to Imanalla"
+    }, {
+        "phrase": "Allillami kapani",
+        "explanation": "reply to Imanalla"
+    }, {
+        "phrase": "Allillachu kangui?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Ari, allillami kani",
+        "explanation": "reply to Allillachu kangui"
+    }]
+}, {
+    "name": "Quichua, Santiago del Estero",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qus",
+    "location": "Argentina.",
+    "greetings": [{
+        "phrase": "Imayna purinki?",
+        "explanation": "how are you? spoken to one person"
+    }, {
+        "phrase": "Noqa sumaj purini",
+        "explanation": "reply to Imayna purinki"
+    }, {
+        "phrase": "Imayna tianki?",
+        "explanation": "how are you? spoken to one person"
+    }, {
+        "phrase": "Noqa sumaj tiani",
+        "explanation": "reply to Imayna tianki"
+    }, {
+        "phrase": "Imayna risunki?",
+        "explanation": "how are you? spoken to one person"
+    }, {
+        "phrase": "Imayna purinkichis?",
+        "explanation": "how are you? spoken to a group of people"
+    }, {
+        "phrase": "Imayna tiankichis?",
+        "explanation": "how are you? spoken to a group of people"
+    }, {
+        "phrase": "Imayna paqarinki?",
+        "explanation": "how are you? spoken in the morning"
+    }, {
+        "phrase": "Noqa sumaj pakarini",
+        "explanation": "reply to Imayna paqarinki"
+    }, {
+        "phrase": "Imayna chisianki?",
+        "explanation": "how are you? spoken in the afternoon"
+    }, {
+        "phrase": "Noqa sumaj chisiani",
+        "explanation": "reply to Imayna chisianki"
+    }, {
+        "phrase": "Allilla",
+        "explanation": "reply to Imayna purinki, Imayna tianki, Imayna paqarinki, and Imaynka chisianki"
+    }, {
+        "phrase": "Allillata",
+        "explanation": "reply to Imayna purinki, Imayna tianki, Imayna paqarinki, and Imaynka chisianki"
+    }, {
+        "phrase": "Sumajta",
+        "explanation": "reply to Imayna purinki, Imayna tianki, Imayna paqarinki, and Imaynka chisianki"
+    }]
+}, {
+    "name": "Quichua, Tena",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=quw",
+    "location": "Ecuador.",
+    "greetings": [{
+        "phrase": "Alli puncha",
+        "explanation": "general daytime greeting"
+    }, {
+        "phrase": "Alli chishi",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Alli tuta",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Shamunguichu",
+        "explanation": "greeting spoken to a person arriving"
+    }, {
+        "phrase": "Ari, shamuni",
+        "explanation": "reply to Shamunguichu"
+    }, {
+        "phrase": "Kawsanguichu?",
+        "explanation": "how are you? spoken to one person"
+    }, {
+        "phrase": "Ari, kawsanimi",
+        "explanation": "reply to Kawsanguichu"
+    }, {
+        "phrase": "Kawsanimi",
+        "explanation": "reply to Kawsanguichu"
+    }, {
+        "phrase": "Kawsanguichichu?",
+        "explanation": "how are you? spoken to a group"
+    }, {
+        "phrase": "Kawsanchimi",
+        "explanation": "reply to Kawsanguichuchu"
+    }, {
+        "phrase": "Allillachu angui?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Imasnara angui?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Allillami ani",
+        "explanation": "reply to Allillachu angui and Imasnara agui"
+    }, {
+        "phrase": "Maymandara shamungui?",
+        "explanation": "where have you come from?"
+    }]
+}, {
+    "name": "Quileute",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qui",
+    "location": "United States of America: Washington.",
+    "greetings": [{
+        "phrase": "Hí’cha kwá",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Li’àtskal ’axw",
+        "explanation": "general greeting spoken to one person"
+    }, {
+        "phrase": "Li’àtskal ’axwól xabá",
+        "explanation": "general greeting spoken to a group"
+    }, {
+        "phrase": "Haćh chi'í",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Haćh t'ochóķtiya",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Haćh awí",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Ayásocha?",
+        "explanation": "how are you? spoken to a man"
+    }, {
+        "phrase": "Ayásochid?",
+        "explanation": "how are you? spoken to a woman"
+    }, {
+        "phrase": "Ayásocha xaxíktiya?",
+        "explanation": "how are you? spoken to a man"
+    }, {
+        "phrase": "Ayásochid xaxíktiya?",
+        "explanation": "how are you? spoken to a woman"
+    }, {
+        "phrase": "Haćhli ho",
+        "explanation": "reply to Ayásocha, Ayásochid. Ayásocha xaxíktiya and Ayásochid xaxíktiya"
+    }]
+}, {
+    "name": "Quinault",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=qun",
+    "location": "United States of America: Washington.",
+    "greetings": [{
+        "phrase": "Oonugwito",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Jennifer's Language Pages",
+        "explanation": ""
+    }, {
+        "phrase": "Greetings in more than 3000 languages To find a specific language, click on the first letter of the language's name. [A] [B] [C] [D] [E] [F] [G] [H] [I] [J] [K] [L] [M] [N] [O] [P] [Q] [R] [S] [T] [U] [V] [W] [X] [Y] [Z] Site Navigation Jennifer's Language Page home Greetings in more than 3000 languages Articles about greetings and translation Other phrases in many languages Frequently Asked Questions (FAQ) Purpose of this Site Copyright Information What's New Send comments, additions, or corrections for this page to Jennifer Runner URL for this site: http://users.elite.net/runner/jennifers/",
+        "explanation": ""
+    }, {
+        "phrase": "© 1995 - 2017 Jennifer Runner. All rights reserved. Last updated on October 7, 2017. Click here for copyright information.",
+        "explanation": ""
+    }]
+}]

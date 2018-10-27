@@ -1,0 +1,1860 @@
+[{
+    "name": "Fá D'ambu",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=fab",
+    "location": "Equatorial Guinea: Annobón Island",
+    "greetings": [{
+        "phrase": "Bondja-o",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Fagauvea",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=uve",
+    "location": "New Caledonia: Ouvea Atoll.",
+    "greetings": [{
+        "phrase": "Alofa",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Italofa",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Alofa atu",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "E pea?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Malo te ma'uli",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Malo te kataki",
+        "explanation": "afternoon greeting"
+    }]
+}, {
+    "name": "Faiwol",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=fai",
+    "location": "Papua New Guinea: Tabubil District, Western Province.",
+    "greetings": [{
+        "phrase": "Akalbab",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Akalawal",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Kiwta ken tein bidiwe?",
+        "explanation": "how are you? in the morning"
+    }, {
+        "phrase": "Ken kuw tein budawe?",
+        "explanation": "how are you? in the evening"
+    }]
+}, {
+    "name": "Fala",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=fax",
+    "location": "Spain: Val de Xalima, Val du Riu Ellas, Valverdi du Fresnu, As Ellas, and Sa Martín de Trebellu.",
+    "greetings": [{
+        "phrase": "Bo día",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Boa noiti",
+        "explanation": "nighttime greeting"
+    }]
+}, {
+    "name": "Fali, North",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=fll",
+    "location": "Cameroon: North Region.",
+    "greetings": [{
+        "phrase": "Mũkũynbęlę",
+        "explanation": "morning greeting in the Bori-Peské dialect [fll-bve]"
+    }, {
+        "phrase": "Mokbwaksyę",
+        "explanation": "evening greeting in the Bori-Peské dialect [fll-bve]"
+    }, {
+        "phrase": "Haykumá",
+        "explanation": "morning greeting in the Peské dialect [fll-bve]"
+    }, {
+        "phrase": "Hayboksumá",
+        "explanation": "evening greeting in the Peské dialect [fll-bve]"
+    }, {
+        "phrase": "Omboksigęy",
+        "explanation": "evening greeting in the Banayo dialect"
+    }]
+}, {
+    "name": "Fali, South",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=fal",
+    "location": "Cameroon: North Region.",
+    "greetings": [{
+        "phrase": "Use",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Mukuyẽy",
+        "explanation": "morning greeting in the Tinguelin dialect of Sonayo and Gouluongo [fal-fal]"
+    }, {
+        "phrase": "Mõkõyay",
+        "explanation": "morning greeting in the Tinguelin dialect of Yarmi [fal-fal]"
+    }, {
+        "phrase": "Mũkũyęy",
+        "explanation": "morning greeting in the Toro and Ram dialects [fal-fal]"
+    }, {
+        "phrase": "Mũkũyẹ",
+        "explanation": "morning greeting in the Bele dialect [fal-bel]"
+    }, {
+        "phrase": "Mokõyẹ",
+        "explanation": "morning greeting in the Bela dialect [fal-bel]"
+    }, {
+        "phrase": "Bọlatámõy",
+        "explanation": "morning greeting in the Kangou dialect [fal-kan]"
+    }, {
+        "phrase": "Boksęy",
+        "explanation": "evening greeting in the Tinguelin dialect of Gouluongo [fal-fal]"
+    }, {
+        "phrase": "Koyboksuma",
+        "explanation": "evening greeting in the Tinguelin dialect of Yarmi [fal-fal]"
+    }, {
+        "phrase": "Mukbabsę",
+        "explanation": "evening greeting in the Tinguelin diaelct of Sonayo [fal-fal]"
+    }, {
+        "phrase": "Mukbaksigęy",
+        "explanation": "evening greeting in the Ram dialect [fal-fal]"
+    }, {
+        "phrase": "Mokbwaksigę",
+        "explanation": "evening greeting in the Bele dialect [fal-bel]"
+    }, {
+        "phrase": "Mokbosïęy",
+        "explanation": "evening greeting in the Toro dialect [fal-fal]"
+    }, {
+        "phrase": "Ombaksęmbolę",
+        "explanation": "evening greeting in the Bela dialect [fal-bel]"
+    }, {
+        "phrase": "Unbagęmbaray",
+        "explanation": "evening greeting in the Kangou dialect [fal-kan]"
+    }]
+}, {
+    "name": "Fang",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=fan",
+    "location": "Gabon. Equatorial Guinea.",
+    "greetings": [{
+        "phrase": "Mbolo",
+        "explanation": "general greeting spoken to one person"
+    }, {
+        "phrase": "Mbolani",
+        "explanation": "general greeting spoken to a group of people"
+    }, {
+        "phrase": "Ambolo",
+        "explanation": "reply to Mbolo and Mbolani"
+    }, {
+        "phrase": "Ambolani",
+        "explanation": "reply to Mbolani"
+    }, {
+        "phrase": "Mbamba mos",
+        "explanation": "general daytime greeting"
+    }, {
+        "phrase": "Massome wa",
+        "explanation": "general daytime greeting"
+    }, {
+        "phrase": "Mave we mbolo",
+        "explanation": "general greeting, \"I greet you\""
+    }, {
+        "phrase": "Mbamba mos",
+        "explanation": "general daytime greeting"
+    }, {
+        "phrase": "Mbamba kiri",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Mbamba nguegue",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Mbamba alu",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Wa ne mvé",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Mé ne mvé",
+        "explanation": "reply to Wa ne mvé"
+    }, {
+        "phrase": "Sah",
+        "explanation": "greeting used by one woman to another woman in rural areas of Equatorial Guinea"
+    }, {
+        "phrase": "Messoang",
+        "explanation": "greeting spoken by a person arriving"
+    }, {
+        "phrase": "Mbeba mesô",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Fante",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=fat",
+    "location": "Ghana.",
+    "greetings": [{
+        "phrase": "Maakye",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Mema wo akye",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Mema hom akye",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Maaha",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Mema wo aha",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Mema wo adwe",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Mema hom dwa",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "ɛte sɛn?",
+        "explanation": "how are things?"
+    }, {
+        "phrase": "Wo ho tse dɛn?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Wo ho ta den?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Mo ho yie",
+        "explanation": "reply to Wo ho ta den"
+    }, {
+        "phrase": "Mo ho yie, me da aase",
+        "explanation": "reply to Wo ho ta den"
+    }, {
+        "phrase": "Ɔtse den?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Bɔkɔɔ",
+        "explanation": "reply to Ɔtse den, ɛte sɛn and Wo ho ta den"
+    }, {
+        "phrase": "Wo honam mu ɛ?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "W'apɔw mu ɛ?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Agoo",
+        "explanation": "greeting spoken at a house, \"is anyone there?\""
+    }, {
+        "phrase": "Amee",
+        "explanation": "reply to Agoo"
+    }, {
+        "phrase": "Akwaaba",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Akɔaba",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Yaa egya",
+        "explanation": "reply spoken to an older man"
+    }, {
+        "phrase": "Yaa ewura",
+        "explanation": "reply spoken to an older man"
+    }, {
+        "phrase": "Yaa ɛna",
+        "explanation": "reply spoken to an older woman"
+    }, {
+        "phrase": "Yaa nua",
+        "explanation": "reply spoken to a person of the same age as the speaker"
+    }, {
+        "phrase": "Yaa ba",
+        "explanation": "reply spoken by an adult to a child"
+    }]
+}, {
+    "name": "Farefare",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gur",
+    "location": "Ghana. Burkina Faso.",
+    "greetings": [{
+        "phrase": "Fàrá",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Fàrá fàrá",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Záarε",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Ya bulika",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Bulika",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Bulika bulika",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Wυntεεŋa",
+        "explanation": "midday greeting"
+    }, {
+        "phrase": "Wʋntɛŋ",
+        "explanation": "daytime greeting in the Nabdam dialect [gur-nab]"
+    }, {
+        "phrase": "Zaanõorε",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Zaayõorε",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Ěhěe",
+        "explanation": "reply to Bulika, Wυntεεŋ, Zaanõorε, and Zaayõorε"
+    }, {
+        "phrase": "Naa",
+        "explanation": "reply to Bulika, Wυntεεŋ, Zaanõorε, and Zaayõorε"
+    }, {
+        "phrase": "Túuma",
+        "explanation": "greeting spoken to a person working"
+    }, {
+        "phrase": "Túuma túuma",
+        "explanation": "greeting spoken to a person working"
+    }, {
+        "phrase": "Nàabà",
+        "explanation": "reply to greetings"
+    }, {
+        "phrase": "La'anı ŋwani?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "La'an",
+        "explanation": "reply to La'anı ŋwani"
+    }, {
+        "phrase": "La'an som",
+        "explanation": "reply to La'anı ŋwani"
+    }, {
+        "phrase": "La'ayela?",
+        "explanation": "how are you? spoken in the Nabdam dialect [gur-nab]"
+    }, {
+        "phrase": "La'an soma",
+        "explanation": "reply to La'ayela spoken in the Nabdam dialect [gur-nab]"
+    }, {
+        "phrase": "Ya poore",
+        "explanation": "greeting spoken at a house"
+    }, {
+        "phrase": "Ya zaarɛ",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Ya zãnnɛ",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Zãnnɛ",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Faroese",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=fao",
+    "location": "Denmark: Faroe Islands.",
+    "greetings": [{
+        "phrase": "Góðan dagin",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Góðan dag",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Góðan morgun",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Gott kvøld",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Góða nátt",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Hallo",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Hey",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Hvussu gongur?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Hvussu gongur tað?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Tað gongur væl",
+        "explanation": "reply to Hvussu gongur and Hvussu gongur tað"
+    }, {
+        "phrase": "Mær gongst væl",
+        "explanation": "reply to Hvussu gongur and Hvussu gongur tað"
+    }, {
+        "phrase": "Gott, takk",
+        "explanation": "reply to Hvussu gongur and Hvussu gongur tað"
+    }, {
+        "phrase": "Vælkomin",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Fataluku",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=ddg",
+    "location": "East Timor.",
+    "greetings": [{
+        "phrase": "Ó lai'i",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Laan hainu",
+        "explanation": "greeting spoken to a friend"
+    }, {
+        "phrase": "Naunop irauni",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Bon dia",
+        "explanation": "morning greeting (from Portuguese), sometimes pronounced as pon cia"
+    }, {
+        "phrase": "Vacu hici",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Bo tarde",
+        "explanation": "afternoon greeting (from Portuguese)"
+    }, {
+        "phrase": "Meucia irauni",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Mua koun irauni",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Muna koun irauni",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Bon noit",
+        "explanation": "nighttime greeting (from Portuguese)"
+    }, {
+        "phrase": "Rau ana kapare?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Ana rau rau",
+        "explanation": "reply to Rau ana kapare"
+    }, {
+        "phrase": "A ni cha rau rau",
+        "explanation": "reply to Rau ana kapare"
+    }, {
+        "phrase": "Rau ana?",
+        "explanation": "how are you? (informal)"
+    }, {
+        "phrase": "Enica rau rau?",
+        "explanation": "how are you? (formal)"
+    }]
+}, {
+    "name": "Fayu",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=fau",
+    "location": "Indonesia: Papua.",
+    "greetings": [{
+        "phrase": "Asahaego",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Fe'fe'",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=fmp",
+    "location": "Cameroon.",
+    "greetings": [{
+        "phrase": "Mbə̄ə̄ lɑ́",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Mbə̄",
+        "explanation": "reply to Mbə̄ə̄ lɑ́"
+    }, {
+        "phrase": "Ngɑ̌ cɑ'sì ō lɑ́",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Mbɑ́ mʉ́ ngɑ̌ cɑ'sì ō",
+        "explanation": "reply to Ngɑ̌ cɑ'sì ō lɑ́"
+    }, {
+        "phrase": "Nzǎ léé è?",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Nzǎ lê?",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Yáá lēē zī",
+        "explanation": "reply to Nzǎ lê"
+    }, {
+        "phrase": "Yáá mà lāhā?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Yáá mánnák",
+        "explanation": "reply to Yáá mà lāhā"
+    }, {
+        "phrase": "Ǒ mbèè lɑ́ í?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Ŋh ngɑ̌ mbèè lè",
+        "explanation": "reply to Ǒ mbèè lɑ́ í"
+    }, {
+        "phrase": "Cwè mɑ́ kɑ́ ?",
+        "explanation": "how are you? (\"what's the news?\")"
+    }, {
+        "phrase": "Cwè hwīē, yáá hwīē",
+        "explanation": "reply to Cwè mɑ́ kɑ́ , \"the news is good\""
+    }, {
+        "phrase": "Sɑ̌ mbə̀pə̄'",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Sɑ̌ mbə̀pə̄' mbɑ̌ mɑ̄",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Sɑ̌ mbə̄ə̄",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Nzolé",
+        "explanation": "morning greeting in the Fa' dialect"
+    }, {
+        "phrase": "Ya me làà?",
+        "explanation": "how are you? in the Fa' dialect"
+    }]
+}, {
+    "name": "Fijian",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=fij",
+    "location": "Fiji.",
+    "greetings": [{
+        "phrase": "Bula",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Ni sa bula",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Bula vinaka",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Ni sa bula vinaka",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Drau bula",
+        "explanation": "greeting spoken to two people"
+    }, {
+        "phrase": "Dou bula",
+        "explanation": "greeting spoken to a group of three or more people"
+    }, {
+        "phrase": "Ni bula",
+        "explanation": "formal greeting spoken to a stranger or to a superior"
+    }, {
+        "phrase": "Io",
+        "explanation": "reply to Drau bula, Dou bula, Ni bula, and Ni sa bula"
+    }, {
+        "phrase": "Ia",
+        "explanation": "respectful reply to Drau bula, Dou bula, Ni bula, and Ni sa bula"
+    }, {
+        "phrase": "Yadra",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Ni sa yadra",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Ni sa bogi",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "O sa lako ki vei?",
+        "explanation": "greeting to a person who is going somewhere, literally \"where are you going?\""
+    }, {
+        "phrase": "Bula vina'a",
+        "explanation": "general greeting in the Cakaudrove dialect [fij-nou]"
+    }, {
+        "phrase": "Ni sa bula vina'a",
+        "explanation": "general greeting in the Cakaudrove dialect [fij-nou]"
+    }, {
+        "phrase": "Bula si'a",
+        "explanation": "general greeting in the Labasa dialect [fij-nor]"
+    }, {
+        "phrase": "Bule re",
+        "explanation": "general greeting in the Vanua Levu dialect [fij-wes]"
+    }]
+}, {
+    "name": "Fijian, Western",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=wyy",
+    "location": "Fiji: Nadrogaa, Waya, and Ba Navosa.",
+    "greetings": [{
+        "phrase": "Cola vina",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Cola",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Muju cola vina",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Mata",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "E ke koco?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "E karua?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "He kuca koto?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Tara na cola",
+        "explanation": "general greeting in the Yasawa dialect"
+    }, {
+        "phrase": "Bula sia",
+        "explanation": "general greeting in the Macuata dialect [wyy-nuc]"
+    }]
+}, {
+    "name": "Filipino",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=fil",
+    "location": "Philippines.",
+    "greetings": [{
+        "phrase": "Magandang araw po",
+        "explanation": "formal daytime greeting"
+    }, {
+        "phrase": "Magandang araw",
+        "explanation": "informal daytime greeting"
+    }, {
+        "phrase": "Magandang umaga po",
+        "explanation": "formal morning greeting"
+    }, {
+        "phrase": "Magandang umaga",
+        "explanation": "informal morning greeting"
+    }, {
+        "phrase": "Magandang tanghali po",
+        "explanation": "formal noontime and early afternoon greeting (until 2 pm)"
+    }, {
+        "phrase": "Magandang tanghali",
+        "explanation": "informal noontime and early afternoon greeting (until 2 pm)"
+    }, {
+        "phrase": "Magandang hapon po",
+        "explanation": "formal afternoon and early evening greeting (from about 2 pm until 7 pm)"
+    }, {
+        "phrase": "Magandang hapon",
+        "explanation": "informal afternoon and early evening greeting (from about 2 pm until 7 pm)"
+    }, {
+        "phrase": "Magandang gabi po",
+        "explanation": "formal evening and nighttime greeting (after about 7 pm)"
+    }, {
+        "phrase": "Magandang gabi",
+        "explanation": "informal evening and nighttime greeting (after about 7 pm)"
+    }, {
+        "phrase": "Halo",
+        "explanation": "informal greeting"
+    }, {
+        "phrase": "Kumusta po kayo?",
+        "explanation": "how are you? formal"
+    }, {
+        "phrase": "Mabuti po naman",
+        "explanation": "reply to Kumusta po kayo"
+    }, {
+        "phrase": "Kumusta ka?",
+        "explanation": "how are you? informal"
+    }, {
+        "phrase": "Mabuti naman",
+        "explanation": "reply to Kumusta ka"
+    }, {
+        "phrase": "Mabuhay",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Maligayang pagdating",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Finnish",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=fin",
+    "location": "Finland.",
+    "greetings": [{
+        "phrase": "Terve",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Päivää",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Huomenta",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Iltaa",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Moi",
+        "explanation": "informal greeting"
+    }, {
+        "phrase": "Hei",
+        "explanation": "informal greeting"
+    }, {
+        "phrase": "Moikka",
+        "explanation": "informal greeting"
+    }, {
+        "phrase": "Heippä",
+        "explanation": "informal greeting"
+    }, {
+        "phrase": "Hei hei",
+        "explanation": "informal greeting"
+    }, {
+        "phrase": "Hyvää päivää",
+        "explanation": "formal greeting"
+    }, {
+        "phrase": "Hyvää huomenta",
+        "explanation": "formal morning greeting"
+    }, {
+        "phrase": "Hyvää iltaa",
+        "explanation": "formal evening greeting"
+    }, {
+        "phrase": "Hyvää yötä",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Iltapäivää",
+        "explanation": "afternoon greeting (rarely used)"
+    }, {
+        "phrase": "Hyvää iltapäivää",
+        "explanation": "formal afternoon greeting (rarely used)"
+    }, {
+        "phrase": "Mitä kuuluu?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Kuinka voitte?",
+        "explanation": "how are you? formal"
+    }, {
+        "phrase": "Kuinka voit?",
+        "explanation": "how are you? informal"
+    }, {
+        "phrase": "Hyvää",
+        "explanation": "reply to Mitä kuuluu, Kuinka voitte, and Kuinka voit"
+    }, {
+        "phrase": "Kiitos hyvää",
+        "explanation": "reply to Mitä kuuluu, Kuinka voitte, and Kuinka voit"
+    }, {
+        "phrase": "Miten menee?",
+        "explanation": "how are you? informal"
+    }, {
+        "phrase": "Hyvin",
+        "explanation": "reply to Miten menee"
+    }, {
+        "phrase": "Kiitos, hyvin",
+        "explanation": "reply to Miten menee"
+    }, {
+        "phrase": "Kiitti, hyvin",
+        "explanation": "reply to Miten menee spoken in the Oulu dialect [fin-ham]"
+    }, {
+        "phrase": "Tervetuloa",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Huomentapäiviä",
+        "explanation": "morning greeting spoken in the Lahti dialect [fin-ham]"
+    }, {
+        "phrase": "Huamenta",
+        "explanation": "morning greeting spoken in the Hämeenlinna dialect [fin-ham]"
+    }, {
+        "phrase": "Hyvvää huamenta",
+        "explanation": "formal morning greeting spoken in the Hämeenlinna dialect [fin-ham]"
+    }, {
+        "phrase": "Hyvvää päivää",
+        "explanation": "formal greeting spoken in the Oulu dialect [fin-ham]"
+    }, {
+        "phrase": "Hyvvää huomenta",
+        "explanation": "formal morning greeting spoken in the Oulu dialect [fin-ham]"
+    }, {
+        "phrase": "Hyvvää iltaa",
+        "explanation": "formal evening greeting spoken in the Oulu dialect [fin-ham]"
+    }, {
+        "phrase": "Hyvvää yötä",
+        "explanation": "nighttime greeting spoken in the Oulu dialect [fin-ham]"
+    }, {
+        "phrase": "Moro",
+        "explanation": "informal greeting spoken in the Oulu dialect [fin-ham]"
+    }, {
+        "phrase": "Huomentapäivää",
+        "explanation": "morning greeting spoken in the Tampere dialect [fin-ham]"
+    }, {
+        "phrase": "Huomenet",
+        "explanation": "morning greeting in the Keski-Uusimaa dialect [fin-sou]"
+    }, {
+        "phrase": "Hyvät huomenet",
+        "explanation": "morning greeting in the Keski-Uusimaa dialect [fin-sou]"
+    }, {
+        "phrase": "Huament",
+        "explanation": "morning greeting spoken in the Pori dialect [fin-sou] and Turku dialect [fin-sou]"
+    }, {
+        "phrase": "Hyvvää huament",
+        "explanation": "morning greeting spoken in the Pori dialect [fin-sou]"
+    }, {
+        "phrase": "Huoment",
+        "explanation": "morning greeting in the Salo dialect [fin-sou]"
+    }, {
+        "phrase": "Hyvä huoment",
+        "explanation": "morning greeting in the Salo dialect [fin-sou]"
+    }, {
+        "phrase": "Hyvä huament",
+        "explanation": "morning greeting in the Turku dialect [fin-sou]"
+    }, {
+        "phrase": "Hyvä huamend",
+        "explanation": "morning greeting spoken in the Rauma dialect [fin-sou]"
+    }, {
+        "phrase": "Hyvä päevä",
+        "explanation": "daytime greeting spoken in the Rauma dialect [fin-sou]"
+    }, {
+        "phrase": "Jumal andakko",
+        "explanation": "reply to Hyvä päevä in the Rauma dialect [fin-sou]"
+    }, {
+        "phrase": "Hyvä ehtot",
+        "explanation": "evening greeting spoken in the Rauma dialect [fin-sou]"
+    }, {
+        "phrase": "Hyvä yät",
+        "explanation": "nighttime greeting spoken in the Rauma dialect [fin-sou]"
+    }, {
+        "phrase": "Mitä kuulu?",
+        "explanation": "how are you? spoken in the Rauma dialect [fin-sou]"
+    }, {
+        "phrase": "Mitäs tiädä?",
+        "explanation": "how are you? spoken in the Rauma dialect [fin-sou]"
+    }, {
+        "phrase": "Tervtulo",
+        "explanation": "welcome greeting spoken in the Rauma dialect [fin-sou]"
+    }, {
+        "phrase": "Huament vaa",
+        "explanation": "morning greeting spoken in the Lohja dialect [fin-sou]"
+    }, {
+        "phrase": "Päevee päevee",
+        "explanation": "informal greeting spoken in the Ylä-Savo dialect [fin-sav]"
+    }, {
+        "phrase": "Hyvvee päevee",
+        "explanation": "informal greeting spoken in the Ylä-Savo dialect [fin-sav]"
+    }, {
+        "phrase": "Hyvvee huomenta",
+        "explanation": "informal morning greeting spoken in the Ylä-Savo dialect [fin-sav]"
+    }, {
+        "phrase": "Hyvvee iltoo",
+        "explanation": "informal evening greeting spoken in the Ylä-Savo dialect [fin-sav]"
+    }, {
+        "phrase": "Mitteepä kuulluu?",
+        "explanation": "how are you? spoken in the Ylä-Savo dialect [fin-sav]"
+    }, {
+        "phrase": "Huomentapäevvee",
+        "explanation": "morning greeting spoken in the Kainuu dialect [fin-sav]"
+    }]
+}, {
+    "name": "Finnish, Kven",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=fkv",
+    "location": "Norway.",
+    "greetings": [{
+        "phrase": "Päivää",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Päivää, päivää",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Päivä, päivä",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Hyvvää päivää",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Hyvvää aamuu",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Aamuu",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Moro",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Hyvvää ilttaa",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Ilttaa",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Kunka se mennee?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Kuinka se mennee?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Se mennee hyvin",
+        "explanation": "reply to Kunka se mennee and Kuinka se mennee"
+    }, {
+        "phrase": "Hyvin se mennee",
+        "explanation": "reply to Kunka se mennee and Kuinka se mennee"
+    }, {
+        "phrase": "Tervettulemaa",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Finnish, Tornedalen",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=fit",
+    "location": "Finland and Sweden.",
+    "greetings": [{
+        "phrase": "Päivää",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Päivää, päivää",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Hyvä päivää",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Moron",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Moron, moron",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Hyvä huomenta",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Hyvä aamua",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Aamua",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Hyvä iltaa",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Hyvä yötä",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Hyvä vyötä",
+        "explanation": "nighttime greeting"
+    }]
+}, {
+    "name": "Fipa",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=fip",
+    "location": "Tanzania: Lake Tanganyika.",
+    "greetings": [{
+        "phrase": "Posuta",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Mwakata",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Tataitu kalesa",
+        "explanation": "reply to Mwakata"
+    }, {
+        "phrase": "Vabora",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Randu gunsita",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Folopa",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=ppo",
+    "location": "Papua New Guinea: Gulf Province",
+    "greetings": [{
+        "phrase": "Koneo",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Koleo",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Yᶏ mópaae fué?",
+        "explanation": "where are you going?"
+    }, {
+        "phrase": "Yᶏ maae fué?",
+        "explanation": "where are you going?"
+    }, {
+        "phrase": "Yᶏ mópaae fié?",
+        "explanation": "where are you coming from?"
+    }, {
+        "phrase": "Yᶏ maae fié?",
+        "explanation": "where are you coming from?"
+    }]
+}, {
+    "name": "Foi",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=foi",
+    "location": "Papua New Guinea: South Highlands Province",
+    "greetings": [{
+        "phrase": "Ka'oni wesi'aj",
+        "explanation": "morning greeting"
+    }]
+}, {
+    "name": "Fon",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=fon",
+    "location": "Benin and Togo.",
+    "greetings": [{
+        "phrase": "Kudo",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Oku",
+        "explanation": "reply to Kudo"
+    }, {
+        "phrase": "A fon a",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "A fon gandjia",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Ein mfon gandjia",
+        "explanation": "reply to A fon a and A fon gandjia"
+    }, {
+        "phrase": "A fon bia",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Ein mfon bi",
+        "explanation": "reply to A fon bia"
+    }, {
+        "phrase": "A fon dagbe a",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Ein mfon gba de",
+        "explanation": "reply to A fon dagbe a"
+    }, {
+        "phrase": "Dagbe, okudeu",
+        "explanation": "reply to A fon dagbe a"
+    }, {
+        "phrase": "Ado a",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Adogandjia",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Adobia",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Adodagbea",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Kudo zan zan",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Kudo hweme",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Kudo gbada",
+        "explanation": "evening greeting spoken to one person"
+    }, {
+        "phrase": "Mi kudo gbada",
+        "explanation": "evening greeting spoken to a group"
+    }, {
+        "phrase": "Kudo zo",
+        "explanation": "greeting spoken to a person who is working"
+    }, {
+        "phrase": "A do gangi á?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "A do yi yi we á?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Een, un do gangi",
+        "explanation": "reply to A do gangi á and A do yi yi we á"
+    }, {
+        "phrase": "A do dagbe á?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Een, un do dagbe",
+        "explanation": "reply to A do dagbe á"
+    }, {
+        "phrase": "A do fin e á?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Een, un do fi",
+        "explanation": "reply to A do fin e á"
+    }, {
+        "phrase": "A de u wa?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Een, un de u",
+        "explanation": "reply to A de u wa"
+    }, {
+        "phrase": "Kwabo",
+        "explanation": "welcome greeting spoken to one person"
+    }, {
+        "phrase": "Mi kwabo",
+        "explanation": "welcome greeting spoken to a group"
+    }, {
+        "phrase": "Oooo",
+        "explanation": "reply to Kwabo"
+    }, {
+        "phrase": "Azan yi aton",
+        "explanation": "greeting used after a long absence"
+    }, {
+        "phrase": "Dokpo je ji",
+        "explanation": "reply to Azan yi aton"
+    }]
+}, {
+    "name": "Fordata",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=frd",
+    "location": "Indonesia: Maluku.",
+    "greetings": [{
+        "phrase": "Tabe",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Fore",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=for",
+    "location": "Papua New Guinea: Okapa District.",
+    "greetings": [{
+        "phrase": "Kagíé",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Kwarìgíné",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Ábayawé",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Atamáiné",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Ásekané",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Ásekwané",
+        "explanation": "evening greeting"
+    }]
+}, {
+    "name": "Frankish",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=frk",
+    "location": "Germany.",
+    "greetings": [{
+        "phrase": "Grüß Godd",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Griß Godd",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "'s Godd",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Servus",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Gummorgn",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Gundooch",
+        "explanation": "daytime greeting"
+    }, {
+        "phrase": "Gunnohmd",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Guddnachd",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Wäi gäids Ihner?",
+        "explanation": "how are you? formal"
+    }, {
+        "phrase": "Wäi gäids dern?",
+        "explanation": "how are you? informal"
+    }, {
+        "phrase": "Wäi gäids?",
+        "explanation": "how are you? informal"
+    }]
+}, {
+    "name": "French",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=fra",
+    "location": "France. Canada: Quebec. Various other countries in Europe and Africa.",
+    "greetings": [{
+        "phrase": "Bonjour",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Bonsoir",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Salut",
+        "explanation": "informal greeting"
+    }, {
+        "phrase": "Bon après-midi",
+        "explanation": "afternoon greeting (rarely used)"
+    }, {
+        "phrase": "Comment allez-vous?",
+        "explanation": "how are you? formal"
+    }, {
+        "phrase": "Comment vas-tu?",
+        "explanation": "how are you? informal"
+    }, {
+        "phrase": "Très bien, merci",
+        "explanation": "reply to Comment allez-vous and Comment vas-tu"
+    }, {
+        "phrase": "Comment ça va?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Ça va?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Ça va bien",
+        "explanation": "reply to Comment ça va and Ça va"
+    }, {
+        "phrase": "Bienvenue",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Bon matin",
+        "explanation": "morning greeting spoken in Québec (rarely used) [fra-que]"
+    }, {
+        "phrase": "Bonjôr",
+        "explanation": "general greeting in the Bourguignon-Morvandiau dialect [fra-bor]"
+    }, {
+        "phrase": "Salutâs",
+        "explanation": "general greeting in the Bourguignon-Morvandiau dialect [fra-bor]"
+    }, {
+        "phrase": "Bonjórn",
+        "explanation": "morning greeting in the Gallo dialect [fra-gal]"
+    }, {
+        "phrase": "Bonseir",
+        "explanation": "evening greeting in the Gallo dialect [fra-gal]"
+    }, {
+        "phrase": "Comant q'c'est?",
+        "explanation": "how are you? in the Gallo dialect [fra-gal]"
+    }, {
+        "phrase": "Warro",
+        "explanation": "general greeting in the Guernésiais dialect [fra-dge]"
+    }, {
+        "phrase": "Boujou",
+        "explanation": "general greeting in the Cauchois dialect [fra-nor]"
+    }, {
+        "phrase": "Beajhor",
+        "explanation": "general greeting in the Poitevin-Saintongeais dialect [fra-poi]"
+    }, {
+        "phrase": "Bunjhor",
+        "explanation": "general greeting in the Poitevin-Saintongeais dialect [fra-poi]"
+    }, {
+        "phrase": "Bunjhour",
+        "explanation": "general greeting in the Poitevin-Saintongeais dialect [fra-poi]"
+    }, {
+        "phrase": "Bonadié",
+        "explanation": "general greeting in the Poitevin-Saintongeais dialect [fra-poi]"
+    }, {
+        "phrase": "Warro",
+        "explanation": "general greeting in the Normand dialect [fra-nor]"
+    }, {
+        "phrase": "Byinvenûn",
+        "explanation": "welcome greeting in the Normand dialect [fra-nor]"
+    }, {
+        "phrase": "Bonjô",
+        "explanation": "morning greeting in the Vosgien dialect [fra-lor]"
+    }, {
+        "phrase": "Bonsouère",
+        "explanation": "afternoon greeting in the Vosgien dialect [fra-lor]"
+    }]
+}, {
+    "name": "French Creole, Saint Lucian",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=acf",
+    "location": "Saint Lucia, British West Indies, Trinidad and Tobago.",
+    "greetings": [{
+        "phrase": "Bonjou",
+        "explanation": "general greeting in the Dominican dialect"
+    }, {
+        "phrase": "Bon maten",
+        "explanation": "morning greeting in the Dominican dialect"
+    }, {
+        "phrase": "Bonaswè",
+        "explanation": "evening greeting in the Dominican dialect"
+    }, {
+        "phrase": "Bõzu",
+        "explanation": "general greeting in the Saint Lucian dialect"
+    }, {
+        "phrase": "Bon apwèmidi",
+        "explanation": "afternoon greeting in the Saint Lucian dialect"
+    }, {
+        "phrase": "Bõswè",
+        "explanation": "evening greeting in the Saint Lucian dialect"
+    }, {
+        "phrase": "Bonjou",
+        "explanation": "general greeting in the Trinidad dialect"
+    }, {
+        "phrase": "Bon maten",
+        "explanation": "morning greeting in the Trinidad dialect"
+    }, {
+        "phrase": "Bon lapwèmidi",
+        "explanation": "afternoon greeting in the Trinidad dialect"
+    }, {
+        "phrase": "Bonswè",
+        "explanation": "evening greeting in the Trinidad dialect"
+    }, {
+        "phrase": "S'aw fè?",
+        "explanation": "how are you? in the Trinidad dialect"
+    }, {
+        "phrase": "Mwen-la",
+        "explanation": "reply to S'aw fè"
+    }, {
+        "phrase": "Mwen byen",
+        "explanation": "reply to S'aw fè"
+    }, {
+        "phrase": "Bon suá",
+        "explanation": "evening greeting in the Venezuelan dialect"
+    }, {
+        "phrase": "Cum u yé?",
+        "explanation": "how are you? in the Venezuelan dialect"
+    }, {
+        "phrase": "Cuma u yé?",
+        "explanation": "how are you? in the Venezuelan dialect"
+    }, {
+        "phrase": "Cum u ka santi?",
+        "explanation": "how are you? in the Venezuelan dialect"
+    }, {
+        "phrase": "Mue bien meci",
+        "explanation": "reply to Cum u yé, Cuma u yé, and Cum u ka santi"
+    }, {
+        "phrase": "Mue bien",
+        "explanation": "reply to Cum u yé, Cuma u yé, and Cum u ka santi"
+    }]
+}, {
+    "name": "French, Middle",
+    "url": "http://multitree.org/codes/frm",
+    "location": "northern and central France and Belgium: 15th through 17th centuries.",
+    "greetings": [{
+        "phrase": "Bon jour",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Dieu vous doint bon jour",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Dieu vous dalve",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Bonne nuit",
+        "explanation": "nighttime greeting"
+    }]
+}, {
+    "name": "French, Old",
+    "url": "http://multitree.org/codes/fro.html",
+    "location": "northern and central France and Belgium: 10th through 15th centuries.",
+    "greetings": [{
+        "phrase": "Bon jour",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Le bon jour ayez",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Je vous donne le bon jour",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Le bon jour vous soyt donné",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Bon vêpre",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Je vous donne le bon vêpre",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Bon soir",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Je vous donne le bon soir",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Bonne nuyt",
+        "explanation": "nighttime greeting"
+    }]
+}, {
+    "name": "Frisian, Northern",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=frr",
+    "location": "Germany: Schleswig-Holstein.",
+    "greetings": [{
+        "phrase": "God dai",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Moin",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Gud maaren",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "God iinj",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Hü gungt de dåt?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Me gungt et gödj",
+        "explanation": "reply to Hü gungt de dåt"
+    }, {
+        "phrase": "Gudai",
+        "explanation": "general greeting in the Ferring dialect [frr-fer]"
+    }, {
+        "phrase": "Gud nocht",
+        "explanation": "nighttime greeting in the Ferring dialect [frr-fer]"
+    }, {
+        "phrase": "Gundach",
+        "explanation": "general greeting in the Mooringer Frasch dialect [frr-moo]"
+    }, {
+        "phrase": "Gou nåcht",
+        "explanation": "nighttime greeting in the Mooringer Frasch dialect [frr-moo]"
+    }, {
+        "phrase": "Wäljkiimen",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Frisian, Western",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=fry",
+    "location": "Netherlands.",
+    "greetings": [{
+        "phrase": "Hagoeie",
+        "explanation": "general greeting in the Westerlauwers dialect [fry-wes]"
+    }, {
+        "phrase": "Agoeje",
+        "explanation": "general greeting in the Westerlauwers dialect [fry-wes]"
+    }, {
+        "phrase": "No goei",
+        "explanation": "general greeting in the Westerlauwers dialect [fry-wes]"
+    }, {
+        "phrase": "Goeie",
+        "explanation": "general greeting in the Westerlauwers dialect [fry-wes]"
+    }, {
+        "phrase": "Goedei",
+        "explanation": "general greeting in the Westerlauwers dialect [fry-wes]"
+    }, {
+        "phrase": "Moarn",
+        "explanation": "morning greeting in the Westerlauwers dialect [fry-wes]"
+    }, {
+        "phrase": "Goemoarn",
+        "explanation": "morning greeting in the Westerlauwers dialect [fry-wes]"
+    }, {
+        "phrase": "Middei",
+        "explanation": "afternoon greeting in the Westerlauwers dialect [fry-wes]"
+    }, {
+        "phrase": "Goemiddei",
+        "explanation": "afternoon greeting in the Westerlauwers dialect [fry-wes]"
+    }, {
+        "phrase": "Goejûn",
+        "explanation": "evening greeting in the Westerlauwers dialect [fry-wes]"
+    }, {
+        "phrase": "Gújen dei",
+        "explanation": "general greeting in the Skiermûntseagersk dialect"
+    }, {
+        "phrase": "Gúje mône",
+        "explanation": "morning greeting in the Skiermûntseagersk dialect"
+    }, {
+        "phrase": "Gúje midde",
+        "explanation": "afternoon greeting in the Skiermûntseagersk dialect"
+    }, {
+        "phrase": "Gújen jaun",
+        "explanation": "evening greeting in the Skiermûntseagersk dialect"
+    }, {
+        "phrase": "Harree",
+        "explanation": "general greeting in the Snekers dialect"
+    }, {
+        "phrase": "Nou wet zee juu?",
+        "explanation": "how are you? in the Volendams dialect"
+    }, {
+        "phrase": "Hoe giet it mei jo?",
+        "explanation": "how are you? formal"
+    }, {
+        "phrase": "Hoe giet it mei dy?",
+        "explanation": "how are you? informal"
+    }, {
+        "phrase": "It is goed mei my",
+        "explanation": "reply to Hoe giet it mei jo and Hoe giet it mei dy"
+    }, {
+        "phrase": "Hoe gjit it?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Hoe is 't mei jo?",
+        "explanation": "how are you? formal"
+    }, {
+        "phrase": "Hoe is 't mei dy?",
+        "explanation": "how are you? informal"
+    }, {
+        "phrase": "Wolkom",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Friulian",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=fur",
+    "location": "Italy: Friuli-Venezia-Giulia.",
+    "greetings": [{
+        "phrase": "Mandì",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Bundì",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Buinesère",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Buinegnot",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Cemût di te?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Cemût stajal?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Cemût stastu?",
+        "explanation": "how are you?, informal"
+    }, {
+        "phrase": "Alore cemût?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Alore?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Ben",
+        "explanation": "reply to Cemût di te, Alore cemût, and Alore"
+    }, {
+        "phrase": "O stoi ben",
+        "explanation": "reply to Cemût di te, Alore cemût, and Alore"
+    }, {
+        "phrase": "O stoi ben, graciis",
+        "explanation": "reply to Cemût di te, Alore cemût, and Alore"
+    }, {
+        "phrase": "Benvignût",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Agradît",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Fulfulde, Adamawa",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=fub",
+    "location": "Cameroon. Chad. Nigeria. Sudan",
+    "greetings": [{
+        "phrase": "Use",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Use maa",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Use maa'da",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Useko",
+        "explanation": "reply to Use, Use maa, and Use maa'da"
+    }, {
+        "phrase": "Sannu",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Sannu maa",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Sannu maa'da",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Yawwa",
+        "explanation": "reply to Sannu, Sannu maa, and Sannue maa'da"
+    }, {
+        "phrase": "Salaamu aleykum",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Aleyka salaamu",
+        "explanation": "reply to Salaamu aleykum"
+    }, {
+        "phrase": "A wari naa?",
+        "explanation": "greeting to a visitor, \"have you arrived?\""
+    }, {
+        "phrase": "Mi wari",
+        "explanation": "reply to A wari naa"
+    }, {
+        "phrase": "A wari jam?",
+        "explanation": "greeting to a visitor, \"have you arrived well?\""
+    }, {
+        "phrase": "A waali jam?",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "A nyalli jam?",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "A hirti jam?",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Jam",
+        "explanation": "reply to A waali jam, A nyalli jam, and A hirti jam"
+    }, {
+        "phrase": "Jam koo'dume",
+        "explanation": "reply to A waali jam, A nyalli jam, and A hirti jam"
+    }, {
+        "phrase": "Sannu e warugo",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Use e warugo",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Maadalla",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Ja'b'baama",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Ja'b'baama poy",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Mi ja'bi",
+        "explanation": "reply to Ja'b'baama and Ja'b'baama poy"
+    }]
+}, {
+    "name": "Fulfulde, Central Eastern Niger",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=fuq",
+    "location": "Niger.",
+    "greetings": [{
+        "phrase": "Foma",
+        "explanation": "general greeting spoken to one person"
+    }, {
+        "phrase": "Foma, foma",
+        "explanation": "general greeting spoken to one person"
+    }, {
+        "phrase": "Fomon",
+        "explanation": "general greeting spoken to a group"
+    }, {
+        "phrase": "Engido",
+        "explanation": "reply to Foma and Fomon"
+    }, {
+        "phrase": "A walli jam?",
+        "explanation": "morning greeting spoken to one person"
+    }, {
+        "phrase": "On balli jam?",
+        "explanation": "morning greeting spoken to a group"
+    }, {
+        "phrase": "A nyalli jam?",
+        "explanation": "afternoon greeting spoken to one person"
+    }, {
+        "phrase": "On nyalli jam?",
+        "explanation": "afternoon greeting spoken to a group"
+    }, {
+        "phrase": "A hiri jam?",
+        "explanation": "evening greeting spoken to one person"
+    }, {
+        "phrase": "On hiri jam?",
+        "explanation": "evening greeting spoken to a group"
+    }, {
+        "phrase": "A jamo?",
+        "explanation": "how are you? spoken to one person"
+    }, {
+        "phrase": "On yambe?",
+        "explanation": "how are you? spoken to a group"
+    }, {
+        "phrase": "Jam pelem",
+        "explanation": "reply to A walli jam, A nyalli jam, A hiri jam, ,and A jamo"
+    }]
+}, {
+    "name": "Fulfulde, Maasina",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=ffm",
+    "location": "Mali. Ghana.",
+    "greetings": [{
+        "phrase": "Jam waali",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "On baali e jam",
+        "explanation": "general greeting spoken to a group"
+    }, {
+        "phrase": "Sa'di",
+        "explanation": "informal greeting"
+    }, {
+        "phrase": "A hisii",
+        "explanation": "reply to Sa'di"
+    }, {
+        "phrase": "Jam fini",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "On fini e jam",
+        "explanation": "morning greeting spoken to a group"
+    }, {
+        "phrase": "Jam weeti",
+        "explanation": "late morning and early afternoon greeting"
+    }, {
+        "phrase": "Jam nyalli",
+        "explanation": "afternoon and evening greeting"
+    }, {
+        "phrase": "On nyalli e jam",
+        "explanation": "afternoon and evening greeting spoken to a group"
+    }, {
+        "phrase": "Jam hiiri",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "On hiirii e jam",
+        "explanation": "evening greeting spoken to a group"
+    }, {
+        "phrase": "Jam tan",
+        "explanation": "reply to Jam waali, Jam fini, Jam weeti, Jam nyalli, and Jam hiiri"
+    }, {
+        "phrase": "Kori a waalii e jam?",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Kori jam waalii e maa",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Kori a finii e jam?",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Kori jam finiie maa",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Kori a weetii e jam?",
+        "explanation": "late morning and early afternoon greeting"
+    }, {
+        "phrase": "Kori a nyaali e jam?",
+        "explanation": "afternoon and evening greeting"
+    }, {
+        "phrase": "Kori a hiiri e jam?",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "No nga'dtaa?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Jam tan",
+        "explanation": "reply to Kori a waalii e jam, Kori jam waalii e maa, Kori e finii e jam, & No nga'dtaa"
+    }, {
+        "phrase": "Sago men tan",
+        "explanation": "reply to Kori a waalii e jam, Kori jam waalii e maa, Kori e finii e jam, &No nga'dtaa"
+    }, {
+        "phrase": "Bisimillah",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Sai",
+        "explanation": "reply to Bisimillah"
+    }, {
+        "phrase": "Sah",
+        "explanation": "reply to Bisimillah"
+    }]
+}, {
+    "name": "Fulfulde, Western Niger",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=fuh",
+    "location": "Niger. Benin. Burkina Faso.",
+    "greetings": [{
+        "phrase": "Jam waali",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Jam weeti",
+        "explanation": "late morning and early afternoon greeting"
+    }, {
+        "phrase": "Jam ñalli",
+        "explanation": "afternoon and evening greeting"
+    }, {
+        "phrase": "Jam hiiri",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Jam tan",
+        "explanation": "reply to Jam waali, Jam weeti, Jam ñalli, and Jam hiiri"
+    }, {
+        "phrase": "Jam waali e mon",
+        "explanation": "morning greeting spoken to a group"
+    }, {
+        "phrase": "Jam weeti e mon",
+        "explanation": "late morning and early afternoon greeting spoken to a group"
+    }, {
+        "phrase": "Jam ñalli e mon",
+        "explanation": "afternoon and evening greeting spoken to a group"
+    }, {
+        "phrase": "Jam hiiri e mon",
+        "explanation": "nighttime greeting spoken to a group"
+    }]
+}, {
+    "name": "Fur",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=fvr",
+    "location": "Sudan: Darfur. Chad.",
+    "greetings": [{
+        "phrase": "Aafɛ la jɔna?",
+        "explanation": "morning greeting spoken to one person, \"have you slept well?\""
+    }, {
+        "phrase": "Aafɛ la bɔna?",
+        "explanation": "morning greeting spoken to a group, \"have you slept well?\""
+    }, {
+        "phrase": "Aafɛ konɛ",
+        "explanation": "reply to Aafɛ la jɔna and Aafɛ la bɔna"
+    }, {
+        "phrase": "Aafɛ la koa",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Aafɛ la konu",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Ki aafɛ la jɛla?",
+        "explanation": "greeting to a person arriving, \"have you come in peace?\""
+    }, {
+        "phrase": "Ki aafɛ la bɛla?",
+        "explanation": "greeting to a group of people arriving, \"have you come in peace?\""
+    }]
+}, {
+    "name": "Futuna",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=fud",
+    "location": "New Caledonia: Futuna Island.",
+    "greetings": [{
+        "phrase": "Alofa",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Mālō",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Mālō le ma'uli",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Mālō le kataki",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "E malie fa'i?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "E malie",
+        "explanation": "reply to E malie fa'i"
+    }, {
+        "phrase": "E ke malie fa'i?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Malie",
+        "explanation": "reply to E ke malie fa'i"
+    }, {
+        "phrase": "Lo e kau malie fa'i",
+        "explanation": "reply to E ke malie fa'i"
+    }]
+}, {
+    "name": "Futuna Aniwa",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=fut",
+    "location": "Vanuatu: Futuna and Aniwa Islands.",
+    "greetings": [{
+        "phrase": "Alofa",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Jinisa",
+        "explanation": "greeting spoken to one person"
+    }, {
+        "phrase": "Jinesa",
+        "explanation": "greeting spoken to one person"
+    }, {
+        "phrase": "Rinisa",
+        "explanation": "greeting spoken to two people"
+    }, {
+        "phrase": "Rinesa",
+        "explanation": "greeting spoken to two people"
+    }, {
+        "phrase": "Jikanisa",
+        "explanation": "greeting spoken to a group of three people"
+    }, {
+        "phrase": "Jikanesa",
+        "explanation": "greeting spoken to a group of three people"
+    }, {
+        "phrase": "Jikanesa kokautau",
+        "explanation": "greeting spoken to a group of three people"
+    }, {
+        "phrase": "Niganisa",
+        "explanation": "greeting spoken to a group of four or more people"
+    }, {
+        "phrase": "Niganesa",
+        "explanation": "greeting spoken to a group of four or more people"
+    }, {
+        "phrase": "E rufie ta po",
+        "explanation": "general daytime greeting"
+    }, {
+        "phrase": "Rufie ta hpo",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "E rufie taotea",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Rakomai",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Fuyug",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=fuy",
+    "location": "Papua New Guinea: Central Province.",
+    "greetings": [{
+        "phrase": "Nu odel gadi?",
+        "explanation": "general greeting, \"where are you going?\""
+    }, {
+        "phrase": "Ifana?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Moning",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Aftanun",
+        "explanation": "afternoon greeting"
+    }]
+}, {
+    "name": "Fwâi",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=fwa",
+    "location": "New Caledonia: North Province.",
+    "greetings": [{
+        "phrase": "Bosu",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Hobee?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Fwe",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=fwe",
+    "location": "Namibia: East Caprivi.",
+    "greetings": [{
+        "phrase": "Mavoka",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Malisala",
+        "explanation": "afternoon greeting"
+    }]
+}]

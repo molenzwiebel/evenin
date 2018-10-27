@@ -1,0 +1,1800 @@
+[{
+    "name": "Rabha",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rah",
+    "location": "India.",
+    "greetings": [{
+        "phrase": "Oi",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Sri rasoŋ",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Nem phuŋ",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Nem phar",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Nasi riba",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Rade",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rad",
+    "location": "Vietnam: Đắc Lắc, Phú Yên, Khánh Hòa.",
+    "greetings": [{
+        "phrase": "Kkuh kơ ih",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Aguah jăk",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Aguah jăk mơak",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Hrue jăk",
+        "explanation": "midday greeting"
+    }, {
+        "phrase": "Hrue jăk mơak",
+        "explanation": "midday greeting"
+    }, {
+        "phrase": "Mlam jăk",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Suaih mơ̆?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Suaih asei mlei mơh?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Kâo suaih mơh",
+        "explanation": "reply to Suaih mơ̆ and Suaih asei mlei mơh"
+    }, {
+        "phrase": "Kâo suaih mơh, mni lač jăk",
+        "explanation": "reply to Suaih mơ̆ and Suaih asei mlei mơh"
+    }, {
+        "phrase": "Ni nga hiam drơi jan mơ̆n hă?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Raji",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rji",
+    "location": "Nepal: Bheri, Seti, and Mahakali zones.",
+    "greetings": [{
+        "phrase": "Nik cikunɛ?",
+        "explanation": "are you alright?"
+    }, {
+        "phrase": "Bhatt kɛjani?",
+        "explanation": "have you eaten?"
+    }, {
+        "phrase": "Nəŋ guhã pi rəkɛ?",
+        "explanation": "where are you going?"
+    }]
+}, {
+    "name": "Rakahanga-Manihiki",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rkh",
+    "location": "Cook Islands and New Zealand.",
+    "greetings": [{
+        "phrase": "Aloha",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Kia orana",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Rakhine",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rki",
+    "location": "Myanmar: Arakan Province.",
+    "greetings": [{
+        "phrase": "Assolamu aleikom",
+        "explanation": "Muslim greeting"
+    }, {
+        "phrase": "Nay kaung pha laa?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Rama",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rma",
+    "location": "Nicaragua: Rama Cay.",
+    "greetings": [{
+        "phrase": "Maliika tamaaski",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Maliika tabula",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Niika bii?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Maliika naakri",
+        "explanation": "reply to Niika bii"
+    }, {
+        "phrase": "Naas maliika aakri",
+        "explanation": "reply to Niika bii"
+    }, {
+        "phrase": "Bitar naakri",
+        "explanation": "reply to Niika bii"
+    }, {
+        "phrase": "Maliis nisuungi maa siiku",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Ramoaaina",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rai",
+    "location": "Papua New Guinea: East New Britain Province.",
+    "greetings": [{
+        "phrase": "Wah",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Koina mage",
+        "explanation": "general daytime greeting"
+    }, {
+        "phrase": "Koina malaana",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Koina kabot",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Koina bung",
+        "explanation": "midday greeting"
+    }, {
+        "phrase": "Koina lirap",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Koina marum",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Le",
+        "explanation": "greeting spoken to a friend"
+    }, {
+        "phrase": "Un waan uwaai?",
+        "explanation": "where are you going?"
+    }, {
+        "phrase": "Lelawaai u laangalaanga ku?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Ranglong",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rnl",
+    "location": "India: Assam, Mizoram, and Tripura.",
+    "greetings": [{
+        "phrase": "Chibai",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Rapa",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=ray",
+    "location": "French Polynesia: Rapa Iti and Austral Islands.",
+    "greetings": [{
+        "phrase": "Iorana",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Aronga",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "E a’a tō-koe huru?",
+        "explanation": "how are you? spoken to one person"
+    }, {
+        "phrase": "E a’a tō-koutou huru?",
+        "explanation": "how are you? spoken to a group"
+    }, {
+        "phrase": "Haere na koe i 'ea?",
+        "explanation": "where are you going? spoken to one person"
+    }, {
+        "phrase": "Haere na koutou i 'ea?",
+        "explanation": "where are you going? spoken to a group"
+    }]
+}, {
+    "name": "Rapa Nui",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rap",
+    "location": "Chile: Easter Island.",
+    "greetings": [{
+        "phrase": "'Iorana koe",
+        "explanation": "general greeting spoken to one person"
+    }, {
+        "phrase": "'Iorana korua",
+        "explanation": "general greeting spoken to a group"
+    }, {
+        "phrase": "Pehe koe?",
+        "explanation": "how are you? spoken to one person"
+    }, {
+        "phrase": "Pehe korua?",
+        "explanation": "how are you? spoken to a group of people"
+    }, {
+        "phrase": "Riva riva",
+        "explanation": "reply to Pehe koe and Pehe korua"
+    }, {
+        "phrase": "Riva au",
+        "explanation": "reply to Pehe koe and Pehe korua"
+    }, {
+        "phrase": "Aroha",
+        "explanation": "informal greeting"
+    }, {
+        "phrase": "Otoroka",
+        "explanation": "older greeting which is no longer used"
+    }]
+}, {
+    "name": "Rawang",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=raw",
+    "location": "Myanmar: Kachin State. India: Arunachal Pradesh.",
+    "greetings": [{
+        "phrase": "Pàmvrà",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Shvngbe sv̀ng pàmvrà",
+        "explanation": "greeting spoken to a group, \"I greet all of you\""
+    }]
+}, {
+    "name": "Rejang",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rej",
+    "location": "Indonesia: Sumatra.",
+    "greetings": [{
+        "phrase": "Hoi",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Uii",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Jano kabar?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Jano kabar ne kuat?",
+        "explanation": "how are you? spoken to man"
+    }, {
+        "phrase": "Jano kabar udi deu yo?",
+        "explanation": "how are you? spoken to a group"
+    }]
+}, {
+    "name": "Rempi",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rmp",
+    "location": "Papua New Guinea: Madang Province.",
+    "greetings": [{
+        "phrase": "Haluq naliq",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Agmag naliq",
+        "explanation": "midday greeting"
+    }, {
+        "phrase": "Tuag naliq",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Taro naliq",
+        "explanation": "nighttime greeting"
+    }]
+}, {
+    "name": "Rendille",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rel",
+    "location": "Kenya: Eastern Province.",
+    "greetings": [{
+        "phrase": "Nebeyeoncaaden",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Nebeybariteen",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Aa nebeyaa?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Nebey",
+        "explanation": "reply to Aa nebeyaa, Nebeybariteen and Nebeyeoncaaden"
+    }]
+}, {
+    "name": "Rennell-Bellona",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=mnv",
+    "location": "Solomon Islands: Mungava and Mungiki Islands.",
+    "greetings": [{
+        "phrase": "Gaoi",
+        "explanation": "general greeting in the Mungava dialect [mnv-gun]"
+    }, {
+        "phrase": "E gaoi te taha'ata",
+        "explanation": "morning greeting in the Mungava dialect [mnv-gun]"
+    }, {
+        "phrase": "Gaoi te mahoata ne",
+        "explanation": "morning greeting in the Mungava dialect [mnv-gun]"
+    }, {
+        "phrase": "Gaoi te poo",
+        "explanation": "nighttime greeting in the Mungava dialect [mnv-gun]"
+    }, {
+        "phrase": "Ei gaoi?",
+        "explanation": "how are you? in the Mungava dialect [mnv-gun]"
+    }, {
+        "phrase": "Ei gaoi",
+        "explanation": "reply to Ei gaoi in the Mungava dialect [mnv-gun]"
+    }, {
+        "phrase": "Huai gaoi",
+        "explanation": "welcome greeting in the Mungava dialect [mnv-gun]"
+    }, {
+        "phrase": "Huai gaoi kia te koutou katoa",
+        "explanation": "welcome greeting in the Mungava dialect [mnv-gun]"
+    }, {
+        "phrase": "Gaoi kia te koutou",
+        "explanation": "welcome greeting in the Mungava dialect [mnv-gun]"
+    }, {
+        "phrase": "Ngaoi",
+        "explanation": "general greeting in the Mungiki dialect [mnv-mun]"
+    }, {
+        "phrase": "Huai ngaoi",
+        "explanation": "welcome greeting in the Mungiki dialect [mnv-mun]"
+    }, {
+        "phrase": "Huai ngaoi kia koutou",
+        "explanation": "welcome greeting in the Mungiki dialect [mnv-mun]"
+    }, {
+        "phrase": "Ngaoi kia te koutou",
+        "explanation": "welcome greeting in the Mungiki dialect [mnv-mun]"
+    }, {
+        "phrase": "Ngaoi kia te koutou katoa",
+        "explanation": "welcome greeting in the Mungiki dialect [mnv-mun]"
+    }, {
+        "phrase": "'Ai a'u ki te manaha nei",
+        "explanation": "welcome greeting at a house in the Mungiki dialect [mnv-mun]"
+    }]
+}, {
+    "name": "Reshe",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=res",
+    "location": "Nigeria.",
+    "greetings": [{
+        "phrase": "Kai",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Bǝrabihɔ",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Resígaro",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rgr",
+    "location": "Peru: northeastern region.",
+    "greetings": [{
+        "phrase": "Hidéheehú",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Kadžunupukaə",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Homedžinŏfĕ",
+        "explanation": "evening greeting"
+    }]
+}, {
+    "name": "Réunion Creole",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rcf",
+    "location": "Réunion.",
+    "greetings": [{
+        "phrase": "Oté",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Comen i lé?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Reyesano",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rey",
+    "location": "Bolivia: Beni Department.",
+    "greetings": [{
+        "phrase": "Daime trhine",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Daime miacuineya",
+        "explanation": "welcome greeting spoken to one person"
+    }, {
+        "phrase": "Daime micacuineya",
+        "explanation": "welcome greeting spoken to a group of people"
+    }]
+}, {
+    "name": "Rikbaktsa",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rkb",
+    "location": "Brazil: Mato Grosso.",
+    "greetings": [{
+        "phrase": "Amy bo sa tsimy?",
+        "explanation": "general greeting, literally \"what are you doing?\""
+    }, {
+        "phrase": "Hãna bo sa tsimy?",
+        "explanation": "general greeting, literally \"where are you going?\""
+    }, {
+        "phrase": "Hãna bo sa tsiky?",
+        "explanation": "general greeting, literally \"where are you going?\""
+    }, {
+        "phrase": "Tsipiksi sa?",
+        "explanation": "greeting to a person traveling, literally \"are you going home?\""
+    }, {
+        "phrase": "Piksi",
+        "explanation": "reply to Tsipiksi sa spoken by a person who is going home, \"yes, I'm going home\""
+    }, {
+        "phrase": "Amo?",
+        "explanation": "welcome greeting spoken to a vistior"
+    }, {
+        "phrase": "Mahani",
+        "explanation": "reply to Amo"
+    }]
+}, {
+    "name": "Ririo",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rri",
+    "location": "Solomon Islands: Choiseul Island.",
+    "greetings": [{
+        "phrase": "Chichipa",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Sanöe",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Soso chichipa",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Sorsork dio'o",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Kikina'a rere chichipa",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Kuse chichipa",
+        "explanation": "nighttime greeting"
+    }]
+}, {
+    "name": "Ritarungo",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rit",
+    "location": "Australia: Eastern Arnhem Land.",
+    "greetings": [{
+        "phrase": "Yo manymak wäwa",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Nhämirri nhe?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Manymak",
+        "explanation": "reply to Nhämirri nhe"
+    }]
+}, {
+    "name": "Rohingya",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rhg",
+    "location": "Myanmar: Rakhine state. Bangladesh: Cox's Bazaar district",
+    "greetings": [{
+        "phrase": "Assolámu aláikum",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Keén aso?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Tuñí keén aso?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Bala asi",
+        "explanation": "reply to Tuñí keén aso and Keén aso"
+    }, {
+        "phrase": "Tuáñre barái luwazar",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Romagnol",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=RGN",
+    "location": "Italy.",
+    "greetings": [{
+        "phrase": "Bonzòrni",
+        "explanation": "morning greeting in the Sammarinese dialect [rng-sou]"
+    }, {
+        "phrase": "A si 'rivet",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Romani, Balkan",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rmn",
+    "location": "Bulgaria. Serbia. Hungary. Ukraine.",
+    "greetings": [{
+        "phrase": "Lačho o dive",
+        "explanation": "daytime greeting in the Arli dialect [rmn-arl]"
+    }, {
+        "phrase": "Lačho dive",
+        "explanation": "daytime greeting in the Arli and Dolenjski dialects [rmn-arl]"
+    }, {
+        "phrase": "Lačhi o sabalje",
+        "explanation": "morning greeting in the Arli diaelct [rmn-arl]"
+    }, {
+        "phrase": "Lačho sabalje",
+        "explanation": "morning greeting in the Arli dialect [rmn-arl]"
+    }, {
+        "phrase": "Lačhi i rat",
+        "explanation": "nighttime greeting in the Arli dialect [rmn-arl]"
+    }, {
+        "phrase": "Lačhi rat",
+        "explanation": "nighttime greeting in the Arli dialect [rmn-arl]"
+    }, {
+        "phrase": "Lačho to zies",
+        "explanation": "daytime greeting spoken in the Bugurdži dialect"
+    }, {
+        "phrase": "Lačho zies",
+        "explanation": "daytime greeting spoken in the Bugurdži dialect"
+    }, {
+        "phrase": "Lačho ti avin",
+        "explanation": "morning greeting spoken in the Bugurdži dialect"
+    }, {
+        "phrase": "Lačho to sabahi",
+        "explanation": "morning greeting spoken in the Bugurdži dialect"
+    }, {
+        "phrase": "Lačho sabahi",
+        "explanation": "morning greeting spoken in the Bugurdži dialect"
+    }, {
+        "phrase": "Lačhi ti rat",
+        "explanation": "nighttime greeting spoken in the Bugurdži dialect"
+    }, {
+        "phrase": "Lačhi rat",
+        "explanation": "nighttime greeting spoken in the Bugurdži dialect"
+    }, {
+        "phrase": "Lačho di",
+        "explanation": "daytime greeting in the Hungarian Vend and Vershend dialects"
+    }, {
+        "phrase": "T'aves baxtalo",
+        "explanation": "general greeting spoken in the Lovari dialect"
+    }, {
+        "phrase": "T'aves baxtali",
+        "explanation": "general greeting spoken in the Lovari dialect"
+    }, {
+        "phrase": "O Del andas tut",
+        "explanation": "formal greeting spoken in the Lovari dialect"
+    }, {
+        "phrase": "Laši detehara",
+        "explanation": "morning greeting spoken in the Lovari dialect"
+    }, {
+        "phrase": "Lašo dyes",
+        "explanation": "afternoon greeting spoken in the Lovari dialect"
+    }, {
+        "phrase": "Laši ratyi",
+        "explanation": "nighttime greeting spoken in the Lovari dialect"
+    }, {
+        "phrase": "Sar san?",
+        "explanation": "how are you? spoken in the Lovari dialect"
+    }, {
+        "phrase": "So si tusa?",
+        "explanation": "how are you? spoken in the Lovari dialect"
+    }, {
+        "phrase": "Sar žal tuke?",
+        "explanation": "how are you? spoken in the Lovari dialect"
+    }, {
+        "phrase": "Mange žal mišto",
+        "explanation": "reply to Sar žal tuke in the Lovari dialect"
+    }, {
+        "phrase": "Najis tuke, mange žal mišto",
+        "explanation": "reply to Sar žal tuke in the Lovari dialect"
+    }, {
+        "phrase": "Lačho dives",
+        "explanation": "daytime greeting in the Sepechides dialect"
+    }, {
+        "phrase": "Bahtali ti avin",
+        "explanation": "general greeting spoken in the Sliven dialect"
+    }, {
+        "phrase": "Lačší tí yavin",
+        "explanation": "general greeting spoken in the Sofia Erle dialect"
+    }, {
+        "phrase": "Lačší tí rat",
+        "explanation": "evening greeting spoken in the Sofia Erle dialect"
+    }, {
+        "phrase": "Lačho d'es",
+        "explanation": "daytime greeting spoken in the Ursari dialect"
+    }, {
+        "phrase": "Te aven baxtale",
+        "explanation": "general greeting spoken in the Xoraxane dialect"
+    }, {
+        "phrase": "Latčo sabaj",
+        "explanation": "morning greeting spoken in the Xoraxane dialect"
+    }, {
+        "phrase": "Sukar sabaj",
+        "explanation": "morning greeting spoken in the Xoraxane dialect"
+    }, {
+        "phrase": "Latčo mismeri",
+        "explanation": "afternoon greeting spoken in the Xoraxane dialect"
+    }, {
+        "phrase": "Sukar mismeri",
+        "explanation": "afternoon greeting spoken in the Xoraxane dialect"
+    }, {
+        "phrase": "Lokhi ti rat",
+        "explanation": "nighttime greeting spoken in the Xoraxane dialect"
+    }, {
+        "phrase": "Sar sijan?",
+        "explanation": "how are you? spoken in the Xoraxane dialect"
+    }, {
+        "phrase": "Sar san?",
+        "explanation": "how are you? spoken in the Xoraxane dialect"
+    }, {
+        "phrase": "Sel′ám al′éjkim",
+        "explanation": "general greeting in the Crimean dialect"
+    }, {
+        "phrase": "Al′éjkim sel′ám",
+        "explanation": "reply to Sel′ám al′éjkim in the Crimean dialect"
+    }, {
+        "phrase": "Sel′ám",
+        "explanation": "general greeting in the Crimean dialect"
+    }, {
+        "phrase": "Sabaxaíruson",
+        "explanation": "morning greeting in the Crimean dialect"
+    }, {
+        "phrase": "Akšamxaíruson",
+        "explanation": "evening greeting in the Crimean dialect"
+    }, {
+        "phrase": "Sar san?",
+        "explanation": "how are you? in the Crimean dialect"
+    }, {
+        "phrase": "Lačhí som",
+        "explanation": "reply to Sar san in the Crimean dialect"
+    }]
+}, {
+    "name": "Romani, Baltic",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rml",
+    "location": "Poland. Latvia. Lithuania. Ukraine.",
+    "greetings": [{
+        "phrase": "Lačho dives",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Lačhò diives",
+        "explanation": "general greeting in the Latvian dialect"
+    }, {
+        "phrase": "Lačho dîvês",
+        "explanation": "general greeting in the Lithuanian dialect"
+    }, {
+        "phrase": "Lačjo dîvês",
+        "explanation": "general greeting in the North Russian dialect"
+    }, {
+        "phrase": "Sar so tu?",
+        "explanation": "how are you? in the Latvian dialect"
+    }]
+}, {
+    "name": "Romani, Carpathian",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rmc",
+    "location": "Czech Republic: Prague. Slovakia.",
+    "greetings": [{
+        "phrase": "Lačho džives",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "O lačho džives",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Lačho dives",
+        "explanation": "general greeting in the Slovak dialect"
+    }, {
+        "phrase": "Servus",
+        "explanation": "informal greeting"
+    }, {
+        "phrase": "Lačh rat",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Sar san?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Sar sal?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Sar džives?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Mišto",
+        "explanation": "reply to Sar san and Sar džives"
+    }, {
+        "phrase": "Lačhes",
+        "explanation": "reply to Sar san and Sar džives"
+    }, {
+        "phrase": "Lačhes, pal'ikerav",
+        "explanation": "reply to Sar san and Sar džives"
+    }, {
+        "phrase": "Šukar",
+        "explanation": "reply to Sar san and Sar džives"
+    }, {
+        "phrase": "Barvales",
+        "explanation": "reply to Sar san and Sar džives"
+    }, {
+        "phrase": "Mišto avilan",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Romani, Kalo Finnish",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rmf",
+    "location": "Finland and Sweden.",
+    "greetings": [{
+        "phrase": "Latšo diives",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Tsihko diives",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Deevel mo del",
+        "explanation": "reply to Tsihko diives"
+    }, {
+        "phrase": "Tsihko saara",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Tsihko kvella",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Tsihko rat",
+        "explanation": "evening and nighttime greeting"
+    }]
+}, {
+    "name": "Romani, Sinte",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rmo",
+    "location": "Serbia, Germany, and Austria.",
+    "greetings": [{
+        "phrase": "Sastimos",
+        "explanation": "general greeting spoken in the standardized Romanes dialect"
+    }, {
+        "phrase": "Sastipé",
+        "explanation": "general greeting spoken in the standardized Romanes dialect"
+    }, {
+        "phrase": "Yov sasti",
+        "explanation": "general greeting spoken in the standardized Romanes dialect"
+    }, {
+        "phrase": "Lacho dives",
+        "explanation": "general greeting spoken in the standardized Romanes dialect"
+    }, {
+        "phrase": "Lachi detharin",
+        "explanation": "morning greeting spoken in the standardized Romanes dialect"
+    }, {
+        "phrase": "Lachi rat",
+        "explanation": "evening greeting spoken in the standardized Romanes dialect"
+    }, {
+        "phrase": "Latscho ratschaha",
+        "explanation": "morning greeting spoken in the Austrian dialect"
+    }, {
+        "phrase": "Latscho di",
+        "explanation": "afternoon greeting spoken in the Austrian dialect"
+    }, {
+        "phrase": "Del tuha",
+        "explanation": "general greeting spoken to one person spoken in the Austrian dialect"
+    }, {
+        "phrase": "Del tuménca",
+        "explanation": "general greeting spoken to a group of people spoken in the Austrian dialect"
+    }, {
+        "phrase": "Sar dschal?",
+        "explanation": "how are you? spoken in the Austrian dialect"
+    }, {
+        "phrase": "Sar tuke dschal?",
+        "explanation": "how are you? spoken to one person spoken in the Austrian dialect"
+    }, {
+        "phrase": "Sar tuménge dschal?",
+        "explanation": "how are you? spoken to a group of people spoken in the Austrian dialect"
+    }, {
+        "phrase": "Mange latsche dschal",
+        "explanation": "reply to Sar dschal, Sar tuke dschal, and Sar tuménge dschal"
+    }, {
+        "phrase": "Palikerav latsche",
+        "explanation": "reply to Sar dschal, Sar tuke dschal, and Sar tuménge dschal"
+    }, {
+        "phrase": "Latši díves",
+        "explanation": "general greeting in the Rhine dialect"
+    }, {
+        "phrase": "Har dšál tuke?",
+        "explanation": "how are you? in the Rhine dialect"
+    }, {
+        "phrase": "Lačho di",
+        "explanation": "general greeting in the Burgenland dialect"
+    }, {
+        "phrase": "Sar dzál tuke?",
+        "explanation": "how are you? in the Burgenland dialect"
+    }, {
+        "phrase": "Sar tuke dzál?",
+        "explanation": "how are you? in the Burgenland dialect"
+    }, {
+        "phrase": "Lačo",
+        "explanation": "reply to Sar dzál tuke and Sar tuke dzál in the Burgenland dialect"
+    }, {
+        "phrase": "Mange lačo",
+        "explanation": "reply to Sar dzál tuke and Sar tuke dzál in the Burgenland dialect"
+    }, {
+        "phrase": "Palikeraf, mange lačo",
+        "explanation": "reply to Sar dzál tuke and Sar tuke dzál in the Burgenland dialect"
+    }]
+}, {
+    "name": "Romani, Tavringer",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rmu",
+    "location": "Sweden. Norway.",
+    "greetings": [{
+        "phrase": "Lattjo dives",
+        "explanation": "daytime greeting"
+    }, {
+        "phrase": "Lattjo belven",
+        "explanation": "evening greeting"
+    }]
+}, {
+    "name": "Romani, Welsh",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rmw",
+    "location": "United Kingdom: Wales and England.",
+    "greetings": [{
+        "phrase": "Lači 'sařla",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Manša keleri?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Misto vian",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Misto vesa",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Romani, Vlax",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rmy",
+    "location": "Romania, Bosnia and Herzegovina, Russia, and various other countries.",
+    "greetings": [{
+        "phrase": "O lasho des",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Sastimos",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Ej",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Devlesa avilan",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Devlesa araklam tume",
+        "explanation": "reply to Devlesa avilan"
+    }, {
+        "phrase": "Sar trajis?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Mishto",
+        "explanation": "reply to Sar trajis"
+    }, {
+        "phrase": "Shukar",
+        "explanation": "reply to Sar trajis"
+    }, {
+        "phrase": "Barvales",
+        "explanation": "reply to Sar trajis"
+    }, {
+        "phrase": "Mishto avilan",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Te aves baxtalo",
+        "explanation": "general greeting spoken in the Kalderash dialect [rmy-kal]"
+    }, {
+        "phrase": "Te aves baxtaloi",
+        "explanation": "general greeting spoken in the Kalderash dialect [rmy-kal]"
+    }, {
+        "phrase": "So mai keres?",
+        "explanation": "how are you? in the Kalderash dialect spoken to one person [rmy-kal]"
+    }, {
+        "phrase": "So mai keres tu?",
+        "explanation": "how are you? in the Kalderash dialect spoken to one person [rmy-kal]"
+    }, {
+        "phrase": "So mai keren tume?",
+        "explanation": "how are you? in the Kalderash dialect spoken to a group [rmy-kal]"
+    }, {
+        "phrase": "Sar san?",
+        "explanation": "how are you? in the Kalderash dialect of Europe [rmy-kal]"
+    }, {
+        "phrase": "Sar mai san?",
+        "explanation": "how are you? in the Kalderash dialect of North America and Colombia [rmy-kal]"
+    }, {
+        "phrase": "Lashi diminyatsa",
+        "explanation": "morning greeting spoken in the Kalderash dialect [rmy-kal]"
+    }, {
+        "phrase": "Lashi mismeri",
+        "explanation": "afternoon greeting spoken in the Kalderash dialect [rmy-kal]"
+    }, {
+        "phrase": "Mai lashi tiri ryat",
+        "explanation": "nighttime greeting spoken in the Kalderash dialect [rmy-kal]"
+    }, {
+        "phrase": "Лашё дес",
+        "explanation": "lasho des: general greeting spoken in the Kalderash dialect [rmy-kal]"
+    }, {
+        "phrase": "Доброй тут",
+        "explanation": "dobroy tut: general greeting spoken to one person in the Kalderash dialect [rmy-kal]"
+    }, {
+        "phrase": "Доброй ту",
+        "explanation": "dobroy tu: general greeting spoken to one person in the Kalderash dialect [rmy-kal]"
+    }, {
+        "phrase": "Доброй туме",
+        "explanation": "dobroy tume: general greeting spoken to a group in the Kalderash dialect [rmy-kal]"
+    }, {
+        "phrase": "Сар траис ту?",
+        "explanation": "sar trais tu: how are you? spoken in the Kalderash dialect [rmy-kal]"
+    }, {
+        "phrase": "Мишто",
+        "explanation": "mishto: reply to Сар траис ту spoken in the Kalderash dialect [rmy-kal]"
+    }, {
+        "phrase": "Шукар",
+        "explanation": "shukar: reply to Сар траис ту spoken in the Kalderash dialect [rmy-kal]"
+    }, {
+        "phrase": "Барвалэс",
+        "explanation": "barvales: reply to Сар траис ту spoken in the Kalderash dialect [rmy-kal]"
+    }, {
+        "phrase": "Мишто авилян",
+        "explanation": "mishto avilyan: welcome greeting spoken in the Kalderash dialect [rmy-kal]"
+    }, {
+        "phrase": "Лачё дывэс",
+        "explanation": "lacho dives: general greeting spoken in the Moscow dialect [rmy-lov]"
+    }, {
+        "phrase": "Бахталэс",
+        "explanation": "bakhtales general greeting spoken in the Moscow dialect [rmy-lov]"
+    }, {
+        "phrase": "Сыр тэрэ дела?",
+        "explanation": "sir tere dela: how are you? spoken in the Moscow dialect [rmy-lov]"
+    }, {
+        "phrase": "Сыр дживэса?",
+        "explanation": "sir dzhivesa: how are you? spoken in the Moscow dialect [rmy-lov]"
+    }, {
+        "phrase": "Сыр ту дживэса?",
+        "explanation": "sir tu dzhivesa: how are you? spoken in the Moscow dialect [rmy-lov]"
+    }, {
+        "phrase": "Мишто",
+        "explanation": "mishto: reply to Сыр дживэса and Сыр ту дживэса in Moscow dialect [rmy-lov]"
+    }, {
+        "phrase": "Шукар",
+        "explanation": "shukar: reply to Сыр дживэса and Сыр ту дживэса in Moscow dialect [rmy-lov]"
+    }, {
+        "phrase": "Барвалэс",
+        "explanation": "barvales: reply to Сыр дживэса & Сыр ту дживэса in Moscow dialect [rmy-lov]"
+    }, {
+        "phrase": "Мишто йавьян",
+        "explanation": "mishto yavyan: welcome greeting spoken in the Moscow dialect [rmy-lov]"
+    }, {
+        "phrase": "So ćeresh?",
+        "explanation": "how are you? spoken in the Gurbeti dialect [rmy-ser]"
+    }, {
+        "phrase": "So ćereh?",
+        "explanation": "how are you? spoken in the Gurbeti dialect [rmy-ser]"
+    }, {
+        "phrase": "Sar san tu?",
+        "explanation": "how are you? spoken in the Gurbeti dialect [rmy-ser]"
+    }, {
+        "phrase": "Sar san?",
+        "explanation": "how are you? spoken in the Gurbeti dialect [rmy-ser]"
+    }, {
+        "phrase": "Lačhi teharin",
+        "explanation": "morning greeting spoken in the Gurbeti dialect [rmy-ser]"
+    }, {
+        "phrase": "Lačho teharin",
+        "explanation": "morning greeting spoken in the Gurbeti dialect of Bosnia [rmy-ser]"
+    }, {
+        "phrase": "Lačho djive",
+        "explanation": "afternoon greeting spoken in the Gurbeti dialect [rmy-ser]"
+    }, {
+        "phrase": "Lačho đive",
+        "explanation": "afternoon greeting spoken in the Gurbeti dialect of Bosnia [rmy-ser]"
+    }, {
+        "phrase": "Sov lačho",
+        "explanation": "nighttime greeting spoken in the Gurbeti dialect [rmy-ser]"
+    }, {
+        "phrase": "Lačho jrat",
+        "explanation": "nighttime greeting spoken in the Gurbeti dialect [rmy-ser]"
+    }]
+}, {
+    "name": "Romanian",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=ron",
+    "location": "Romania.",
+    "greetings": [{
+        "phrase": "Bună",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Bună ziua",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Bună dimineaţa",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Bună seara",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Salut",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Sărut mâna",
+        "explanation": "polite greeting spoken to an older woman"
+    }, {
+        "phrase": "Ce mai faci?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Ce mai faceţi domnule?",
+        "explanation": "how are you? spoken to a man"
+    }, {
+        "phrase": "Ce mai faceţi doamnă?",
+        "explanation": "how are you? spoken to a woman"
+    }, {
+        "phrase": "Bine",
+        "explanation": "reply to Ce mai faci, Ce mai faceţi domnule, and Ce mai faceţi doamnă"
+    }, {
+        "phrase": "Foarte bine",
+        "explanation": "reply to Ce mai faci, Ce mai faceţi domnule, and Ce mai faceţi doamnă"
+    }, {
+        "phrase": "Servus",
+        "explanation": "general greeting spoken in Transylvania"
+    }, {
+        "phrase": "Bun venit",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Bine aţi venit",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Салут",
+        "explanation": "salut: general greeting in the Moldavian dialect [ron-mol]"
+    }, {
+        "phrase": "Бунэ зиуа",
+        "explanation": "buna ziua: general greeting in the Moldavian dialect [ron-mol]"
+    }, {
+        "phrase": "Бунэ диминеаца",
+        "explanation": "buna dimineatsa: morning greeting in the Moldavian dialect [ron-mol]"
+    }, {
+        "phrase": "Бунэ сеара",
+        "explanation": "buna seara: evening greeting in the Moldavian dialect [ron-mol]"
+    }, {
+        "phrase": "Бине аць венит",
+        "explanation": "bine atsi venit: welcome greeting in the Moldavian dialect [ron-mol]"
+    }]
+}, {
+    "name": "Romanian, Istro",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=ruo",
+    "location": "Croatia: Istrian Peninsula.",
+    "greetings": [{
+        "phrase": "Bura zi",
+        "explanation": "general greeting in the Vlåški-Žejånski dialect"
+    }, {
+        "phrase": "Bura zija",
+        "explanation": "general greeting in the Vlåški-Žejånski dialect"
+    }, {
+        "phrase": "Bura domaręca",
+        "explanation": "morning greeting in the Vlåški-Žejånski dialect"
+    }, {
+        "phrase": "Bura dumareata",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Bura sęrę",
+        "explanation": "evening greeting in the Vlåški-Žejånski dialect"
+    }, {
+        "phrase": "Kum šti?",
+        "explanation": "how are you? in the Vlåški-Žejånski dialect"
+    }, {
+        "phrase": "Kum ste?",
+        "explanation": "how are you? in the Vlåški-Žejånski dialect"
+    }, {
+        "phrase": "Kum âš?",
+        "explanation": "how are you? informal in the Žejånski dialect"
+    }, {
+        "phrase": "Bire, huåla",
+        "explanation": "reply to Kum šti, Kum ste, and Kum âš"
+    }, {
+        "phrase": "Cum ie?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Cum ste?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Cum ie?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Bire",
+        "explanation": "reply to Cum ste and Cum ie"
+    }, {
+        "phrase": "Ćiri biri?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Jo son bire",
+        "explanation": "reply to Cum ste and Cum ie"
+    }, {
+        "phrase": "Bire ac verit",
+        "explanation": "welcome greeting in the Vlåški-Žejånski dialect"
+    }]
+}, {
+    "name": "Romanian, Megleno",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=ruq",
+    "location": "Greece: Kilkis prefecture.",
+    "greetings": [{
+        "phrase": "Ce si faci?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Romano-Serbian",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rsb",
+    "location": "Serbia.",
+    "greetings": [{
+        "phrase": "Sar ma ćereh",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Baxtalo dive",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Romansch",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=roh",
+    "location": "Switzerland.",
+    "greetings": [{
+        "phrase": "Ciao",
+        "explanation": "general greeting spoken in the Engadine [roh-low] and Surmiran [roh-sur] dialects"
+    }, {
+        "phrase": "Tgau",
+        "explanation": "general greeting spoken in the Sursilvan dialect [roh-sul]"
+    }, {
+        "phrase": "Allegra",
+        "explanation": "general greeting spoken in the Engadine dialect [roh-low]"
+    }, {
+        "phrase": "Alligra",
+        "explanation": "general greeting spoken in the Engadine dialect [roh-low]"
+    }, {
+        "phrase": "Bun di",
+        "explanation": "morning greeting spoken in the Low Engadine and Puter dialects [roh-low]"
+    }, {
+        "phrase": "Bun de",
+        "explanation": "morning greeting spoken in the Surmiran dialect [roh-sur]"
+    }, {
+        "phrase": "Bien di",
+        "explanation": "morning greeting spoken in the Sursilvan dialect [roh-sul]"
+    }, {
+        "phrase": "Bien gi",
+        "explanation": "morning greeting spoken in the Sursilvan dialect [roh-sul]"
+    }, {
+        "phrase": "Bùn gi",
+        "explanation": "morning greeting spoken in the Sutsilvan dialect [roh-sul]"
+    }, {
+        "phrase": "Buna saira",
+        "explanation": "afternoon and evening greeting spoken in the Engadine and Puter dialects [roh-low]"
+    }, {
+        "phrase": "Buna seira",
+        "explanation": "afternoon and evening greeting spoken in the Surmiran dialect [roh-sur]"
+    }, {
+        "phrase": "Buna sera",
+        "explanation": "afternoon and evening greeting spoken in the Sursilvan & Sutsilvan dialects [roh-sul]"
+    }, {
+        "phrase": "Bainvegni",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Romblomanon",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rol",
+    "location": "Philippines: Romblon and Sibuyan.",
+    "greetings": [{
+        "phrase": "Mabuhay",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Maayong adlaw",
+        "explanation": "general daytime greeting"
+    }, {
+        "phrase": "Maayong aga",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Maayo nga alasdose",
+        "explanation": "noontime greeting"
+    }, {
+        "phrase": "Maayong hapon",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Maayong gab-i",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Kumusta ka?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Ron",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=cla",
+    "location": "Nigeria.",
+    "greetings": [{
+        "phrase": "Cala",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Lo",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Ronga",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rng",
+    "location": "Mozambique.",
+    "greetings": [{
+        "phrase": "Šawan",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Ša",
+        "explanation": "informal greeting"
+    }, {
+        "phrase": "Abušen",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Aušen",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "A ḍi pelen",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "A hi losanen",
+        "explanation": "formal greeting"
+    }, {
+        "phrase": "A ši fen",
+        "explanation": "greeting spoken to a person who is working"
+    }, {
+        "phrase": "A yi fen",
+        "explanation": "greeting spoken to a person who is working"
+    }, {
+        "phrase": "Hi ŝone, ši file",
+        "explanation": "reply to A ši fen"
+    }]
+}, {
+    "name": "Rongpo",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rnp",
+    "location": "India: Uttarakhand.",
+    "greetings": [{
+        "phrase": "Gən khimi hini?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "ʃamni",
+        "explanation": "general greeting in an older dialect"
+    }]
+}, {
+    "name": "Rotokas",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=roo",
+    "location": "Papua New Guinea: Bougainville Province.",
+    "greetings": [{
+        "phrase": "Vearo voki",
+        "explanation": "general daytime greeting"
+    }, {
+        "phrase": "Vearo paro",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Vearo ovaiaro",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Vearo rupa",
+        "explanation": "nighttime greeting"
+    }]
+}, {
+    "name": "Rotuman",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rtm",
+    "location": "Fiji: Rotuma.",
+    "greetings": [{
+        "phrase": "Noa'ia",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Noa'ia 'e mauri",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "'Äe taptapen?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Tapen 'äe?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Gou ne'ne",
+        "explanation": "reply to Tapen 'äe"
+    }, {
+        "phrase": "Gou ne'ne' lelei",
+        "explanation": "reply to Tapen 'äe"
+    }]
+}, {
+    "name": "Roviana",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rug",
+    "location": "Solomon Islands: New Georgia.",
+    "greetings": [{
+        "phrase": "Leana",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Munumunu leana",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Veluvelu leana",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Bongi leana",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Boni leana",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Vea si goi?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Leana mo si rau",
+        "explanation": "reply to Vea si goi"
+    }]
+}, {
+    "name": "Rukai",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=dru",
+    "location": "Taiwan.",
+    "greetings": [{
+        "phrase": "Sabau",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Sabau makanaele",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Margagi mumu",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Mabucukungasu?",
+        "explanation": "general greeting, \"have you eaten?\""
+    }, {
+        "phrase": "Tua kualrengasu?",
+        "explanation": "morning greeting, \"have you eaten breakfast?\" used in the morning"
+    }, {
+        "phrase": "Tua kudralingasu?",
+        "explanation": "afternoon greeting, \"have you eaten lunch?\" used in the afternoon"
+    }, {
+        "phrase": "Tua kuaubungasu?",
+        "explanation": "evening greeting, \"have you eaten dinner?\" used in the evening"
+    }, {
+        "phrase": "Tikelreng musu",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Tikdralinga musu",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Tikiubunga musu",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Aika'o ka polringao?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Ka polringaokali",
+        "explanation": "reply to Aika'o ka polringao"
+    }, {
+        "phrase": "Muadingadingai su?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Muadingadingadhaku kusu",
+        "explanation": "reply to Muadingadingai su"
+    }, {
+        "phrase": "Uunu muadingadingadhaku kusu",
+        "explanation": "reply to Muadingadingai su"
+    }, {
+        "phrase": "Muadringadringai so?",
+        "explanation": "how are you? in the eastern dialect"
+    }, {
+        "phrase": "Eene muadringadringa zako",
+        "explanation": "reply to Muadringadringai so"
+    }, {
+        "phrase": "Ipoyingau nyaso?",
+        "explanation": "how are you? in the Tona dialect [dru-ton]"
+    }, {
+        "phrase": "E'e, ipoyingaw kake",
+        "explanation": "reply to Ipoyingaw nyaso"
+    }]
+}, {
+    "name": "Rumu",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=klq",
+    "location": "Papua New Guinea: Gulf Province.",
+    "greetings": [{
+        "phrase": "Katami kahö",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Iki kahö a?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Rundi",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=run",
+    "location": "Burundi.",
+    "greetings": [{
+        "phrase": "Bwakeye",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Bwa",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "N'amahoro",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Mwaramutse",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Miriwe",
+        "explanation": "afternoon and evening greeting"
+    }, {
+        "phrase": "Jakeye",
+        "explanation": "informal greeting"
+    }]
+}, {
+    "name": "Rungus",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=drg",
+    "location": "Malaysia: Sabah.",
+    "greetings": [{
+        "phrase": "Manansalamat",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Salamat kosuvabon",
+        "explanation": "early morning greeting"
+    }, {
+        "phrase": "Sonong kosuvabon",
+        "explanation": "early morning greeting"
+    }, {
+        "phrase": "Salamat sasarap",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Kopivosihan sasarap",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Kopivosihan minsosodop",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Salamat sodop",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Sasarap?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Nunu habal?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Habal do avantang",
+        "explanation": "reply to Nunu habal"
+    }, {
+        "phrase": "Habal tavantang",
+        "explanation": "reply to Nunu habal"
+    }, {
+        "phrase": "Kopivosihan",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Rungwa",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rnw",
+    "location": "Tanzania: Konongo.",
+    "greetings": [{
+        "phrase": "Tendamata",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Malembuta",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Endita",
+        "explanation": "reply to Tendamata and Malembuta"
+    }]
+}, {
+    "name": "Russian",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rus",
+    "location": "Russia.",
+    "greetings": [{
+        "phrase": "Здравствуйте",
+        "explanation": "zdravstvuite: general greeting"
+    }, {
+        "phrase": "Здравствуй",
+        "explanation": "zdravstvui: general greeting"
+    }, {
+        "phrase": "Здравейте",
+        "explanation": "zdravyeite: informal greeting"
+    }, {
+        "phrase": "Здрасьте",
+        "explanation": "zdraste: informal greeting"
+    }, {
+        "phrase": "Привет",
+        "explanation": "privyet: informal greeting"
+    }, {
+        "phrase": "Добрый день",
+        "explanation": "dobry den: general daytime greeting"
+    }, {
+        "phrase": "Доброе утро",
+        "explanation": "dobroye utro: morning greeting"
+    }, {
+        "phrase": "С добрым утром",
+        "explanation": "s dobrym utrom: morning greeting"
+    }, {
+        "phrase": "Доброе",
+        "explanation": "dobroye: morning greeting (informal)"
+    }, {
+        "phrase": "Добрый вечер",
+        "explanation": "dobry vecher: evening greeting"
+    }, {
+        "phrase": "Как дела?",
+        "explanation": "kak dyela: how are you?"
+    }, {
+        "phrase": "Как ваши дела?",
+        "explanation": "kak vashi dyela: how are you?"
+    }, {
+        "phrase": "Как жизнь?",
+        "explanation": "kak zhizn: how are you?"
+    }, {
+        "phrase": "Как живешь?",
+        "explanation": "kak zhivesh': how are you?"
+    }, {
+        "phrase": "Как поживаешь?",
+        "explanation": "kak pozhivayesh: how are you?"
+    }, {
+        "phrase": "Хорошо",
+        "explanation": "horosho: reply to Как дела, Как ваши дела, Как жизнь, and Как поживаешь"
+    }, {
+        "phrase": "Добро пожаловать",
+        "explanation": "dobro pozhalovat': welcome greeting"
+    }, {
+        "phrase": "Па",
+        "explanation": "pa: general greeting in the Pomor dialect [rus-nor]"
+    }, {
+        "phrase": "Хозява",
+        "explanation": "hozyava: general greeting in the Pomor dialect [rus-nor]"
+    }, {
+        "phrase": "Здоровы будете",
+        "explanation": "zdorovy budete: general greeting in the Pomor dialect [rus-nor]"
+    }]
+}, {
+    "name": "Russian",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rus",
+    "location": "Russia.",
+    "greetings": [{
+        "phrase": "Здравствуйте",
+        "explanation": "zdravstvuite: general greeting"
+    }, {
+        "phrase": "Здравствуй",
+        "explanation": "zdravstvui: general greeting"
+    }, {
+        "phrase": "Привет",
+        "explanation": "privyet: informal greeting"
+    }, {
+        "phrase": "Добрый день",
+        "explanation": "dobry den: general daytime greeting"
+    }, {
+        "phrase": "Доброе утро",
+        "explanation": "dobroye utro: morning greeting"
+    }, {
+        "phrase": "Добрый вечер",
+        "explanation": "dobry vecher: evening greeting"
+    }, {
+        "phrase": "Здрасьте",
+        "explanation": "zdraste: informal greeting"
+    }, {
+        "phrase": "Приветище",
+        "explanation": "privyetischye: informal greeting"
+    }, {
+        "phrase": "Приветик",
+        "explanation": "privyetik: informal greeting (mostly used by children and women)"
+    }, {
+        "phrase": "Приветики",
+        "explanation": "privyetiki: informal greeting (mostly used by children and women)"
+    }, {
+        "phrase": "Здорово",
+        "explanation": "zdorovo: informal greeting (mostly used by men)"
+    }, {
+        "phrase": "Салют",
+        "explanation": "salyut: informal greeting"
+    }, {
+        "phrase": "Приветствую вас",
+        "explanation": "privyetstvuyu vas: formal greeting"
+    }, {
+        "phrase": "Как дела?",
+        "explanation": "kak dyela: how are you?"
+    }, {
+        "phrase": "Как Ваши дела?",
+        "explanation": "kak vashi dyela: how are you?, formal"
+    }, {
+        "phrase": "Как у Вас дела?",
+        "explanation": "kak y vas dyela: how are you?, formal"
+    }, {
+        "phrase": "Как Вы?",
+        "explanation": "kak vy: how are you?, formal"
+    }, {
+        "phrase": "Как ты?",
+        "explanation": "kak ty: how are you?, informal"
+    }, {
+        "phrase": "Как жизнь?",
+        "explanation": "kak zhizn: how are you?, \"how's life?\""
+    }, {
+        "phrase": "Как живете?",
+        "explanation": "kak zhivyete: how are you?, formal"
+    }, {
+        "phrase": "Как живёте?",
+        "explanation": "kak zhivyote: how are you?, formal"
+    }, {
+        "phrase": "Как живешь?",
+        "explanation": "kak zhivyesh': how are you?, informal"
+    }, {
+        "phrase": "Как живёшь?",
+        "explanation": "kak zhivyosh': how are you?, informal"
+    }, {
+        "phrase": "Как Вы поживаете?",
+        "explanation": "kak vy pozhivayete: how are you?, formal"
+    }, {
+        "phrase": "Как поживаете?",
+        "explanation": "kak pozhivayete: how are you?, formal"
+    }, {
+        "phrase": "Как ты поживаешь?",
+        "explanation": "kak ty pozhivayesh': how are you?, informal"
+    }, {
+        "phrase": "Как поживаешь?",
+        "explanation": "kak pozhivayesh': how are you?, informal"
+    }, {
+        "phrase": "Как оно?",
+        "explanation": "kak ono: how are you?, very informal"
+    }, {
+        "phrase": "Хорошо",
+        "explanation": "horosho: reply to Как дела, Как ваши дела, Как жизнь, and Как поживаешь"
+    }, {
+        "phrase": "Нормально",
+        "explanation": "normal'na: reply to Как дела, Как ваши дела, Как жизнь, and Как поживаешь"
+    }, {
+        "phrase": "Что нового?",
+        "explanation": "chto novogo: what's new?"
+    }, {
+        "phrase": "Ничего",
+        "explanation": "nichevo: reply to Что нового"
+    }, {
+        "phrase": "Ничего нового",
+        "explanation": "nichevo novogo: reply to Что нового"
+    }, {
+        "phrase": "Добро пожаловать",
+        "explanation": "dobro pozhalovat': welcome greeting"
+    }, {
+        "phrase": "Па",
+        "explanation": "pa: general greeting in the Pomor dialect [rus-nor]"
+    }, {
+        "phrase": "Хозява",
+        "explanation": "hozyava: general greeting in the Pomor dialect [rus-nor]"
+    }, {
+        "phrase": "Здоровы будете",
+        "explanation": "zdorovy budete: general greeting in the Pomor dialect [rus-nor]"
+    }]
+}, {
+    "name": "Rusyn",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rue",
+    "location": "Ukraine. Serbia.",
+    "greetings": [{
+        "phrase": "Добре рано",
+        "explanation": "dobre rano: morning greeting in the Lemko [rue-lem] and Pannonian [rue-par] dialects"
+    }, {
+        "phrase": "Доброй рано",
+        "explanation": "dobroi rano: morning greeting in the Transcarpathian dialect"
+    }, {
+        "phrase": "Добреі ранок",
+        "explanation": "dobrei ranok: morning greeting in the Hutsul dialect [rue-hut]"
+    }, {
+        "phrase": "Добрый динь",
+        "explanation": "dobryi dyn': afternoon greeting in the Lemko dialect [rue-lem]"
+    }, {
+        "phrase": "Добрый динь",
+        "explanation": "dobryi dyn': afternoon greeting in the Transcarpathian dialect"
+    }, {
+        "phrase": "Добреі дині",
+        "explanation": "dobrei dini: afternoon greeting in the Hutsul dialect [rue-hut]"
+    }, {
+        "phrase": "Добри дзень",
+        "explanation": "dobri dzen': afternoon greeting in the Pannonian dialect [rue-par]"
+    }, {
+        "phrase": "Добрый вечур",
+        "explanation": "dobryi vechür: evening greeting in the Lemko dialect [rue-lem]"
+    }, {
+        "phrase": "Добрый вечӱр",
+        "explanation": "dobryi vechür: evening greeting in the Transcarpathian dialect"
+    }, {
+        "phrase": "Добреі вечер",
+        "explanation": "dobrei vecher: evening greeting in the Hutsul dialect [rue-hut]"
+    }, {
+        "phrase": "Добри вечар",
+        "explanation": "dobri vechar: evening greeting in the Pannonian dialect [rue-par]"
+    }, {
+        "phrase": "Здраво",
+        "explanation": "zdravo: general greeting in the Pannonian dialect [rue-par]"
+    }, {
+        "phrase": "Слава Iсусу Христу",
+        "explanation": "slava Isusu Khristu: formal greeting used by Christians in Lemko dialect [rue-lem]"
+    }, {
+        "phrase": "Слава Исусу Христу",
+        "explanation": "slava Isusu Khristu: formal greeting used by Christians in Transcarpathian dialect"
+    }, {
+        "phrase": "Слава на вікы",
+        "explanation": "slava na viky: reply to Слава Исусу Христу and Слава Iсусу Христу"
+    }, {
+        "phrase": "Дай Боже щестя",
+        "explanation": "dai Bozhe shchastya: formal greeting used by Christians in Lemko dialect [rue-lem]"
+    }, {
+        "phrase": "Дай Боже щастя",
+        "explanation": "dai Bozhe shchastya: formal greeting used by Christians in Transcarpathian dialect"
+    }, {
+        "phrase": "Дай Боже і вам",
+        "explanation": "dai Bozhe i vam: reply to Дай Боже щестя, in the Lemko dialect [rue-lem]"
+    }, {
+        "phrase": "Дай Боже и вам",
+        "explanation": "dai Bozhe i vam: reply to Дай Боже щастя, in the Transcarpathian dialect"
+    }, {
+        "phrase": "Вітайте",
+        "explanation": "vitaite: welcome greeting in the Lemko and Hutsul dialects"
+    }, {
+        "phrase": "Приємаєме",
+        "explanation": "priyemayeme: welcome greeting in the Transcarpathian dialect"
+    }, {
+        "phrase": "Як ся мате?",
+        "explanation": "yak sya mate: how are you? formal in Lemko [rue-lem] and Hutsul [rue-hut] dialects"
+    }, {
+        "phrase": "Як ся маєте?",
+        "explanation": "yak sya mayete: how are you? formal in Transcarpathian and Hutsul [rue-hut] dialects"
+    }, {
+        "phrase": "Як ся маш?",
+        "explanation": "yak sya mash: how are you? informal in Lemko [rue-lem] and Hutsul [rue-hut] dialects"
+    }, {
+        "phrase": "Як ся маєш?",
+        "explanation": "yak sya mayesh: how are you? informal in the Transcarpathian and Hutsul dialects"
+    }, {
+        "phrase": "Дякую, добрі",
+        "explanation": "dyakuyu, dobri: reply to Як ся мате and Як ся маш in the Lemko dialect [rue-lem]"
+    }, {
+        "phrase": "Дякуву, добрі",
+        "explanation": "dyakuvu, dobri: reply to Як ся маєте and Як ся маєш in the Transcarpathian dialect"
+    }, {
+        "phrase": "Добрі",
+        "explanation": "dobri: reply to Як ся маш, Як ся маєш, Як ся мате and Як ся маєте"
+    }, {
+        "phrase": "Як сце?",
+        "explanation": "yak stse: how are you? in the Pannonian dialect [rue-par]"
+    }, {
+        "phrase": "Барз добре",
+        "explanation": "barz dobre: reply to Як сце in the Pannonian dialect [rue-par]"
+    }, {
+        "phrase": "іек справі?",
+        "explanation": "iyek spravi: how are you? in the Hutsul dialect [rue-hut]"
+    }, {
+        "phrase": "Што нового?",
+        "explanation": "shto novoho: how are you? informal, in the Lemko dialect [rue-lem]"
+    }, {
+        "phrase": "Што новоє?",
+        "explanation": "shto novoye: how are you? informal, in the Transcarpathian dialect"
+    }, {
+        "phrase": "Што таке?",
+        "explanation": "shto take : how are you? informal, in the Lemko dialect [rue-lem]"
+    }, {
+        "phrase": "Што ся робить?",
+        "explanation": "shto sya rovit' : how are you? informal, in the Transcarpathian dialect"
+    }, {
+        "phrase": "Шо маі робеші?",
+        "explanation": "sho mai robeshi: how are you? in the Hutsul dialect [rue-hut]"
+    }]
+}, {
+    "name": "Rutul",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rut",
+    "location": "Russia: Dagestan.",
+    "greetings": [{
+        "phrase": "Салам алейкум",
+        "explanation": "salam aleikum: general greeting"
+    }, {
+        "phrase": "Ассалам алейкум",
+        "explanation": "assalam aleikum: general greeting"
+    }, {
+        "phrase": "Мид вахт хайир",
+        "explanation": "mid vaht hayir: general greeting"
+    }, {
+        "phrase": "Саба хайир",
+        "explanation": "saba hayir: morning greeting"
+    }, {
+        "phrase": "Гюлюрт хайир",
+        "explanation": "gyulyurt hayir: midday greeting"
+    }, {
+        "phrase": "Ахшам хайир",
+        "explanation": "akhsham hayir: evening greeting"
+    }, {
+        "phrase": "К|валахбыр шуний?",
+        "explanation": "kvalakhbir shunii: how are you?"
+    }, {
+        "phrase": "Кефбыр шуний?",
+        "explanation": "kefbir shunii: how are you?"
+    }, {
+        "phrase": "У|ху|ма",
+        "explanation": "uhuma: general greeting in the Mukhrek (Мюхрекский) dialect [rut-ixr]"
+    }]
+}, {
+    "name": "Ruund",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rnd",
+    "location": "Democratic Republic of the Congo: Katanga Province.",
+    "greetings": [{
+        "phrase": "Moy",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Moyaañ",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Rwa",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rwk",
+    "location": "Tanzania: northeastern border.",
+    "greetings": [{
+        "phrase": "Kwasindiswa",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Eka",
+        "explanation": "reply to Kwasindiswa"
+    }, {
+        "phrase": "Nantwa mbee",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Andomwi mawe mbe",
+        "explanation": "reply to Nantwa mbee"
+    }, {
+        "phrase": "Kwantwa",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Ndomnawe",
+        "explanation": "reply to Kwantwa"
+    }, {
+        "phrase": "Jennifer's Language Pages",
+        "explanation": ""
+    }, {
+        "phrase": "Greetings in more than 3000 languages To find a specific language, click on the first letter of the language's name. [A] [B] [C] [D] [E] [F] [G] [H] [I] [J] [K] [L] [M] [N] [O] [P] [Q] [R] [S] [T] [U] [V] [W] [X] [Y] [Z] Site Navigation Jennifer's Language Page home Greetings in more than 3000 languages Articles about greetings and translation Other phrases in many languages Frequently Asked Questions (FAQ) Purpose of this Site Copyright Information What's New Send comments, additions, or corrections for this page to Jennifer Runner URL for this site: http://users.elite.net/runner/jennifers/",
+        "explanation": ""
+    }, {
+        "phrase": "© 1995 - 2017 Jennifer Runner. All rights reserved. Last updated on August 1, 2017. Click here for copyright information.",
+        "explanation": ""
+    }]
+}]

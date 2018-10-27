@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "trie-search": "^1.2.8"
+  },
+  "name": "evenin",
+  "version": "1.0.0",
+  "description": "Ever wondered if a text contained a greeting? Then needed that functionality in over a thousand languages and dialects? Me neither.",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "repository": "https://github.com/molenzwiebel/evenin.git",
+  "author": "Thijs Molendijk (molenzwiebel)",
+  "license": "MIT"
+}

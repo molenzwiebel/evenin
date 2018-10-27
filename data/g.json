@@ -1,0 +1,3609 @@
+[{
+    "name": "Ga",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gaa",
+    "location": "Ghana: southeastern coast.",
+    "greetings": [{
+        "phrase": "Miiŋa bo",
+        "explanation": "general greeting spoken to one person (\"I am greeting you\")"
+    }, {
+        "phrase": "Miiŋa bo ekoŋŋ",
+        "explanation": "general greeting spoken to one person \"I am greeting you again\")"
+    }, {
+        "phrase": "Miiŋa nyɛ",
+        "explanation": "general greeting spoken to a group (\"I am greeting you\")"
+    }, {
+        "phrase": "Miiŋa nyɛ ekoŋŋ",
+        "explanation": "general greeting spoken to a group (\"I am greeting you again\")"
+    }, {
+        "phrase": "Minaokoo",
+        "explanation": "general greeting spoken to one person (\"I have seen you again\")"
+    }, {
+        "phrase": "Ŋ-nao koo",
+        "explanation": "general greeting spoken to one person (\"I have seen you again\")"
+    }, {
+        "phrase": "Ojekoo",
+        "explanation": "morning greeting (\"you have woken up again\")"
+    }, {
+        "phrase": "Ojemra",
+        "explanation": "reply to Ojekoo"
+    }, {
+        "phrase": "Oshwiee",
+        "explanation": "late afternoon and early evening greeting"
+    }, {
+        "phrase": "Ŋ-shwie mra",
+        "explanation": "reply to Oshwiee spoken to one person"
+    }, {
+        "phrase": "Wɔshwie mra",
+        "explanation": "reply to Oshwiee spoken to a group"
+    }, {
+        "phrase": "Te oyɔɔ tɛŋŋ?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Te tɛŋŋ?",
+        "explanation": "how are you? informal"
+    }, {
+        "phrase": "Mi yɛ ojogbaŋŋ",
+        "explanation": "reply to Te oyɔɔ tɛŋŋ by one person"
+    }, {
+        "phrase": "Ŋ-yɛ ojogbaŋŋ",
+        "explanation": "reply to Te oyɔɔ tɛŋŋ by one person"
+    }, {
+        "phrase": "Wɔ yɛ ojogbaŋŋ",
+        "explanation": "reply to Te oyɔɔ tɛŋŋ by a group of people"
+    }, {
+        "phrase": "Te nibii yaa nɔtɛŋŋ?",
+        "explanation": "how are things with you?"
+    }, {
+        "phrase": "Mɛni yaa nɔ?",
+        "explanation": "how are you? informal, \"what's up?\""
+    }, {
+        "phrase": "He ni ojɛ?",
+        "explanation": "how are you?, literally \"is everything okay where you are coming from?\""
+    }, {
+        "phrase": "Jɛi jɔ",
+        "explanation": "reply to He ni ojɛ, \"it is well there\""
+    }, {
+        "phrase": "Biɛ fɛɛ?",
+        "explanation": "how are you?, literally \"how are things here?\""
+    }, {
+        "phrase": "Biɛ jogbaŋŋ",
+        "explanation": "reply to Biɛ fɛɛ, \"it is well here\""
+    }, {
+        "phrase": "Biɛ jogbaŋŋ, he ni ojɛ hu?",
+        "explanation": "reply to Biɛ fɛɛ, \"it is well here, and what about the place where you are coming from?\""
+    }, {
+        "phrase": "Miifala bo",
+        "explanation": "welcome greeting spoken to one person"
+    }, {
+        "phrase": "Miifala nyɛ",
+        "explanation": "welcome greeting spoken to a group"
+    }, {
+        "phrase": "Miihere bo",
+        "explanation": "welcome greeting spoken to one person"
+    }, {
+        "phrase": "Miihere nyɛ",
+        "explanation": "welcome greeting spoken to a group"
+    }, {
+        "phrase": "Miihere bo atuu kɛmiiba miwe lɛ",
+        "explanation": "welcome greeting spoken at a house, \"I am fondly welcoming you to my home\""
+    }, {
+        "phrase": "Miihere bo nɔ",
+        "explanation": "reply greeting spoken to one person"
+    }, {
+        "phrase": "Miihere nyɛ nɔ",
+        "explanation": "reply greeting spoken to a group"
+    }]
+}, {
+    "name": "Gaam",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=tbi",
+    "location": "Sudan: northern region.",
+    "greetings": [{
+        "phrase": "Taa izi?",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Gabi-Gabi",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gbw",
+    "location": "Australia: Queensland.",
+    "greetings": [{
+        "phrase": "Wunya",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Wunya ngulum",
+        "explanation": "general greeting spoken to a group"
+    }, {
+        "phrase": "Ngara",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Nara",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Ngara, kai ngai",
+        "explanation": "general greeting, \"hello, here I am\""
+    }, {
+        "phrase": "Wenyari?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Gabrieliño-Fernandeño",
+    "url": "http://multitree.org/codes/xgf.html",
+    "location": "United States of America: southern California.",
+    "greetings": [{
+        "phrase": "Miiyu",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Nachochan",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Ga'dang",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gdg",
+    "location": "Philippines.",
+    "greetings": [{
+        "phrase": "Ayowak",
+        "explanation": "greeting spoken by a person approaching a house"
+    }, {
+        "phrase": "Ayokayu",
+        "explanation": "reply to Ayowak"
+    }, {
+        "phrase": "Sintaw naggabwattannu?",
+        "explanation": "greeting spoken to a person arriving, \"where are you coming from?\""
+    }, {
+        "phrase": "Sintaw angannu?",
+        "explanation": "greeting spoken to a person going where, \"where are you going?\""
+    }, {
+        "phrase": "Se'oy",
+        "explanation": "reply to Sintaw naggabwattanu and Sintaw angannu"
+    }, {
+        "phrase": "Umunek kayu",
+        "explanation": "welcome greeting, \"come on up\""
+    }, {
+        "phrase": "Sumallung kayu",
+        "explanation": "welcome greeting, \"come in\""
+    }]
+}, {
+    "name": "Gaddang",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gad",
+    "location": "Philippines.",
+    "greetings": [{
+        "phrase": "Macasta a daddaramat",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Dios si daddaramat",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Macasta a fuwab",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Dios si pananganaw",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Macasta a gaffi",
+        "explanation": "evening and nighttime greeting"
+    }, {
+        "phrase": "Dios si gaffi",
+        "explanation": "evening and nighttime greeting"
+    }, {
+        "phrase": "Manantaw si kayu?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Manantaw ka?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Mappia ac pay",
+        "explanation": "reply to Manantaw ka"
+    }]
+}, {
+    "name": "Gade",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=ged",
+    "location": "Nigeria.",
+    "greetings": [{
+        "phrase": "Ńnàba",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Gadsup",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gaj",
+    "location": "Papua New Guinea: East Highlands Province.",
+    "greetings": [{
+        "phrase": "Baanuram",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Baanurami",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Baayankom",
+        "explanation": "midday greeting"
+    }, {
+        "phrase": "Ayinka",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Ayinka'i",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Ayinkake",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Ayufumi",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Ayupumi",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Amankaka bewa?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Amankaka be?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Amanka'i beko",
+        "explanation": "reply to Amankaka bewa and Amankaka be"
+    }, {
+        "phrase": "Amami beko",
+        "explanation": "reply to Amankaka bewa and Amankaka be"
+    }, {
+        "phrase": "Nefaka' bewa?",
+        "explanation": "where are you going?"
+    }]
+}, {
+    "name": "Gagauz",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gag",
+    "location": "Moldova, Bulgaria, Kazakhstan, Ukraine.",
+    "greetings": [{
+        "phrase": "Гÿн айдын",
+        "explanation": "gün aydin: general greeting"
+    }, {
+        "phrase": "Салaм",
+        "explanation": "salam: general greeting"
+    }, {
+        "phrase": "Заман хайыр олсун",
+        "explanation": "zaman hayir olsun: general greeting"
+    }, {
+        "phrase": "Сабаа хайыр олсун",
+        "explanation": "sabaa hayir olsun: morning greeting"
+    }, {
+        "phrase": "Авшам хайыр олсун",
+        "explanation": "avsham hayir olsun: evening greeting"
+    }, {
+        "phrase": "Нябэрсыныз?",
+        "explanation": "nyabersynyz: how are you?"
+    }, {
+        "phrase": "Не сой ишлериниз?",
+        "explanation": "ne soy ishleriniz: how are you?"
+    }]
+}, {
+    "name": "Galela",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gbi",
+    "location": "Indonesia: Maluku.",
+    "greetings": [{
+        "phrase": "Tabea",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Kiaka notagi?",
+        "explanation": "greeting spoken to a person travelling, literally \"where are you going?\""
+    }]
+}, {
+    "name": "Galician",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=glg",
+    "location": "Spain: Galicia. Portugal: Tras os Montes.",
+    "greetings": [{
+        "phrase": "Ola",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Bo día",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Boa tarde",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Boas tardes",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Bo serán",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Boa noite",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Boas noites",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Como está?",
+        "explanation": "how are you? formal"
+    }, {
+        "phrase": "Como estás?",
+        "explanation": "how are you? informal"
+    }, {
+        "phrase": "Que tal está?",
+        "explanation": "how are you? formal"
+    }, {
+        "phrase": "Que tal estás?",
+        "explanation": "how are you? informal"
+    }, {
+        "phrase": "Ben",
+        "explanation": "reply to Como está, Como estás, Que tal está and Que tal estás"
+    }, {
+        "phrase": "Moi ben, grazas",
+        "explanation": "reply to Como está, Como estás, Que tal está and Que tal estás"
+    }, {
+        "phrase": "Benvidos",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Benvido",
+        "explanation": "welcome greeting spoken to a man"
+    }, {
+        "phrase": "Benvida",
+        "explanation": "welcome greeting spoken to a woman"
+    }]
+}, {
+    "name": "Galindan",
+    "url": "http://multitree.org/codes/xgl",
+    "location": "Northern Poland and Russia before the 14th century.",
+    "greetings": [{
+        "phrase": "Kailas",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Galolen",
+    "url": "http://multitree.org/codes/gal",
+    "location": "East Timor. Indonesia.",
+    "greetings": [{
+        "phrase": "Lalan e taik?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Lalan ka taik?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Gamilaraay",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=kld",
+    "location": "Australia.",
+    "greetings": [{
+        "phrase": "Yaama",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Yaamagara",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Yaama nginda",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Yaama ngindaay",
+        "explanation": "general greeting spoken to a group of people"
+    }, {
+        "phrase": "Yaama kuru kuru",
+        "explanation": "greeting spoken to a group of people (\"hello everyone\")"
+    }, {
+        "phrase": "Yaama maliyaa",
+        "explanation": "greeting spoken to a friend (\"hello friend\")"
+    }, {
+        "phrase": "Yaama mari maliyaa",
+        "explanation": "greeting spoken to a group of friends (\"hello friends\")"
+    }, {
+        "phrase": "Yaama dhagaan",
+        "explanation": "greeting spoken to a man of the same generation as the speaker (\"hello brother\")"
+    }, {
+        "phrase": "Yaama baawaa",
+        "explanation": "greeting spoken to a woman of the same generation as the speaker (\"hello sister\")"
+    }, {
+        "phrase": "Yaama birralii",
+        "explanation": "greeting spoken to a group of children (\"hello children\")"
+    }, {
+        "phrase": "Yaama gaba nginda?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Gaba",
+        "explanation": "reply to any greeting that begins with Yaama"
+    }]
+}, {
+    "name": "Gamo",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gmv",
+    "location": "Ethiopia: Omo region.",
+    "greetings": [{
+        "phrase": "Saro",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Ai malaa de'aii?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Gana",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gnq",
+    "location": "Malaysia: Sabah.",
+    "greetings": [{
+        "phrase": "Guana mu lenin sihak dok",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "||Gana",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gnk",
+    "location": "Botswana.",
+    "greetings": [{
+        "phrase": "Moro",
+        "explanation": "general greeting (from Setswana)"
+    }, {
+        "phrase": "Dumera",
+        "explanation": "general greeting (from Setswana)"
+    }, {
+        "phrase": "Mera",
+        "explanation": "general greeting (from Setswana)"
+    }, {
+        "phrase": "#Kai?",
+        "explanation": "how are you?, literally \"fine?\""
+    }, {
+        "phrase": "#Kai o?",
+        "explanation": "how are you?, literally \"fine?\""
+    }, {
+        "phrase": "#Kai",
+        "explanation": "reply to #Kai and #Kai o"
+    }, {
+        "phrase": "#Kai kwa",
+        "explanation": "reply to #Kai and #Kai o"
+    }, {
+        "phrase": "#Kai kwa, tsam #kayaha",
+        "explanation": "reply to #Kai and #Kai o"
+    }, {
+        "phrase": "!Dom",
+        "explanation": "welcome greeting, literally \"accept\""
+    }, {
+        "phrase": "Kjuan",
+        "explanation": "reply to !Dom, literally \"rest\""
+    }, {
+        "phrase": "Kxoi/a",
+        "explanation": "reply to Kjuan, literally \"rest?\""
+    }, {
+        "phrase": "G//a",
+        "explanation": "reply to Kxoi/a, literally \"rest\" (from Naro)"
+    }]
+}, {
+    "name": "Ganda",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=lug",
+    "location": "Uganda.",
+    "greetings": [{
+        "phrase": "Otya nno",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Wasuze otya",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Wasuze otya nno",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Mwasuze mutya",
+        "explanation": "morning greeting spoken to a group"
+    }, {
+        "phrase": "Wasuze otya ssebo",
+        "explanation": "morning greeting spoken to a man"
+    }, {
+        "phrase": "Wasuze otya nno ssebo",
+        "explanation": "morning greeting spoken to a man"
+    }, {
+        "phrase": "Mwasuze mutya bassebo",
+        "explanation": "morning greeting spoken to a group of men"
+    }, {
+        "phrase": "Wasuze otya nnyabo",
+        "explanation": "morning greeting spoken to a woman"
+    }, {
+        "phrase": "Wasuze otya nno nnyabo",
+        "explanation": "morning greeting spoken to a woman"
+    }, {
+        "phrase": "Mwasuze mutya bannyabo",
+        "explanation": "morning greeting spoken to a group of women"
+    }, {
+        "phrase": "Bulungi, wasuze otya nno",
+        "explanation": "reply to Wasuze otya nno"
+    }, {
+        "phrase": "Wasuz'otya",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Ibuto",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Ibuto maber",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Abuto",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Abuto maber",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Osiibye otya nno",
+        "explanation": "afternoon and evening greeting"
+    }, {
+        "phrase": "Osiibye otya nno ssebo",
+        "explanation": "afternoon and evening greeting spoken to a man"
+    }, {
+        "phrase": "Osiibye otya nno nnyabo",
+        "explanation": "afternoon and evening greeting spoken to a woman"
+    }, {
+        "phrase": "Musiibye mutya bassebo",
+        "explanation": "afternoon and evening greeting spoken to a group of men"
+    }, {
+        "phrase": "Musiibye mutya bannyabo",
+        "explanation": "afternoon and evening greeting spoken to a group of women"
+    }, {
+        "phrase": "Osiib'otya",
+        "explanation": "afternoon and evening greeting"
+    }, {
+        "phrase": "Bulungi",
+        "explanation": "reply to Wasuze otya nno, Wasuz'otya, Osiibye otya nno, and Osiib'otya"
+    }, {
+        "phrase": "Gyebaleko",
+        "explanation": "greeting spoken to a person who is working"
+    }, {
+        "phrase": "Weebale emirimo",
+        "explanation": "greeting spoken to a person who is working"
+    }, {
+        "phrase": "Kale",
+        "explanation": "reply to Gyebaleko and Weebale emirimo"
+    }, {
+        "phrase": "Ki kate?",
+        "explanation": "informal greeting"
+    }, {
+        "phrase": "Tewali",
+        "explanation": "reply to Ki kate"
+    }, {
+        "phrase": "Oli otya?",
+        "explanation": "how are you? spoken to one person"
+    }, {
+        "phrase": "Gyendi",
+        "explanation": "reply to Oli otya"
+    }, {
+        "phrase": "Muli mutya?",
+        "explanation": "how are you? spoken to a group"
+    }, {
+        "phrase": "Gyetuli",
+        "explanation": "reply to Muli mutya"
+    }]
+}, {
+    "name": "Gangulu",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gnl",
+    "location": "Australia: Queensland.",
+    "greetings": [{
+        "phrase": "Binbi gari",
+        "explanation": "general greeting (calque from English), also spelled Binbee karri"
+    }]
+}, {
+    "name": "Ganza",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gza",
+    "location": "Sudan. Ethiopia.",
+    "greetings": [{
+        "phrase": "Diga",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Gapapaiwa",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=pwg",
+    "location": "Papua New Guinea: Ruaba River.",
+    "greetings": [{
+        "phrase": "Kiiwa kiiwa",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Boiboi biibiina",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Didibara biibiina",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Enosaire",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Garhwali",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gbm",
+    "location": "India.",
+    "greetings": [{
+        "phrase": "प्रणाम।",
+        "explanation": "praṇāma: formal greeting"
+    }, {
+        "phrase": "आप कैसे है?",
+        "explanation": "āpa kaisē hai: how are you?"
+    }, {
+        "phrase": "आपके क्या हाल है?",
+        "explanation": "āpakē kyā hāla hai: how are you?"
+    }, {
+        "phrase": "आपक हाल क्या छन?",
+        "explanation": "āpaka hāla kyā chana: how are you?"
+    }, {
+        "phrase": "मी ठीक छौं।",
+        "explanation": "mī ṭhīka chauṁ: reply to आप कैसे है, आपके क्या हाल है, and आपक हाल क्या छन"
+    }, {
+        "phrase": "मै ठीक हूँ।",
+        "explanation": "mai ṭhīka hūṁ: reply to आप कैसे है, आपके क्या हाल है, and आपक हाल क्या छन"
+    }, {
+        "phrase": "क्या हाल छन?",
+        "explanation": "kyā hāla chana: how are you?"
+    }, {
+        "phrase": "ठीक छन।",
+        "explanation": "ṭhīka chana: reply to क्या हाल छन"
+    }]
+}, {
+    "name": "Garifuna",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=cab",
+    "location": "Honduras and Guatemala.",
+    "greetings": [{
+        "phrase": "Mabuiga",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Buiti binafi",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Buiti amidi",
+        "explanation": "noontime greeting"
+    }, {
+        "phrase": "Buiti rabanweyu",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Buiti guñaun",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Buiti guñon",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Buiti binafin",
+        "explanation": "morning greeting spoken in the Labuga dialect of Guatemala"
+    }, {
+        "phrase": "Buiti guñon",
+        "explanation": "nighttime greeting spoken in the Labuga dialect of Guatemala"
+    }, {
+        "phrase": "Ida biña?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Ida biña uguñe?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Úadigiati",
+        "explanation": "reply to Ida biña and Ida biña uguñe"
+    }, {
+        "phrase": "Magadietina",
+        "explanation": "reply to Ida biña and Ida biña uguñe"
+    }, {
+        "phrase": "Aban le",
+        "explanation": "reply to Ida biña and Ida biña uguñe"
+    }, {
+        "phrase": "Mabouë",
+        "explanation": "general greeting in the older dialect spoken in the 17th century"
+    }]
+}, {
+    "name": "Garingbal",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=xgi",
+    "location": "Australia: Queensland.",
+    "greetings": [{
+        "phrase": "Binbee karri-yamba",
+        "explanation": "general greeting (calque from English)"
+    }]
+}, {
+    "name": "Garlali",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gll",
+    "location": "Australia.",
+    "greetings": [{
+        "phrase": "Dhali mura",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Garo",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=grt",
+    "location": "India and Bangladesh: Garo Hills.",
+    "greetings": [{
+        "phrase": "Nomoskar",
+        "explanation": "general greeting (from Hindi)"
+    }, {
+        "phrase": "Nang'i pring namchina",
+        "explanation": "morning greeting in the Achik dialect [grt-ack]"
+    }, {
+        "phrase": "Pring nam",
+        "explanation": "morning greeting in the Modhupur Mandi dialect"
+    }, {
+        "phrase": "Nang'i sal namchina",
+        "explanation": "daytime greeting in the Achik dialect [grt-ack]"
+    }, {
+        "phrase": "Sal nam",
+        "explanation": "daytime greeting in the Modhupur Mandi dialect"
+    }, {
+        "phrase": "Wal nam",
+        "explanation": "nighttime greeting in the Modhupur Mandi dialect"
+    }, {
+        "phrase": "Name dongama?",
+        "explanation": "how are you? in the Modhupur Mandi dialect"
+    }, {
+        "phrase": "Namengama?",
+        "explanation": "how are you? in the Achik dialect [grt-ack]"
+    }, {
+        "phrase": "Namenga",
+        "explanation": "reply to Namengama in the Achik dialect [grt-ack]"
+    }, {
+        "phrase": "Namengada",
+        "explanation": "reply to Namengama, more polite in the Achik dialect [grt-ack]"
+    }, {
+        "phrase": "Mai dake nga?",
+        "explanation": "what are you doing?, informal greeting"
+    }, {
+        "phrase": "Batcha i'anginga?",
+        "explanation": "where are you going? in the Modhupur Mandi dialect"
+    }, {
+        "phrase": "Batchani i'bainga?",
+        "explanation": "where have you come from? in the Modhupur Mandi dialect"
+    }, {
+        "phrase": "Mande dongama?",
+        "explanation": "is anyone home? spoken when approaching a house in the Modhupur Mandi dialect"
+    }, {
+        "phrase": "Donga",
+        "explanation": "reply to Mande dongama in the Modhupur Mandi dialect"
+    }, {
+        "phrase": "Anga napnane?",
+        "explanation": "may I come in? spoken when approaching a house in the Modhupur Mandi dialect"
+    }, {
+        "phrase": "Asongbone",
+        "explanation": "welcome greeting \"please sit down\" spoken inside a house in the Modhupur Mandi dialect"
+    }]
+}, {
+    "name": "Re'babo welcome greeting in the Achik dialect",
+    "url": "http://multitree.org/codes/grt-ack",
+    "location": "literally: \"come\"",
+    "greetings": [{
+        "phrase": "Re'baboda",
+        "explanation": "welcome greeting in the Achik dialect [grt-ack], more polite"
+    }, {
+        "phrase": "Napbado",
+        "explanation": "welcome greeting spoken at a house in the Achik dialect [grt-ack]"
+    }, {
+        "phrase": "Napbadoda",
+        "explanation": "welcome greeting spoken at a house in the Achik dialect [grt-ack], more polite"
+    }]
+}, {
+    "name": "Garre",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gex",
+    "location": "Somalia: Shabelle and Bay.",
+    "greetings": [{
+        "phrase": "Akam?",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Dansa",
+        "explanation": "reply to Akam"
+    }, {
+        "phrase": "Nagay bulte",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Nabadle ma shirto?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Nageeni badaadaa?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Badaad",
+        "explanation": "reply to Nageeni badaadaa"
+    }]
+}, {
+    "name": "Garrwa",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=wrk",
+    "location": "Australia: Northern Territory.",
+    "greetings": [{
+        "phrase": "Yangka barri?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Garus",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gyb",
+    "location": "Papua New Guinea: Astrolabe Bay.",
+    "greetings": [{
+        "phrase": "Iluk",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Tiro:m",
+        "explanation": "nighttime greeting"
+    }]
+}, {
+    "name": "Gavião do Jiparaná",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gvo",
+    "location": "Brazil: Rondônia.",
+    "greetings": [{
+        "phrase": "Té en ebákoá",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Gayo",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gay",
+    "location": "Indonesia: Sumatra.",
+    "greetings": [{
+        "phrase": "Assalamu'alaikum",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Wa'alaikumsalam",
+        "explanation": "reply to Assalamu'alaikum"
+    }, {
+        "phrase": "Hana këber?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Këber jeroh",
+        "explanation": "reply to Hana këber"
+    }, {
+        "phrase": "Sana këber?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Kune këber?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Gayón",
+    "url": "http://multitree.org/codes/qtp",
+    "location": "Venezuela: Lara region.",
+    "greetings": [{
+        "phrase": "Kónt hi",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Aro stá?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Bapurí",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Güe ub",
+        "explanation": "morning greeting in the Ayomán language [no ISO code for Ayomán. Linguist List: 085]"
+    }, {
+        "phrase": "Güe uch?",
+        "explanation": "how are you? in the Ayomán language [085]"
+    }, {
+        "phrase": "Bastagapó",
+        "explanation": "welcome greeting in the Ayomán language [085], \"come in\""
+    }, {
+        "phrase": "Batastá",
+        "explanation": "welcome greeting in the Ayomán language [085], \"sit down\""
+    }]
+}, {
+    "name": "Gbagyi",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gbr",
+    "location": "Nigeria: Niger State.",
+    "greetings": [{
+        "phrase": "Nkwa",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Gbari",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gby",
+    "location": "Nigeria: Niger State.",
+    "greetings": [{
+        "phrase": "Nkwa",
+        "explanation": "general greeting in the Gbagyi-Nkwa dialect [gby-gba]"
+    }, {
+        "phrase": "Arife",
+        "explanation": "morning greeting in the Kwali-Sumwakpna dialect [gby-kwa]"
+    }, {
+        "phrase": "Habi",
+        "explanation": "morning greeting in the Kwali-Sumwakpna dialect [gby-kwa]"
+    }, {
+        "phrase": "Abwaawyi",
+        "explanation": "evening greeting in the Kwali-Sumwakpna dialect [gby-kwa]"
+    }, {
+        "phrase": "Faari",
+        "explanation": "greeting to a person coming from a farm in the Kwali-Sumwakpna dialect [gby-kwa]"
+    }, {
+        "phrase": "Hajingezun",
+        "explanation": "evening greeting in the Zubakpna dialect"
+    }, {
+        "phrase": "Hazowyi",
+        "explanation": "evening greeting in the Zubakpna dialect"
+    }]
+}, {
+    "name": "Gbaya",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=krs",
+    "location": "South Sudan.",
+    "greetings": [{
+        "phrase": "Gbõgbi",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Gbõgbõ î ãyá 'dë?",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Jájá nî",
+        "explanation": "reply to Gbõgbõ î ãyá 'dë"
+    }, {
+        "phrase": "Úmü ãyá 'dë?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Ámä gõzõ nî",
+        "explanation": "reply to Úmü ãyá 'dë"
+    }, {
+        "phrase": "Á yãnjã dĩ úgú ë 'dë?",
+        "explanation": "where are you going?"
+    }]
+}, {
+    "name": "Gbaya-Mbodomo",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gmm",
+    "location": "Cameroon.",
+    "greetings": [{
+        "phrase": "Sàmé",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Gbaya, Northwest",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gya",
+    "location": "Central African Republic. Cameroon.",
+    "greetings": [{
+        "phrase": "Mɛɛ",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Wúr mɔ",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Ɂàsábìnà",
+        "explanation": "formal greeting"
+    }, {
+        "phrase": "Mɔ sààmɛ ndé",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Ma te",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Gbaya, Southwest",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gso",
+    "location": "Cameroon.",
+    "greetings": [{
+        "phrase": "Sàmé",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Mosàmé",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Gbe, Saxwe",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=sxw",
+    "location": "Benin.",
+    "greetings": [{
+        "phrase": "Mi lwɛ",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Mi ɖaxwe",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Mi ku sɔ",
+        "explanation": "greeting spoken to a person you have already greeted earlier"
+    }, {
+        "phrase": "Wezɔn",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Gbe, Waci",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=wci",
+    "location": "Togo. Benin: Mono Province.",
+    "greetings": [{
+        "phrase": "Woezɔn",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Gedaged",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gdd",
+    "location": "Papua New Guinea: Madang Province.",
+    "greetings": [{
+        "phrase": "Bomon gawai",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Ad gawai",
+        "explanation": "midday greeting"
+    }, {
+        "phrase": "Uza gawai",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Tidom gawai",
+        "explanation": "nighttime greeting"
+    }]
+}, {
+    "name": "Geez",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gez",
+    "location": "Ethiopia.",
+    "greetings": [{
+        "phrase": "Sālam lāki",
+        "explanation": "religious greeting"
+    }, {
+        "phrase": "Ḥawisā",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Ḥawesā",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Bāḥ",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Bāḥ",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Bāḥā",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Bāḥāka",
+        "explanation": "general greeting spoken to one man"
+    }, {
+        "phrase": "Bāḥka",
+        "explanation": "general greeting spoken to one woman"
+    }]
+}, {
+    "name": "Geji",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gji",
+    "location": "Nigeria: Bauchi State.",
+    "greetings": [{
+        "phrase": "Láfíya",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Gela",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=nlg",
+    "location": "Solomon Islands: Florida Islands.",
+    "greetings": [{
+        "phrase": "Ivei ko va?",
+        "explanation": "where are you going?"
+    }]
+}, {
+    "name": "Gen",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gej",
+    "location": "Togo and Benin.",
+    "greetings": [{
+        "phrase": "Sobedo",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Doso",
+        "explanation": "reply to Sobedo"
+    }, {
+        "phrase": "Nisobedo",
+        "explanation": "general greeting after a long absence"
+    }, {
+        "phrase": "Doyeeso",
+        "explanation": "reply to Nisobedo"
+    }, {
+        "phrase": "Wo fwa?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Mufo",
+        "explanation": "reply to Wo fwa"
+    }, {
+        "phrase": "Ofoin?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Aa",
+        "explanation": "reply to Ofoin"
+    }, {
+        "phrase": "O fon nwede a?",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Mi fon nwede a?",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Enh, mm fon nwede",
+        "explanation": "reply to O fon nwede a and Mi fon nwede a"
+    }, {
+        "phrase": "Enh",
+        "explanation": "reply to O fon nwede a and Mi fon nwede a"
+    }, {
+        "phrase": "Wheyzon",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Mi wheyzon",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Gende",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gaf",
+    "location": "Papua New Guinea: Madang Province.",
+    "greetings": [{
+        "phrase": "Mimike mogri",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Ivunana mogri",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Tumrana mogri",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Mogri mino?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Georgian",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=kat",
+    "location": "Georgia.",
+    "greetings": [{
+        "phrase": "გამარჯობა",
+        "explanation": "gamarjoba: general greeting"
+    }, {
+        "phrase": "გამარჯობათ",
+        "explanation": "gamarjobat: general greeting"
+    }, {
+        "phrase": "გაუმარჯოს",
+        "explanation": "gaumarjos: general greeting"
+    }, {
+        "phrase": "გაგიმარჯოს",
+        "explanation": "gagimarjos: reply to გამარჯობა and გაუმარჯოს"
+    }, {
+        "phrase": "სალამი",
+        "explanation": "salami: general greeting (from Arabic)"
+    }, {
+        "phrase": "ზდაროვა",
+        "explanation": "zdarava: general greeting (from Russian)"
+    }, {
+        "phrase": "დილა მშვიდობისა",
+        "explanation": "dili mshvidobisa: morning greeting"
+    }, {
+        "phrase": "საღამო მშვიდობისა",
+        "explanation": "saghamo mshivodibsa: evening and nighttime greeting"
+    }, {
+        "phrase": "ძილი ნებისა",
+        "explanation": "dzili nebisa: nighttime greeting"
+    }, {
+        "phrase": "როგორა ხარ?",
+        "explanation": "rogora khar: how are you?"
+    }, {
+        "phrase": "კარგად ვარ",
+        "explanation": "kargard var: reply to როგორა ხარ"
+    }, {
+        "phrase": "გმადლობთ კარგად",
+        "explanation": "gmadlobt kargard: reply to როგორა ხარ"
+    }, {
+        "phrase": "მე კარგად, გმადლობთ",
+        "explanation": "me kargard, gmadlobt: reply to როგორა ხარ"
+    }, {
+        "phrase": "კეთილი იყოს თქვენი",
+        "explanation": "kethili iqos tkveni: welcome greeting"
+    }, {
+        "phrase": "მობრძანდით",
+        "explanation": "mobrdzandit: welcome greeting"
+    }, {
+        "phrase": "შენი მობრძანება",
+        "explanation": "sheni mobrdzaneba: welcome greeting"
+    }]
+}, {
+    "name": "German, Standard",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=deu",
+    "location": "Germany, Austria, Switzerland, Liechtenstein, and various other countries in central Europe.",
+    "greetings": [{
+        "phrase": "Guten Tag",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Guten Morgen",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Guten Abend",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Hallo",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Grüß dich",
+        "explanation": "informal greeting"
+    }, {
+        "phrase": "Tag",
+        "explanation": "informal greeting"
+    }, {
+        "phrase": "Wie geht's?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Wie geht es Ihnen?",
+        "explanation": "how are you? formal"
+    }, {
+        "phrase": "Wie geht es dir?",
+        "explanation": "how are you? informal"
+    }, {
+        "phrase": "Es geht mir gut",
+        "explanation": "reply to Wie geht's, Wie geht es Ihnen, and Wie geht es dir"
+    }, {
+        "phrase": "Mir geht es gut",
+        "explanation": "reply to Wie geht's, Wie geht es Ihnen, and Wie geht es dir"
+    }, {
+        "phrase": "Wilkommen",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Hoi",
+        "explanation": "informal greeting used in Austria, Switzerland, and Liechtenstein (spoken language only)"
+    }, {
+        "phrase": "Grüß Gott",
+        "explanation": "general greeting spoken in Bavaria and Warttemburg (spoken language only)"
+    }, {
+        "phrase": "Griass God",
+        "explanation": "general greeting spoken in Vienna (spoken language only)"
+    }, {
+        "phrase": "Seavas",
+        "explanation": "informal greeting spoken in Vienna (spoken language only)"
+    }, {
+        "phrase": "Gun moagn",
+        "explanation": "morning greeting spoken in Vienna (spoken language only)"
+    }, {
+        "phrase": "Dere",
+        "explanation": "afternoon greeting spoken in Vienna (spoken language only)"
+    }, {
+        "phrase": "Juten Morjen",
+        "explanation": "morning greeting in the Berlin dialect (spoken language only)"
+    }, {
+        "phrase": "Juten Abend",
+        "explanation": "evening greeting in the Berlin dialect (spoken language only)"
+    }, {
+        "phrase": "Gudä tag",
+        "explanation": "general greeting in the Badisch dialect (spoken language only)"
+    }, {
+        "phrase": "Guude",
+        "explanation": "general greeting in the Hessisch dialect (spoken language only)"
+    }, {
+        "phrase": "Guude wiie",
+        "explanation": "general greeting in the Hessisch dialect (spoken language only)"
+    }, {
+        "phrase": "Ei, guude wiie",
+        "explanation": "general greeting in the Hessisch dialect (spoken language only)"
+    }, {
+        "phrase": "Morsche",
+        "explanation": "general greeting in the Hessisch dialect (spoken language only)"
+    }, {
+        "phrase": "Guden Dach",
+        "explanation": "general greeting in the Hessisch dialect (spoken language only)"
+    }, {
+        "phrase": "Gemorje",
+        "explanation": "monring greeting in the Hessisch dialect (spoken language only)"
+    }, {
+        "phrase": "Gut Nacht",
+        "explanation": "nighttime greeting in the Hessisch dialect (spoken language only)"
+    }, {
+        "phrase": "Juten Tach",
+        "explanation": "general greeting in the Rheinisch dialect (spoken language only)"
+    }, {
+        "phrase": "Juten Morjen",
+        "explanation": "morning greeting in the Rheinisch dialect (spoken language only)"
+    }, {
+        "phrase": "Juten Abend",
+        "explanation": "eveninggreeting in the Rheinisch dialect (spoken language only)"
+    }, {
+        "phrase": "Juten Nacht",
+        "explanation": "nighttime greeting in the Rheinisch dialect (spoken language only)"
+    }, {
+        "phrase": "Wie jeht et?",
+        "explanation": "how are you? in the Rheinisch dialect (spoken language only)"
+    }, {
+        "phrase": "Jut",
+        "explanation": "reply to Wie jeht et in the Rheinisch dialect (spoken language only)"
+    }, {
+        "phrase": "Un",
+        "explanation": "informal greeting in the Saarländisch dialect (spoken language only)"
+    }, {
+        "phrase": "Gendach",
+        "explanation": "general greeting in the Saarländisch dialect (spoken language only)"
+    }, {
+        "phrase": "Genaachd",
+        "explanation": "nighttime greeting in the Saarländisch dialect (spoken language only)"
+    }, {
+        "phrase": "Gudden Dach",
+        "explanation": "general greeting in the Saarländisch dialect of Germany (spoken language only)"
+    }, {
+        "phrase": "Guude Nöet",
+        "explanation": "nighttime greeting in the Saarländisch dialect of Germany (spoken language only)"
+    }, {
+        "phrase": "Guud",
+        "explanation": "general greeting in the Südhessisch dialect of Germany (spoken language only)"
+    }, {
+        "phrase": "Ei guude wie",
+        "explanation": "general greeting in the Südhessisch dialect of Germany (spoken language only)"
+    }, {
+        "phrase": "Moin",
+        "explanation": "general greeting in the Südhessisch dialect of Germany (spoken language only)"
+    }, {
+        "phrase": "Gute Owend",
+        "explanation": "evening greeting in the Südhessisch dialect of Germany (spoken language only)"
+    }, {
+        "phrase": "Ers Gott",
+        "explanation": "general greeting spoken in South Tyrol (spoken language only)"
+    }, {
+        "phrase": "N'obed",
+        "explanation": "evening greeting in the Vorarlberg dialect of Austria (spoken language only)"
+    }, {
+        "phrase": "Noobe",
+        "explanation": "evening greeting in the Vorarlberg dialect of Austria (spoken language only)"
+    }]
+}, {
+    "name": "German, Middle High",
+    "url": "http://multitree.org/codes/gmh.html",
+    "location": "Germany, Austria, and Switzerland: 11th to 14th century A.D.",
+    "greetings": [{
+        "phrase": "Willekommen",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "German, Middle Low",
+    "url": "http://multitree.org/codes/gml.html",
+    "location": "northern Germany: 12th to 14th century A.D.",
+    "greetings": [{
+        "phrase": "Grōt",
+        "explanation": "formal greeting"
+    }, {
+        "phrase": "Guoten tac",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Guoten morgen",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Guote naht",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Willekome",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Willekōmen",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "German, Old High",
+    "url": "http://multitree.org/codes/goh.html",
+    "location": "Germany, Austria, and Switzerland: 8th to 11th century A.D.",
+    "greetings": [{
+        "phrase": "Willechomen",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Williquemo",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "German, Colonia Tovar",
+    "url": "http://multitree.org/codes/gct.html",
+    "location": "Venezuela: Colonia Tovar.",
+    "greetings": [{
+        "phrase": "Cot nojt",
+        "explanation": "nighttime greeting"
+    }]
+}, {
+    "name": "German, Pennsylvania",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=pdc",
+    "location": "United States and Canada.",
+    "greetings": [{
+        "phrase": "Hallo",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Guder Daag",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Guder Mariye",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Guder Numidaag",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Guder Owend",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Guti Nacht",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Wie geht's?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Wie bischt?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Wie bischt du?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Gut",
+        "explanation": "reply to Wie geht's, Wie bischt, and Wie bischt du"
+    }, {
+        "phrase": "Zimmlich gut",
+        "explanation": "reply to Wie geht's, Wie bischt, and Wie bischt du"
+    }, {
+        "phrase": "Ich bin gut",
+        "explanation": "reply to Wie bischt and Wie bischt du"
+    }, {
+        "phrase": "Wilkum",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "German, Swiss",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gsw",
+    "location": "Germany, Austria, Switzerland, Liechtenstein, and various other countries in central Europe.",
+    "greetings": [{
+        "phrase": "Grüß Gott",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Bùschùr",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Gru-etsi",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Gru-essuch",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Guàtertag",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Guetä Morgä",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Güete morje",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Güete-n-owe",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Hoi",
+        "explanation": "informal greeting"
+    }, {
+        "phrase": "Salü bisàmme",
+        "explanation": "afternoon and evening greeting"
+    }, {
+        "phrase": "Wie geht's?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Wie geht's Ihr?",
+        "explanation": "how are you? formal"
+    }, {
+        "phrase": "Wie geht's dir?",
+        "explanation": "how are you? informal"
+    }, {
+        "phrase": "Ganz güet",
+        "explanation": "reply to Wie geht's, Wie geht's Ihr, and Wie geht's dir"
+    }, {
+        "phrase": "Willkumme",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Göte Tàij",
+        "explanation": "general greeting spoken in the Alsatian dialect of France [gsw-als]"
+    }, {
+        "phrase": "Salü",
+        "explanation": "general greeting spoken in the Alsatian dialect of France [gsw-als]"
+    }, {
+        "phrase": "Bùschùr",
+        "explanation": "morning greeting spoken in the Alsatian dialect of France [gsw-als]"
+    }, {
+        "phrase": "Bùschùr alli",
+        "explanation": "morning greeting spoken in the Alsatian dialect of France [gsw-als]"
+    }, {
+        "phrase": "Güete Morje",
+        "explanation": "morning greeting spoken in the Alsatian dialect of France [gsw-als]"
+    }, {
+        "phrase": "Griezi",
+        "explanation": "polite greeting spoken in Basel [gsw-bas]"
+    }, {
+        "phrase": "Grü-essech",
+        "explanation": "general greeting spoken in Bern [gsw-ber]"
+    }, {
+        "phrase": "Grü-esdi",
+        "explanation": "general greeting spoken in Bern [gsw-ber]"
+    }, {
+        "phrase": "Gu-ete Morge",
+        "explanation": "morning greeting spoken in Bern [gsw-ber]"
+    }, {
+        "phrase": "Gu-eten Abe",
+        "explanation": "evening greeting spoken in Bern [gsw-ber]"
+    }, {
+        "phrase": "Grazi",
+        "explanation": "general greeting spoken in Chur [gsw-gra]"
+    }, {
+        "phrase": "Gruiazi",
+        "explanation": "general greeting spoken in Chur [gsw-gra]"
+    }, {
+        "phrase": "Ciao",
+        "explanation": "informal greeting spoken in Chur [gsw-gra]"
+    }, {
+        "phrase": "Grüazi",
+        "explanation": "general greeting spoken in Schaffhausen [gsw-stg]"
+    }, {
+        "phrase": "Grüezi",
+        "explanation": "general greeting spoken in Schaffhausen [gsw-stg]"
+    }, {
+        "phrase": "Grüezi mitenand",
+        "explanation": "general greeting spoken in Schaffhausen [gsw-stg]"
+    }, {
+        "phrase": "Guete Morge",
+        "explanation": "morning greeting spoken in Schaffhausen [gsw-stg]"
+    }, {
+        "phrase": "Guete Taag",
+        "explanation": "daytimel greeting spoken in Schaffhausen [gsw-stg]"
+    }, {
+        "phrase": "Gueten Obig",
+        "explanation": "evening greeting spoken in Schaffhausen [gsw-stg]"
+    }, {
+        "phrase": "Guet Nacht",
+        "explanation": "nighttime greeting spoken in Schaffhausen [gsw-stg]"
+    }, {
+        "phrase": "Hoi",
+        "explanation": "informal greeting spoken in Schaffhausen [gsw-stg]"
+    }, {
+        "phrase": "Wi gohts?",
+        "explanation": "how are you? spoken in Schaffhausen [gsw-stg]"
+    }, {
+        "phrase": "Solli",
+        "explanation": "general greeting from Südbaden dialect [gsw-low]"
+    }, {
+        "phrase": "Salli",
+        "explanation": "general greeting from Südbaden dialect [gsw-low]"
+    }, {
+        "phrase": "Grüezi",
+        "explanation": "general greeting spoken in Zurich [gsw-zur]"
+    }, {
+        "phrase": "Grueziwohl",
+        "explanation": "polite greeting spoken in Zurich [gsw-zur]"
+    }, {
+        "phrase": "Salutti",
+        "explanation": "general greeting spoken in Zurich [gsw-zur]"
+    }, {
+        "phrase": "Hoi",
+        "explanation": "informal greeting spoken in Zurich [gsw-zur]"
+    }, {
+        "phrase": "Salü",
+        "explanation": "informal greeting spoken in Zurich [gsw-zur]"
+    }, {
+        "phrase": "Tschau",
+        "explanation": "informal greeting spoken in Zurich [gsw-zur]"
+    }, {
+        "phrase": "Gu-ëte Tag",
+        "explanation": "general greeting spoken in Zurich [gsw-zur]"
+    }, {
+        "phrase": "Gu-etä Tag",
+        "explanation": "general greeting spoken in Zurich [gsw-zur]"
+    }, {
+        "phrase": "Gu-ëte Morgë",
+        "explanation": "morning greeting spoken in Zurich [gsw-zur]"
+    }, {
+        "phrase": "Gu-etä Morge",
+        "explanation": "morning greeting spoken in Zurich [gsw-zur]"
+    }, {
+        "phrase": "Morgë",
+        "explanation": "morning greeting spoken in Zurich [gsw-zur]"
+    }, {
+        "phrase": "Gu-ëten Aabig",
+        "explanation": "evening greeting spoken in Zurich [gsw-zur]"
+    }, {
+        "phrase": "Gu-etän Aabig",
+        "explanation": "evening greeting spoken in Zurich [gsw-zur]"
+    }, {
+        "phrase": "Hoa",
+        "explanation": "informal greeting used by youth in Zurich [gsw-zur]"
+    }, {
+        "phrase": "Ha",
+        "explanation": "informal greeting used by youth in Zurich [gsw-zur]"
+    }, {
+        "phrase": "Tag wohl",
+        "explanation": "older greeting formerly used in Zurich [gsw-zur]"
+    }, {
+        "phrase": "Aabig",
+        "explanation": "older evening greeting formerly used in Zurich [gsw-zur]"
+    }, {
+        "phrase": "Willkomme",
+        "explanation": "welcome greeting spoken in the Alsatian dialect of France [gsw-als]"
+    }]
+}, {
+    "name": "Ghadamès",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gha",
+    "location": "Libya: Ghadamès. Tunisia.",
+    "greetings": [{
+        "phrase": "Azul",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Ta lkheber ennouen?",
+        "explanation": "how are you?, informal"
+    }, {
+        "phrase": "Ta lkheber ennek?",
+        "explanation": "how are you?, informal"
+    }, {
+        "phrase": "Ta lkheber?",
+        "explanation": "how are you?, informal"
+    }]
+}, {
+    "name": "Ghanaian Pidgin",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gpe",
+    "location": "Ghana.",
+    "greetings": [{
+        "phrase": "How are you?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "How be?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "How be bodi?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "How now?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "How?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Fine",
+        "explanation": "reply to How be, How now, How, and How are you"
+    }, {
+        "phrase": "Chale, how be?",
+        "explanation": "how are you? informal"
+    }, {
+        "phrase": "Cool things",
+        "explanation": "reply to How be"
+    }, {
+        "phrase": "Wassop?",
+        "explanation": "how are you? informal, \"what's up\""
+    }, {
+        "phrase": "Good morning",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Good afternoon",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Good evening",
+        "explanation": "evening greeting"
+    }]
+}, {
+    "name": "Ghanongga",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=ghn",
+    "location": "Solomon Islands: North Ranongga.",
+    "greetings": [{
+        "phrase": "Ko ao pae tu mu lao?",
+        "explanation": "where are you going?"
+    }]
+}, {
+    "name": "Ghomálá'",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=bbj",
+    "location": "Cameroon: West Province.",
+    "greetings": [{
+        "phrase": "Gāə̌ cà'tə̀",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Fôkdzʉ̂ pə́púŋ̄",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Áām gāə̂ kə̀?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Ǎ lɛ́tə́ zê",
+        "explanation": "reply to Áām gāə̂ kə̀"
+    }, {
+        "phrase": "Otia",
+        "explanation": "general greeting spoken in the Bafoussam dialect"
+    }, {
+        "phrase": "Olia",
+        "explanation": "general greeting spoken in the Baleng dialect"
+    }, {
+        "phrase": "Olila",
+        "explanation": "general greeting spoken in the Banjoun dialect [bbj-gho]"
+    }]
+}, {
+    "name": "Ghayavi",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=bmk",
+    "location": "Papua New Guinea: Milne Bay.",
+    "greetings": [{
+        "phrase": "Kaiwa",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Boiboi beibeina",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Ku gwani",
+        "explanation": "literally \"my friend\""
+    }, {
+        "phrase": "Enosaire",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Gikuyu",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=kik",
+    "location": "Kenya: west central region.",
+    "greetings": [{
+        "phrase": "Naya",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Ni kwega",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Wi mwega?",
+        "explanation": "greeting spoken to one person"
+    }, {
+        "phrase": "Di mwega",
+        "explanation": "reply to Wi mwega"
+    }, {
+        "phrase": "Di mwega muno",
+        "explanation": "reply to Wi mwega"
+    }, {
+        "phrase": "Uri mwega?",
+        "explanation": "greeting spoken to a group of people"
+    }, {
+        "phrase": "Muri ega?",
+        "explanation": "greeting spoken to a group of people"
+    }, {
+        "phrase": "Uhoro waku",
+        "explanation": "greeting spoken to one person"
+    }, {
+        "phrase": "Uhoro wanyu",
+        "explanation": "greeting spoken to a group of people"
+    }, {
+        "phrase": "Kweruo atia?",
+        "explanation": "informal greeting"
+    }, {
+        "phrase": "Wi muhoro",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Wi mwega ruciini",
+        "explanation": "morning greeting spoken to one person"
+    }, {
+        "phrase": "Muriega ruciini",
+        "explanation": "morning greeting spoken to a group of people"
+    }, {
+        "phrase": "Wi mwega hwaiini",
+        "explanation": "evening greeting spoken to one person"
+    }, {
+        "phrase": "Muriega hwaiini",
+        "explanation": "evening greeting spoken to a group of people"
+    }, {
+        "phrase": "Raara uhoro",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Kweruo atia?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Ni kwega",
+        "explanation": "reply to Kweruo atia"
+    }, {
+        "phrase": "Waiguo atia?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Asha, ndi mwega",
+        "explanation": "reply to Waiguo atia"
+    }]
+}, {
+    "name": "Gilaki",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=glk",
+    "location": "Iran.",
+    "greetings": [{
+        "phrase": "Səlam aleykum",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Alaykum səlam",
+        "explanation": "reply to Səlam aleykum"
+    }, {
+        "phrase": "Ruj badahat",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Shab bəkhyr",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Ti ahvål chutorə?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Mi ahvål xobə",
+        "explanation": "reply to Ti avål chutorə"
+    }, {
+        "phrase": "Či kuni?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Či kår kuni?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Alhamdullå bəd níyəm",
+        "explanation": "reply to Či kuni and Či kår kuni"
+    }, {
+        "phrase": "Bəd níyəm",
+        "explanation": "reply to Či kuni and Či kår kuni"
+    }, {
+        "phrase": "Či hal o khabər?",
+        "explanation": "how are you? informal"
+    }, {
+        "phrase": "Ti ahvål khob ise?",
+        "explanation": "how are you? spoken to one person"
+    }, {
+        "phrase": "Shumi ahvål khob ise?",
+        "explanation": "how are you? spoken to a group?"
+    }, {
+        "phrase": "Shumi hal chutoye?",
+        "explanation": "how are you? formal"
+    }, {
+        "phrase": "Ti hal chuyoye?",
+        "explanation": "how are you? informal"
+    }]
+}, {
+    "name": "Gimi",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gim",
+    "location": "Papua New Guinea: Eastern Highlands Province.",
+    "greetings": [{
+        "phrase": "Mahalora",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Folalaie",
+        "explanation": "midday greeting"
+    }, {
+        "phrase": "Nugita",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Utunabi",
+        "explanation": "evening greeting"
+    }]
+}, {
+    "name": "Girawa",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=bbr",
+    "location": "Papua New Guinea: Madang Province.",
+    "greetings": [{
+        "phrase": "Ku san",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Pere",
+        "explanation": "greeting when meeting someone for the first time"
+    }]
+}, {
+    "name": "Gitua",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=ggt",
+    "location": "Papua New Guinea: Morobe Province.",
+    "greetings": [{
+        "phrase": "Bodzodzoogo puaia",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Raraviina puaia",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Dorooman puaia",
+        "explanation": "nighttime greeting"
+    }]
+}, {
+    "name": "Gitxsan",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=git",
+    "location": "Canada: British Columbia.",
+    "greetings": [{
+        "phrase": "'Nit",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "'Nit amhl wila wina?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "'Nit ndehl ligi wila wina?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Amma laxha",
+        "explanation": "greeting used during good weather"
+    }, {
+        "phrase": "Amma sa'",
+        "explanation": "daytime greeting"
+    }, {
+        "phrase": "Amma hiihluxw",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Amma galenhl silkwsaxs",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Amma yuxwsa",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Amma axxw",
+        "explanation": "nighttime greeting"
+    }]
+}, {
+    "name": "Gizrra",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=tof",
+    "location": "Papua New Guinea: South Fly area of Western Province.",
+    "greetings": [{
+        "phrase": "Morwal irrbi",
+        "explanation": "morning greeting (calque from English)"
+    }, {
+        "phrase": "Morwal irrub",
+        "explanation": "nighttime and early morning greeting (calque from English)"
+    }]
+}, {
+    "name": "Godié",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=god",
+    "location": "Côte d'Ivoire.",
+    "greetings": [{
+        "phrase": "Àyóka",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Àyó",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Àglɔɔ",
+        "explanation": "morning greeting"
+    }]
+}, {
+    "name": "Gofa",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gof",
+    "location": "Ethiopia: Gamo-Gafo Zone.",
+    "greetings": [{
+        "phrase": "Saro",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Saro de'ay?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Gogo",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gog",
+    "location": "Tanzania: central region.",
+    "greetings": [{
+        "phrase": "Mbukwenyi",
+        "explanation": "respectful greeting"
+    }, {
+        "phrase": "Mbukwa",
+        "explanation": "reply to Mbukwenyi"
+    }, {
+        "phrase": "Za wuso",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Za wuso wedo wako",
+        "explanation": "reply to Za wuso"
+    }, {
+        "phrase": "A wuwu za wuso wako",
+        "explanation": "reply to Za wuso"
+    }, {
+        "phrase": "Za wagono?",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Gwegwe",
+        "explanation": "reply to Za wuso and Za wagono spoken to one person"
+    }, {
+        "phrase": "Za wugono gwegwe",
+        "explanation": "reply to Za wagono spoken to one person"
+    }, {
+        "phrase": "Za wugono nyenye",
+        "explanation": "reply to Za wagono spoken to a group"
+    }, {
+        "phrase": "Za wugono wenyu",
+        "explanation": "reply to Za wagono spoken to a group"
+    }, {
+        "phrase": "Mihanya",
+        "explanation": "afternoon greeting spoken to one person"
+    }, {
+        "phrase": "Mihanyenyi",
+        "explanation": "afternoon greeting spoken to a group of people"
+    }, {
+        "phrase": "Misaa",
+        "explanation": "reply to Mihanya and Mihanyenyi"
+    }, {
+        "phrase": "Mwasinuka?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Welaa",
+        "explanation": "reply to Mwasinuka"
+    }, {
+        "phrase": "Ntaule?",
+        "explanation": "how are you?, informal"
+    }, {
+        "phrase": "Cholo kiona",
+        "explanation": "reply to Ntaule"
+    }]
+}, {
+    "name": "Gogodala",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=ggw",
+    "location": "Papua New Guinea: Western Province.",
+    "greetings": [{
+        "phrase": "Nagala",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Selenapa ibasege",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Selenapa kadepa tepa",
+        "explanation": "midday greeting"
+    }, {
+        "phrase": "Selenapa debe",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Selenapa isa",
+        "explanation": "nighttime greeting"
+    }]
+}, {
+    "name": "Gola",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gol",
+    "location": "Liberia and Sierra Leone.",
+    "greetings": [{
+        "phrase": "Markeer",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Markeer yea",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "De mun tuvo?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Baika wee ehniay mea",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Golin",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gvf",
+    "location": "Papua New Guinea: Simbu Province.",
+    "greetings": [{
+        "phrase": "Taanima wai",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Tamna wai",
+        "explanation": "morning greeting in the Kia dialect"
+    }, {
+        "phrase": "Koleyai",
+        "explanation": "morning greeting in the Ibai dialect"
+    }, {
+        "phrase": "Homleyai",
+        "explanation": "morning greeting in the Kilau dialect"
+    }, {
+        "phrase": "Puduga wai",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Pundunga wai",
+        "explanation": "afternoon greeting in the Kia dialect"
+    }, {
+        "phrase": "Glaa wai",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Gla wai",
+        "explanation": "evening greeting in the Kia dialect"
+    }, {
+        "phrase": "Kwimol wai",
+        "explanation": "greeting spoken to a man"
+    }, {
+        "phrase": "Yaa kuna",
+        "explanation": "greeting spoken to a man"
+    }, {
+        "phrase": "Gi wai",
+        "explanation": "greeting spoken to a woman"
+    }, {
+        "phrase": "Abal kunaa",
+        "explanation": "greeting spoken to a woman"
+    }]
+}, {
+    "name": "Gondi, Northern",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gno",
+    "location": "India.",
+    "greetings": [{
+        "phrase": "जोहार",
+        "explanation": "johar: general greeting"
+    }, {
+        "phrase": "राम राम",
+        "explanation": "rām rām: general greeting"
+    }]
+}, {
+    "name": "Gondi, Southern",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=ggo",
+    "location": "India.",
+    "greetings": [{
+        "phrase": "राम राम",
+        "explanation": "rām rām: general greeting"
+    }, {
+        "phrase": "चोकोट मनित",
+        "explanation": "cokoṭ manti: how are you?"
+    }, {
+        "phrase": "चोकोट मनतोन",
+        "explanation": "cokoṭ mantōn: reply to चोकोट मनित"
+    }]
+}, {
+    "name": "Gonja",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gjn",
+    "location": "Ghana: Northern Region.",
+    "greetings": [{
+        "phrase": "Me choro",
+        "explanation": "general greeting, \"I greet you\""
+    }, {
+        "phrase": "Anshumaa",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Klada",
+        "explanation": "reply to Anshumaa"
+    }, {
+        "phrase": "Adesba?",
+        "explanation": "morning greeting, \"did you sleep well?\""
+    }, {
+        "phrase": "Antire",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Aninwulaa",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Anwula",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Ebɔre esa karichɛ lela",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Asaŋ kushuŋ",
+        "explanation": "greeting spoken to a person who is working, \"thank you\""
+    }, {
+        "phrase": "Fo kalade-a?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Nkɔ elenfia",
+        "explanation": "reply to Fo kalade-a"
+    }, {
+        "phrase": "Awoo",
+        "explanation": "reply to greetings"
+    }, {
+        "phrase": "Maraaba",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Fo maraaba",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Ngooyaa",
+        "explanation": "reply to Maraaba and Fo maraaba"
+    }]
+}, {
+    "name": "Gooniyandi",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gni",
+    "location": "Australia: Western Australia.",
+    "greetings": [{
+        "phrase": "Ngoonyiyirra warginggiri?",
+        "explanation": "where are you going?"
+    }]
+}, {
+    "name": "Gor",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=ggr",
+    "location": "Chad: Logone Oriental.",
+    "greetings": [{
+        "phrase": "M-uwə jī-í",
+        "explanation": "formal greeting, \"I grasp your hand\""
+    }, {
+        "phrase": "Bàń à?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Bàń ǝ̄?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Bàń wà?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Kàrē",
+        "explanation": "reply to Bàń à, Bàń ǝ̄, and Bàń wà"
+    }, {
+        "phrase": "Só-tí",
+        "explanation": "reply to Bàń à, Bàń ǝ̄, and Bàń wà"
+    }, {
+        "phrase": "Āw ɗá wà?",
+        "explanation": "where are you going?"
+    }]
+}, {
+    "name": "Goreng",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=xgg",
+    "location": "Australia: Western Australia.",
+    "greetings": [{
+        "phrase": "Balka wittaberri",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Gorontalo",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gor",
+    "location": "Indonesia: Sulawesi.",
+    "greetings": [{
+        "phrase": "Salamu",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Salamu alayikum",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Salamati dumodupo",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Dumodupo nga'amila",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Wololo habari?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Piyo-piyohu",
+        "explanation": "reply to Wololo habari"
+    }, {
+        "phrase": "Mopiyohu",
+        "explanation": "reply to Wololo habari"
+    }, {
+        "phrase": "Watiya piyo-piyohu",
+        "explanation": "reply to Wololo habari"
+    }, {
+        "phrase": "Botulo pomayi de bele",
+        "explanation": "welcome greeting, \"come in\""
+    }, {
+        "phrase": "Hulo'o pomayi",
+        "explanation": "welcome greeting, \"have a seat\""
+    }]
+}, {
+    "name": "Gorowa",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gow",
+    "location": "Tanzania: Arusha region.",
+    "greetings": [{
+        "phrase": "Laowai",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Lauimerayi",
+        "explanation": "reply to Laowai"
+    }]
+}, {
+    "name": "Gothic",
+    "url": "http://multitree.org/codes/got.html",
+    "location": "Crimea during the 16th century.",
+    "greetings": [{
+        "phrase": "Hails",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Knauen tag",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Golja izwis",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Gourmanchéma",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gux",
+    "location": "Burkina Faso: eastern region.",
+    "greetings": [{
+        "phrase": "N'fanda",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Din tè",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Lafia",
+        "explanation": "reply to Din tè"
+    }, {
+        "phrase": "Lafia dè",
+        "explanation": "reply to Din tè"
+    }, {
+        "phrase": "Biali biala",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Npoo",
+        "explanation": "reply to Biali biala"
+    }]
+}, {
+    "name": "Great Andamanese",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gac",
+    "location": "India: Andaman and Nicobar.",
+    "greetings": [{
+        "phrase": "Kʰitani ŋiyo be?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Enɔlwe?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Dinɔl?",
+        "explanation": "are you okay?"
+    }, {
+        "phrase": "Ala",
+        "explanation": "greeting used for arrival"
+    }]
+}, {
+    "name": "Grebo, Northern",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gbo",
+    "location": "Liberia.",
+    "greetings": [{
+        "phrase": "Na wie",
+        "explanation": "general greeting spoken to one person"
+    }, {
+        "phrase": "A wie",
+        "explanation": "general greeting spoken to a group of people"
+    }, {
+        "phrase": "Na weya o",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Na fede?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Na fe nu te",
+        "explanation": "reply to Na fede"
+    }, {
+        "phrase": "Mo wie",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Greek",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=ell",
+    "location": "Greece, Cyprus, and Italy.",
+    "greetings": [{
+        "phrase": "Γεια σας",
+        "explanation": "yeia sas: formal greeting"
+    }, {
+        "phrase": "Γεια σου",
+        "explanation": "yeia sou: informal greeting"
+    }, {
+        "phrase": "Γεια",
+        "explanation": "yeia: general greeting"
+    }, {
+        "phrase": "Καλημερα",
+        "explanation": "kalimera: daytime greeting"
+    }, {
+        "phrase": "Χαιρετε",
+        "explanation": "khairete: afternoon greeting"
+    }, {
+        "phrase": "Καλο μεσημερι",
+        "explanation": "kalo mesimeri: afternoon greeting"
+    }, {
+        "phrase": "Καλησπερα",
+        "explanation": "kalispera: evening greeting"
+    }, {
+        "phrase": "Καλό βράδυ",
+        "explanation": "kalo vrathi: evening greeting"
+    }, {
+        "phrase": "Καληνυχτα",
+        "explanation": "kalinikhta: nighttime greeting"
+    }, {
+        "phrase": "Πος εισαι;",
+        "explanation": "pos eisai: how are you? to one person"
+    }, {
+        "phrase": "Πος ειστε;",
+        "explanation": "pos eiste: how are you? to a group of people"
+    }, {
+        "phrase": "Πος εισαστε;",
+        "explanation": "pos eistaote: how are you? to a group of people"
+    }, {
+        "phrase": "Καλα. ευχαριστω",
+        "explanation": "kala efkharisto: reply to Πος εισαι, Πος ειστε and Πος εισαστε"
+    }, {
+        "phrase": "Τι κάνεις;",
+        "explanation": "ti kaneis: informal greeting"
+    }, {
+        "phrase": "Καλως ηρθατε",
+        "explanation": "kalos irthate: welcome greeting to a group"
+    }, {
+        "phrase": "Καλως ηρθες",
+        "explanation": "kalos irthes: informal welcome greeting to one person"
+    }, {
+        "phrase": "Καλωσ ορισατε",
+        "explanation": "kalos orisate: welcome greeting to a group in the Dimotiki (δημοτικη) dialect [ell-dim]"
+    }, {
+        "phrase": "Καλωσ ορισες",
+        "explanation": "kalos orises: informal welcome greeting to one in the Dimotiki dialect [ell-dim]"
+    }, {
+        "phrase": "Καλωσ χορισατε",
+        "explanation": "kalos horisate: welcome to a group in the Katharevousa (Καθαρεύουσα) dialect [ell-kat]"
+    }, {
+        "phrase": "Τι βολj;",
+        "explanation": "ti volj: how are you? in the Chalkidiki (Χαλκιδική) dialect [ell-mac]"
+    }, {
+        "phrase": "Τι φκjανjs;",
+        "explanation": "ti fkjanjs : how are you? in the Chalkidiki (Χαλκιδική) dialect [ell-mac]"
+    }, {
+        "phrase": "Τι ρε φκjανjs;",
+        "explanation": "ti re fkjanjs : how are you? spoken to a man in the Chalkidiki dialect [ell-mac]"
+    }, {
+        "phrase": "Τι μαρί φκjανjs;",
+        "explanation": "ti mari fkjanjs : how are you? in the Chalkidiki (Χαλκιδική) dialect [ell-mac]"
+    }, {
+        "phrase": "Καληνυφτα",
+        "explanation": "kalinifta: evening greeting in the Salento (Κατωιταλιώτικα) dialect of Italy [ell-sal]"
+    }, {
+        "phrase": "Καλως ηρτε",
+        "explanation": "kalos irte: welcome greeting to a man in the Salento (Κατωιταλιώτικα) dialect [ell-sal]"
+    }, {
+        "phrase": "Καλη ηρτε",
+        "explanation": "kali irte: welcome to a woman in the Salento (Κατωιταλιώτικα) dialect of Italy [ell-sal]"
+    }, {
+        "phrase": "Καλως ηρτατε",
+        "explanation": "kalos irtato: welcome to a group in the Salento (Κατωιταλιώτικα) dialect of Italy [ell-sal]"
+    }, {
+        "phrase": "Ίντα μπου κάμνεις;",
+        "explanation": "inta bou kamneis: how are you? in the Cypriot dialect of Cyprus [ell-cyp]"
+    }, {
+        "phrase": "Ίντα κάμνεις;",
+        "explanation": "inta kamneis: how are you? in the Cypriot dialect of Cyprus [ell-cyp]"
+    }, {
+        "phrase": "Καλά κάμνω",
+        "explanation": "kala kamno: reply to Ίντα μπου κάμνεις; and Ίντα κάμνεις; in the Cypriot dialect [ell-cyp]"
+    }]
+}, {
+    "name": "Greek, Ancient",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=grc",
+    "location": "Greece.",
+    "greetings": [{
+        "phrase": "Χαῖρε",
+        "explanation": "khaiire: greeting to one person"
+    }, {
+        "phrase": "Χαίρετε",
+        "explanation": "khairete: greeting to more than one person"
+    }, {
+        "phrase": "Μέγα χαῖρε",
+        "explanation": "mega khaire: greeting to one person"
+    }, {
+        "phrase": "Μέγα χαίρετε",
+        "explanation": "mega khairete: greeting to more than one person"
+    }, {
+        "phrase": "Καὶ σὺ γε",
+        "explanation": "kai su ye: reply to Χαῖρε, Χαίρετε, Μέγα χαῖρε, and Μέγα χαίρετε"
+    }, {
+        "phrase": "Τί πράττεις;",
+        "explanation": "ti pratteis: how are you, spoken to one person"
+    }, {
+        "phrase": "Τί πράττετε;",
+        "explanation": "ti prattete: how are you, spoken to a group"
+    }, {
+        "phrase": "Πάντ' ἀγαθὰ πράττω, ὦ φίλε",
+        "explanation": "pant' agatha pratto o file: reply to Τί πράττεις and Τί πράττετε;"
+    }, {
+        "phrase": "Πῶς ἐχεῖς;",
+        "explanation": "pos ekheis: how are you?"
+    }, {
+        "phrase": "Καλῶς ἔχω",
+        "explanation": "kalos ekho: reply to πῶς ἐχεῖς;"
+    }, {
+        "phrase": "Εὖ ἔχω",
+        "explanation": "eu ekho: reply to πῶς ἐχεῖς;"
+    }, {
+        "phrase": "Καλήμερον",
+        "explanation": "kalimeron: general greeting in the Koine dialect"
+    }, {
+        "phrase": "Πράσσεις;",
+        "explanation": "prasseis: how are you? in the Koine dialect"
+    }, {
+        "phrase": "Ἦλθες",
+        "explanation": "ilthes: welcome greeting in the Koine dialect, \"have you come?\""
+    }, {
+        "phrase": "Ἀσπάζομαι",
+        "explanation": "aspazdomai: welcome greeting"
+    }]
+}, {
+    "name": "Gresi",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=grs",
+    "location": "Indonesia: Papua near Lake Sentani.",
+    "greetings": [{
+        "phrase": "Kepo kbare?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Kyopo kabare?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Gronings",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gos",
+    "location": "Netherlands: Groningen Province.",
+    "greetings": [{
+        "phrase": "Moj",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Moije",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Moijn",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Moe",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "He",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Goindag",
+        "explanation": "daytime greeting"
+    }, {
+        "phrase": "Goiedag",
+        "explanation": "daytime greeting"
+    }, {
+        "phrase": "Goidaag",
+        "explanation": "daytime greeting"
+    }, {
+        "phrase": "Gouttendaaig",
+        "explanation": "daytime greeting"
+    }, {
+        "phrase": "Hou gaait t?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Hou wordt t?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Hou wordt t nou den?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Hou ist der mit?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Moi",
+        "explanation": "general greeting in the Westerkwartiers dialect [gos-wes]"
+    }, {
+        "phrase": "Hoe gijt 't met dij?",
+        "explanation": "how are you? in the Westerkwartiers dialect [gos-wes]"
+    }]
+}, {
+    "name": "Gros Ventre",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=ats",
+    "location": "United States: Montana.",
+    "greetings": [{
+        "phrase": "Wahey",
+        "explanation": "general greeting spoken by a man or male child"
+    }, {
+        "phrase": "Naha",
+        "explanation": "general greeting spoken by a woman"
+    }, {
+        "phrase": "Naneyha",
+        "explanation": "general greeting spoken by a woman"
+    }, {
+        "phrase": "Ao",
+        "explanation": "general greeting spoken by a female child"
+    }, {
+        "phrase": "Ne e na stake en",
+        "explanation": "morning greeting"
+    }]
+}, {
+    "name": "Gua",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gwx",
+    "location": "Ghana.",
+    "greetings": [{
+        "phrase": "Akwaaba",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Maachi o",
+        "explanation": "morning greeting"
+    }]
+}, {
+    "name": "Guadeloupean Creole",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gcf",
+    "location": "Guadeloupe: St. Barthélemy.",
+    "greetings": [{
+        "phrase": "Fè",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Ka",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Bonjou",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Bonswa",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Sa ou fé?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Sa ka maché",
+        "explanation": "reply to Sa ou fé"
+    }, {
+        "phrase": "Kontan vinezot?",
+        "explanation": "how are you? spoken in Martinique"
+    }]
+}, {
+    "name": "Guahibo",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=guh",
+    "location": "Colombia and Venezuela: plains region.",
+    "greetings": [{
+        "phrase": "Jaco",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Bájaco",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Je",
+        "explanation": "reply to Jaco and Bájaco"
+    }, {
+        "phrase": "Pejania matakabi",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Pejania matakabi baja",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Pejania kanibiyo tsanükae",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Pejania merabi tsanükae",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Icá",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Necobéyo",
+        "explanation": "greeting used when shaking hands"
+    }, {
+        "phrase": "Je",
+        "explanation": "reply to Necobéyo"
+    }, {
+        "phrase": "Xánë rája",
+        "explanation": "greeting spoken by a person arriving, \"it's me\""
+    }, {
+        "phrase": "Paxánëbeje rája",
+        "explanation": "greeting spoken by two people arriving, \"it's us\""
+    }, {
+        "phrase": "Paxánë rája",
+        "explanation": "greeting spoken by a group of people arriving, \"it's us\""
+    }, {
+        "phrase": "Je, páenajë rábaja",
+        "explanation": "reply to Xánë rája, spoken by a person inside a house"
+    }, {
+        "phrase": "Ecajë rábaja",
+        "explanation": "reply to Xánë rája, spoken by a person inside a house"
+    }, {
+        "phrase": "De itsimü?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Joka jamúnoo?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Jíca?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Jãjã",
+        "explanation": "reply to Jíca"
+    }, {
+        "phrase": "Bajakora",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Guajá",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gvj",
+    "location": "Brazil: Maranhão.",
+    "greetings": [{
+        "phrase": "Catu",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Zeng",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Quarahó",
+        "explanation": "afternoon greeting"
+    }]
+}, {
+    "name": "Guajajára",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gub",
+    "location": "Brazil.",
+    "greetings": [{
+        "phrase": "Yané kuém",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Yané koéma",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Yané ara",
+        "explanation": "midday greeting"
+    }, {
+        "phrase": "Yané karu",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Yané karúka",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Yané pitúna",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Indauê",
+        "explanation": "reply to Yané koéma, Yané ara, Yané karu, Yané karúka, and Yané pitúna"
+    }, {
+        "phrase": "Azéru'u?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Ihé katu",
+        "explanation": "reply to Azéru´u"
+    }, {
+        "phrase": "A inwi",
+        "explanation": "used to call someone's attention"
+    }, {
+        "phrase": "çané cuêm",
+        "explanation": "morning greeting used in San Pedro Colônia"
+    }, {
+        "phrase": "çané caroc",
+        "explanation": "evening greeting used in San Pedro Colônia"
+    }, {
+        "phrase": "Erequé zepé aipó?",
+        "explanation": "how are you? used in San Pedro Colônia"
+    }, {
+        "phrase": "Equé zepé copá",
+        "explanation": "reply to Erequé zepé aipó used in San Pedro Colônia"
+    }]
+}, {
+    "name": "Guambiano",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gum",
+    "location": "Colombia: Cauca",
+    "greetings": [{
+        "phrase": "Kuahe",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Pachiteken",
+        "explanation": "morning greeting used when it is sunny"
+    }, {
+        "phrase": "Pishiteken",
+        "explanation": "morning greeting used when it is raining"
+    }]
+}, {
+    "name": "Guaná",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gva",
+    "location": "Paraguay.",
+    "greetings": [{
+        "phrase": "Angva'atke nak lheya'",
+        "explanation": "greeting spoken to a man who is arriving"
+    }, {
+        "phrase": "Apva'atke nak lheyap",
+        "explanation": "greeting spoken to a woman who is arriving"
+    }, {
+        "phrase": "Haay', asva'aktehe'",
+        "explanation": "reply to Angva'atke nak lheya' and Apva'atke nak lheyap"
+    }, {
+        "phrase": "Angva'a nak lheya'",
+        "explanation": "greeting spoken to a man who is arriving for the first time"
+    }, {
+        "phrase": "Apva'a nak lheyap",
+        "explanation": "greeting spoken to a woman who is arriving for the first time"
+    }, {
+        "phrase": "Haay', asva'a",
+        "explanation": "reply to Angva'a nak lheya' and Apva'a nak lheyap"
+    }, {
+        "phrase": "Asva'aktek ko'o",
+        "explanation": "greeting spoken by a person arriving at a place"
+    }, {
+        "phrase": "Haay'",
+        "explanation": "reply to Asva'aktek ko'o"
+    }, {
+        "phrase": "Ase kke lha amya'a?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Mamma', mam nempeema ma'",
+        "explanation": "reply to Ase kke lha amya'a"
+    }, {
+        "phrase": "Ma' amya'a ma'",
+        "explanation": "reply to Ase kke lha amya'a"
+    }]
+}, {
+    "name": "Guana",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gqn",
+    "location": "Brazil: Mato Grosso do Sul.",
+    "greetings": [{
+        "phrase": "Ako yuwâti",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Guanano",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gvc",
+    "location": "Brazil: northwest Amazonas. Colombia: Lower Vaupés River.",
+    "greetings": [{
+        "phrase": "Ne",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Dee",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Dee koiro",
+        "explanation": "general greeting spoken to a family member"
+    }, {
+        "phrase": "Jimajari?",
+        "explanation": "general greeting, literally \"are you here?\""
+    }, {
+        "phrase": "Jimajari muhu?",
+        "explanation": "general greeting, literally \"are you here?\""
+    }, {
+        "phrase": "Jimaja",
+        "explanation": "reply to Jimajari and Jimajari muhu"
+    }, {
+        "phrase": "Tamajari?",
+        "explanation": "general greeting, literally \"have you come?\""
+    }, {
+        "phrase": "Tamajari muhu?",
+        "explanation": "general greeting, literally \"have you come?\""
+    }, {
+        "phrase": "Tamaja",
+        "explanation": "reply to Tamajari and Tamajari muhu"
+    }, {
+        "phrase": "Wahcãmajari?",
+        "explanation": "morning greeting, literally \"have you woken up?\""
+    }, {
+        "phrase": "Wahcãmaja",
+        "explanation": "reply to Wahcãmajari"
+    }, {
+        "phrase": "Noajari muhu?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Noamajari muhu?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Guanche",
+    "url": "http://multitree.org/codes/gnc.html",
+    "location": "Spain: Canary Islands.",
+    "greetings": [{
+        "phrase": "Tamaragua",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Ahul",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Ahul felak",
+        "explanation": "general greeting to a man"
+    }, {
+        "phrase": "Ahul felam",
+        "explanation": "general greeting to a woman"
+    }, {
+        "phrase": "Ahul felawen",
+        "explanation": "general greeting to a group of people"
+    }, {
+        "phrase": "Manik telit?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Ma telit?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Sansofi",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Sansofé",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Guaraní, Mbyá",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gun",
+    "location": "Brazil.",
+    "greetings": [{
+        "phrase": "Javy ju",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Tapeiko porã",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Guaraní, Paraguayan",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gug",
+    "location": "Paraguay.",
+    "greetings": [{
+        "phrase": "Maitei",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Maiteípa",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Mba'ẽichapa",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Mba'e teko piko?",
+        "explanation": "informal greeting"
+    }, {
+        "phrase": "Mba'etekoiko",
+        "explanation": "informal greeting"
+    }, {
+        "phrase": "Mba'ẽpa reiko?",
+        "explanation": "informal greeting"
+    }, {
+        "phrase": "Iporã",
+        "explanation": "reply to Mba'ẽichapa, Mba'etekoiko, and Mba'e la pórte"
+    }, {
+        "phrase": "Mba'ẽichapa neko'ẽ",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Cheko'ẽ porã",
+        "explanation": "reply to Mba'ẽichapa ne ko'ẽ"
+    }, {
+        "phrase": "Mba'ẽichapa ndepyhareve",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Chepyhareve porã",
+        "explanation": "reply to Mba'ẽichapa ndepyhareve"
+    }, {
+        "phrase": "Mba'ẽichapa ndeasaje",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Cheasaje porã",
+        "explanation": "reply to Mba'ẽichapa ndeasaje"
+    }, {
+        "phrase": "Mba'ẽichapa ndeka'aru",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Cheka'aru porã",
+        "explanation": "reply to Mba'ẽichapa ndeka'aru"
+    }, {
+        "phrase": "Mba'ẽichapa ndepyhare",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Chepyhare porã",
+        "explanation": "reply to Mba'ẽichapa ndepyhare"
+    }, {
+        "phrase": "Eguahé porá",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Guaraní, Western Argentine and Eastern Bolivian",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gui",
+    "location": "Argentina and Bolivia.",
+    "greetings": [{
+        "phrase": "Iyirobia",
+        "explanation": "general greeting used in the Bolivian dialect"
+    }, {
+        "phrase": "Puama",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Puama pei",
+        "explanation": "morning greeting used in Cacique Hipolito Yumbay, Argentina"
+    }, {
+        "phrase": "Pe puama",
+        "explanation": "morning greeting used in Cacique Hipolito Yumbay, Argentina"
+    }, {
+        "phrase": "Karuma",
+        "explanation": "afternoon greeting used in Yacuy, Argentina"
+    }, {
+        "phrase": "Kaaruma",
+        "explanation": "afternoon greeting used in Cacique Hipolito Yumbay, Argentina, and Bolivia"
+    }, {
+        "phrase": "Kaaruma pei",
+        "explanation": "afternoon greeting used in Cacique Hipolito Yumbay, Argentina"
+    }, {
+        "phrase": "Pe kaaruma",
+        "explanation": "afternoon greeting used in Cacique Hipolito Yumbay, Argentina"
+    }, {
+        "phrase": "Pituma",
+        "explanation": "evening greeting used in Yacuy, Argentina and in Bolivia"
+    }, {
+        "phrase": "Pyntuma",
+        "explanation": "evening greeting used in Cacique Hipolito Yumbay, Argentina"
+    }, {
+        "phrase": "Pyntuma pei",
+        "explanation": "evening greeting used in Cacique Hipolito Yumbay, Argentina"
+    }, {
+        "phrase": "Pe pyntuma",
+        "explanation": "evening greeting used in Cacique Hipolito Yumbay, Argentina"
+    }, {
+        "phrase": "Keraï?",
+        "explanation": "how are you? in the Bolivian dialect"
+    }, {
+        "phrase": "Keraï nei?",
+        "explanation": "how are you? in the Bolivian dialect, spoken to one person"
+    }, {
+        "phrase": "Keraï pa reï?",
+        "explanation": "how are you? in the Bolivian dialect, spoken to a group"
+    }, {
+        "phrase": "Ikaviño",
+        "explanation": "reply to Keraï ne and Keraï pa rei"
+    }, {
+        "phrase": "Ikavi",
+        "explanation": "reply to Keraï ne and Keraï pa rei"
+    }, {
+        "phrase": "Ikaviete",
+        "explanation": "reply to Keraï ne and Keraï pa rei"
+    }, {
+        "phrase": "Ikaviño aiko",
+        "explanation": "reply to Keraï ne and Keraï pa rei"
+    }, {
+        "phrase": "Ikaviño aiko, nde no",
+        "explanation": "reply to Keraï ne and Keraï pa rei"
+    }]
+}, {
+    "name": "Guarayu",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gyr",
+    "location": "Bolivia.",
+    "greetings": [{
+        "phrase": "Avɨrave",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Avɨrave cheru",
+        "explanation": "general greeting spoken to a man"
+    }, {
+        "phrase": "Avɨrave cheramoi",
+        "explanation": "general greeting spoken to an elder man"
+    }, {
+        "phrase": "Avɨrave mai",
+        "explanation": "general greeting spoken to a woman"
+    }, {
+        "phrase": "Avɨrave opakatu",
+        "explanation": "general greeting spoken to a group"
+    }, {
+        "phrase": "Aɨrave pa?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Aɨrave",
+        "explanation": "reply to Aɨrave pa"
+    }]
+}, {
+    "name": "Guarequena",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gae",
+    "location": "Venezuela. Brazil.",
+    "greetings": [{
+        "phrase": "Kamé kákani",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Kamé kaka?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Alé mawi",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Cabá mawi",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Bémi mawi",
+        "explanation": "nighttime greeting"
+    }]
+}, {
+    "name": "Guató",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gta",
+    "location": "Brazil: Mato Grosso do Sul.",
+    "greetings": [{
+        "phrase": "Orrê",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Oihebí",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Tedéfédyxádyrre",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Candyderédicaye",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Nykayé",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Nyredy",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Orrêkyracoygyn",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Óhebè'",
+        "explanation": "welcome greeting spoken to a visitor"
+    }, {
+        "phrase": "Ōmbì'",
+        "explanation": "reply to Óhebè'"
+    }]
+}, {
+    "name": "Guayabero",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=guo",
+    "location": "Colombia: Upper Guaviare River",
+    "greetings": [{
+        "phrase": "Moi",
+        "explanation": "general greeting spoken to a visitor"
+    }, {
+        "phrase": "Xan",
+        "explanation": "reply to Moi, literally \"it's me\""
+    }, {
+        "phrase": "Masnej amkatjim?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Achax isam xam?",
+        "explanation": "what are you doing?"
+    }]
+}, {
+    "name": "Gudang",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=xgd",
+    "location": "Australia: Cape York.",
+    "greetings": [{
+        "phrase": "Mita dju",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Gude",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gde",
+    "location": "Nigeria: Adamawa. Cameroon: Far North.",
+    "greetings": [{
+        "phrase": "Usa",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Usamǝ",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Guguyimidjir",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=kky",
+    "location": "Australia: Hopevale, Queensland.",
+    "greetings": [{
+        "phrase": "Wanhdharra",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Wanhdharraga",
+        "explanation": "informal greeting"
+    }, {
+        "phrase": "Wanhdharra dhawuunh",
+        "explanation": "greeting spoken to a friend"
+    }, {
+        "phrase": "Nyundu wanhdharra?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Nyundu ganaa?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Ganaa",
+        "explanation": "reply to Ngayu ganaa and Nyundu wanhdharra"
+    }, {
+        "phrase": "Ngayu ganaa",
+        "explanation": "reply to Ngayu ganaa and Nyundu wanhdharra"
+    }, {
+        "phrase": "Gadiiwawuwi",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Nganthaanthirr gadiiwawuwi",
+        "explanation": "welcome greeting by a group of people, literally \"we are happy to see you\""
+    }]
+}, {
+    "name": "Guhu-Samane",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=ghs",
+    "location": "Papua New Guinea: Morobe Province.",
+    "greetings": [{
+        "phrase": "Dzoobe",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Dzoobe ma kanakana",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Madzaqipa",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Eteba qidza",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Saunaba qidza",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Surena qidza",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Qupiba qidza",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Idze paidza",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Idze maidze",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Girau eetaqu",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Dzoobe ma kanakana eetaqu",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Guianese Creole",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gcr",
+    "location": "French Guiana.",
+    "greetings": [{
+        "phrase": "Bonjou",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "A kouman",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Sa to fé?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Gujarati",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=guj",
+    "location": "India.",
+    "greetings": [{
+        "phrase": "નમસ્તે",
+        "explanation": "namaste: general greeting used by Hindus"
+    }, {
+        "phrase": "નમસ્કાર",
+        "explanation": "namaskar: general greeting used by Hindus"
+    }, {
+        "phrase": "જય જય",
+        "explanation": "jay jay: informal greeting"
+    }, {
+        "phrase": "કેમ છો?",
+        "explanation": "kem chho: how are you?"
+    }, {
+        "phrase": "તમે કેમ છો?",
+        "explanation": "tame kem chho: how are you?"
+    }, {
+        "phrase": "હું મજામાં છું, આભાર",
+        "explanation": "hum majamam abhar: reply to કેમ છો and તમે કેમ છો"
+    }, {
+        "phrase": "મજામાં",
+        "explanation": "majamam: reply to કેમ છો and તમે કેમ છો"
+    }, {
+        "phrase": "સારુન",
+        "explanation": "sarun: reply to કેમ છો and તમે કેમ છો"
+    }, {
+        "phrase": "સુપ્રભાત",
+        "explanation": "shubh prabhaat: morning greeting"
+    }, {
+        "phrase": "શુભરાત્રિ",
+        "explanation": "shubh ratri: nighttime greeting"
+    }, {
+        "phrase": "સ્વાગત",
+        "explanation": "svaagat: welcome greeting"
+    }, {
+        "phrase": "પધારો",
+        "explanation": "padhaaro: welcome greeting"
+    }]
+}, {
+    "name": "Gulay",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gvl",
+    "location": "Chad.",
+    "greetings": [{
+        "phrase": "Lapya",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Gumatj",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gnn",
+    "location": "Australia: Yirrkala, Northern Territory.",
+    "greetings": [{
+        "phrase": "Nhämirri nhe?",
+        "explanation": "general greeting spoken to one person"
+    }, {
+        "phrase": "Nhämirri manda?",
+        "explanation": "general greeting spoken to two people"
+    }, {
+        "phrase": "Nhämirri walala?",
+        "explanation": "general greeting spoken to three or more people"
+    }, {
+        "phrase": "Manymak",
+        "explanation": "reply to Nhämirri nhe, Nhämirri manda and Nhämirri walala"
+    }, {
+        "phrase": "Manymak bay'",
+        "explanation": "reply to Nhämirri nhe, Nhämirri manda and Nhämirri walala"
+    }, {
+        "phrase": "Latju",
+        "explanation": "reply to Nhämirri nhe, Nhämirri manda and Nhämirri walala"
+    }]
+}, {
+    "name": "Gumuz",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=guk",
+    "location": "Ethiopia. Sudan.",
+    "greetings": [{
+        "phrase": "Eyaab baaçazhigaga",
+        "explanation": "morning greeting"
+    }]
+}, {
+    "name": "Gun",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=guw",
+    "location": "Benin.",
+    "greetings": [{
+        "phrase": "Mi kaaro",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Mi kaaro roo",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Mi fon dagbe",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Mi fon ya",
+        "explanation": "morning greeting"
+    }]
+}, {
+    "name": "Gungu",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=rub",
+    "location": "Uganda.",
+    "greetings": [{
+        "phrase": "Osiibiite",
+        "explanation": "general greeting spoken to one person"
+    }, {
+        "phrase": "Musiibiite",
+        "explanation": "general greeting spoken to a group"
+    }, {
+        "phrase": "Mirembe",
+        "explanation": "general greeting (from Luganda)"
+    }, {
+        "phrase": "Waaleete",
+        "explanation": "morning greeting spoken to one person"
+    }, {
+        "phrase": "Mwaleete",
+        "explanation": "morning greeting spoken to a group"
+    }, {
+        "phrase": "Bboola",
+        "explanation": "greeting spoken to the parents of twins"
+    }, {
+        "phrase": "Oli teetei",
+        "explanation": "how are you? spoken to one person"
+    }, {
+        "phrase": "Muli teetei",
+        "explanation": "how are you? spoken to a group"
+    }]
+}, {
+    "name": "Gunwinggu",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gup",
+    "location": "Australia: Arnhem Land.",
+    "greetings": [{
+        "phrase": "Ngudda kamak?",
+        "explanation": "how are you? in the Kunwinjku dialect"
+    }, {
+        "phrase": "Ngudda kamak yini?",
+        "explanation": "how are you? in the Kunwinjku dialect"
+    }, {
+        "phrase": "Kamak",
+        "explanation": "reply to Ngudda kamak in the Kunwinjku dialect"
+    }, {
+        "phrase": "Yo kamak",
+        "explanation": "reply to Ngudda kamak in the Kunwinjku dialect"
+    }, {
+        "phrase": "Kamak ngaye",
+        "explanation": "reply to Ngudda kamak in the Kunwinjku dialect"
+    }, {
+        "phrase": "Baleh yire?",
+        "explanation": "where are you going? in the Kunwinjku dialect"
+    }, {
+        "phrase": "Wudda gamak?",
+        "explanation": "how are you? in the Gundjeihmi dialect"
+    }, {
+        "phrase": "Yo gamak",
+        "explanation": "reply to Wudda gamak"
+    }, {
+        "phrase": "Ayedgah yire?",
+        "explanation": "where are you going? in the Gundjeihmi dialect"
+    }]
+}, {
+    "name": "Gunya",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gyy",
+    "location": "Australia: Queensland.",
+    "greetings": [{
+        "phrase": "Mudga dhurdi",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Gupapuyngu",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=guf",
+    "location": "Australia: Milingimi.",
+    "greetings": [{
+        "phrase": "Nhämirri nhe?",
+        "explanation": "general greeting spoken to one person"
+    }, {
+        "phrase": "Nhämirri nhuma?",
+        "explanation": "general greeting spoken to two or more people"
+    }, {
+        "phrase": "Manymak",
+        "explanation": "reply to Nhämirri nhe and Nhämirri nhuma"
+    }, {
+        "phrase": "Märr ngamathirri",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Gurani",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=hac",
+    "location": "Iraq and Iran.",
+    "greetings": [{
+        "phrase": "Washni",
+        "explanation": "general greeting spoken to a man"
+    }, {
+        "phrase": "Washbi",
+        "explanation": "reply to Washni"
+    }, {
+        "phrase": "Washani",
+        "explanation": "general greeting spoken to a woman"
+    }, {
+        "phrase": "Washabi",
+        "explanation": "reply to Washani"
+    }]
+}, {
+    "name": "Gurinji",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gue",
+    "location": "Australia: Northern Territory.",
+    "greetings": [{
+        "phrase": "Kawayi",
+        "explanation": "welcome greeting spoken to one person, \"come here\""
+    }, {
+        "phrase": "Kawayirla",
+        "explanation": "welcome greeting spoken to one person, \"come here\""
+    }, {
+        "phrase": "Kawayiwalu",
+        "explanation": "welcome greeting spoken to a group, \"come here\""
+    }]
+}, {
+    "name": "Guro",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gux",
+    "location": "Côte d'Ivoire.",
+    "greetings": [{
+        "phrase": "I yoo",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Ignoho",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "I a ka?",
+        "explanation": "how are you?"
+    }]
+}, {
+    "name": "Gurung",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=ggn",
+    "location": "Nepal: Gandaki Zone.",
+    "greetings": [{
+        "phrase": "Namaste",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Bindi mu",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Ro",
+        "explanation": "informal greeting"
+    }, {
+        "phrase": "Kyi saban mu wa?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Sabaun mu",
+        "explanation": "reply to Kyi saban mu wa"
+    }, {
+        "phrase": "Kyi khaiba mu?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Nga saban mu",
+        "explanation": "reply to Kyi khaiba mu"
+    }, {
+        "phrase": "Chhyab nhaga",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Chhyab mais",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Kae cai' waa?",
+        "explanation": "general greeting, \"have you eaten?\""
+    }, {
+        "phrase": "Cai'",
+        "explanation": "reply to Kae cai' waa"
+    }, {
+        "phrase": "O thaagu",
+        "explanation": "greeting spoken to the first son in a family"
+    }, {
+        "phrase": "O naa'ni",
+        "explanation": "greeting spoken to the first daughter in a family"
+    }, {
+        "phrase": "O mxalla",
+        "explanation": "greeting spoken to the second son in a family"
+    }, {
+        "phrase": "O mxalli",
+        "explanation": "greeting spoken to the second daughter in a family"
+    }, {
+        "phrase": "O sallaa",
+        "explanation": "greeting spoken to the third son in a family"
+    }, {
+        "phrase": "O salli",
+        "explanation": "greeting spoken to the third daughter in a family"
+    }, {
+        "phrase": "O cyo",
+        "explanation": "greeting spoken to the last son in a family"
+    }, {
+        "phrase": "O kaaji",
+        "explanation": "greeting spoken to the last daughter in a family"
+    }, {
+        "phrase": "Hajur",
+        "explanation": "reply to O thaagu, O naa'ni, O mxalla, O sallaa, etc."
+    }, {
+        "phrase": "Twonhba",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Tyenba",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Guwamu",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gwu",
+    "location": "Australia: Queensland.",
+    "greetings": [{
+        "phrase": "Murga dhurdi",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Guwar",
+    "url": "http://multitree.org/codes/0hf",
+    "location": "Australia: Moreton Island in Queensland.",
+    "greetings": [{
+        "phrase": "Kooemba boodloongun",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Guyanese Creole",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gyn",
+    "location": "Guyana.",
+    "greetings": [{
+        "phrase": "Hello",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Mawrnin",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Good mawrnin",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "How yuh do?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "How yuh be?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Wappenin?",
+        "explanation": "how are you?, informal"
+    }]
+}, {
+    "name": "Gwahatike",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=dah",
+    "location": "Papua New Guinea: Madang Province.",
+    "greetings": [{
+        "phrase": "Wampot",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Wawuŋ",
+        "explanation": "evening greeting"
+    }]
+}, {
+    "name": "Gwere",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gwr",
+    "location": "Uganda: Pallisa District.",
+    "greetings": [{
+        "phrase": "Koizeeyo?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Tuliyo",
+        "explanation": "reply to Koizeeyo"
+    }, {
+        "phrase": "Munange",
+        "explanation": "greeting spoken to a friend"
+    }, {
+        "phrase": "Bunange",
+        "explanation": "greeting spoken to a group of friends"
+    }, {
+        "phrase": "Kitya?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Eika?",
+        "explanation": "how are you? (literally, \"how is home?\")"
+    }, {
+        "phrase": "Basa",
+        "explanation": "reply to Eika"
+    }, {
+        "phrase": "Oyoaba yaina?",
+        "explanation": "where are you going?"
+    }]
+}, {
+    "name": "|Gwi",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gwj",
+    "location": "Botswana.",
+    "greetings": [{
+        "phrase": "Moro",
+        "explanation": "general greeting (from Setswana)"
+    }, {
+        "phrase": "Dumera",
+        "explanation": "general greeting (from Setswana)"
+    }, {
+        "phrase": "Mera",
+        "explanation": "general greeting (from Setswana)"
+    }, {
+        "phrase": "Tsam #kai?",
+        "explanation": "how are you?, literally \"are you fine?\""
+    }, {
+        "phrase": "Tsam kwa |tge?",
+        "explanation": "morning greeting, \"are your eyes open?\""
+    }, {
+        "phrase": "Kiri kwa |tge",
+        "explanation": "reply to Tsam kwa |tge"
+    }, {
+        "phrase": "#Kai?",
+        "explanation": "how are you?, literally \"fine?\""
+    }, {
+        "phrase": "#Kai o?",
+        "explanation": "how are you?, literally \"fine?\""
+    }, {
+        "phrase": "#Kai",
+        "explanation": "reply to #Kai and #Kai o"
+    }, {
+        "phrase": "#Kai kwa",
+        "explanation": "reply to #Kai and #Kai o"
+    }, {
+        "phrase": "#Kai kwa, tsam #kayaha",
+        "explanation": "reply to #Kai and #Kai o"
+    }, {
+        "phrase": "!Dom",
+        "explanation": "welcome greeting, literally \"accept\""
+    }, {
+        "phrase": "Kjuan",
+        "explanation": "reply to !Dom, literally \"rest\""
+    }, {
+        "phrase": "Kxoi/a",
+        "explanation": "reply to Kjuan, literally \"rest?\""
+    }, {
+        "phrase": "G//a",
+        "explanation": "reply to Kxoi/a, literally \"rest\" (from Naro)"
+    }]
+}, {
+    "name": "Gwich'in",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gwi",
+    "location": "United States of America: Alaska. Canada: northwestern region.",
+    "greetings": [{
+        "phrase": "Drin gwiinzii",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Neenjit dôonch'yáa?",
+        "explanation": "how are you? spoken in the the Alaskan dialect"
+    }, {
+        "phrase": "Neenjit dàgòoch'i?",
+        "explanation": "how are you? spoken in the Canadian dialect"
+    }, {
+        "phrase": "Neenjit dàgòonch’uu?",
+        "explanation": "how are you? spoken in the Canadian dialect"
+    }, {
+        "phrase": "Juk drin neenjit dàgòonch’uu?",
+        "explanation": "how are you today? spoken in the Canadian dialect"
+    }, {
+        "phrase": "Sheenjit gwiinzii",
+        "explanation": "reply to Neenjit dàgòonch’uu and Neenjit dôonch'yáa"
+    }, {
+        "phrase": "Nakhwanyàa'in geenjit shòh ìidìlii",
+        "explanation": "welcome greeting spoken in the Yukon dialect, \"we are happy to see you\""
+    }, {
+        "phrase": "Nenànkäk nätäydëk häjit shò trì'nlay",
+        "explanation": "welcome greeting spoken in the Alaskan dialect"
+    }]
+}, {
+    "name": "Gyele",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=gyi",
+    "location": "Cameroon.",
+    "greetings": [{
+        "phrase": "Âsiâ",
+        "explanation": "morning greeting in the Bagyeli dialect"
+    }, {
+        "phrase": "Oya mbâmbâ?",
+        "explanation": "morning greeting, \"did you sleep well?\" in the Bagyeli dialect"
+    }, {
+        "phrase": "Ikonda ko'ogó",
+        "explanation": "evening greeting in the Bagyeli dialect"
+    }, {
+        "phrase": "Ikyyibyju",
+        "explanation": "nighttime greeting in the Bagyeli dialect"
+    }, {
+        "phrase": "Ina'a wé i?",
+        "explanation": "how are you? in the Bagyeli dialect"
+    }]
+}]

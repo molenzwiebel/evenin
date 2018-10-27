@@ -1,0 +1,1165 @@
+[{
+    "name": "Vaeakau-Taumako",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=piv",
+    "location": "Solomon Islands.",
+    "greetings": [{
+        "phrase": "Tele ki hea?",
+        "explanation": "where are you going?"
+    }, {
+        "phrase": "Kone au i muahea?",
+        "explanation": "where did you come from?"
+    }]
+}, {
+    "name": "Vai",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=vai",
+    "location": "Liberia and Sierra Leone.",
+    "greetings": [{
+        "phrase": "Í bɛ̀ nú?",
+        "explanation": "general greeting, \"are you there?\""
+    }, {
+        "phrase": "Ya na?",
+        "explanation": "general greeting, \"have you come?\""
+    }, {
+        "phrase": "Yá kùnὲ?",
+        "explanation": "morning greeting spoken to one person, \"have you awakened?\""
+    }, {
+        "phrase": "Yá kùnὲ éé?",
+        "explanation": "morning greeting spoken to one person, \"have you awakened?\""
+    }, {
+        "phrase": "ɛ͂ɛ͂",
+        "explanation": "reply to Í bɛ̀ nú, Ya na, Yá kùnὲ and Yá kùnὲ éé"
+    }, {
+        "phrase": "Igpo",
+        "explanation": "reply to Yá kùnὲ and Yá kùnὲ éé"
+    }, {
+        "phrase": "Wa kùnὲ éé",
+        "explanation": "general greeting spoken to a group"
+    }, {
+        "phrase": "Í kĭ'aà kámà?",
+        "explanation": "morning greeting, \"how did you sleep?\""
+    }, {
+        "phrase": "Ŋ́ kĭ'à bέ'ὲnà",
+        "explanation": "reply to Í kĭ'aà kámà"
+    }, {
+        "phrase": "Kàsé bé'è Kàmbá máì",
+        "explanation": "reply to Í kĭ'aà kámà"
+    }, {
+        "phrase": "E kpoor?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Mbê kò bὲ núú?",
+        "explanation": "how are you?, \"what news is there?\""
+    }, {
+        "phrase": "Mbê kò bὲ níὲ?",
+        "explanation": "how are you?, \"what news is there here?\""
+    }, {
+        "phrase": "Mbê kò te'e'a níὲ?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Kàsé bé'è Kàmbá máì",
+        "explanation": "reply to Mbê kò bὲ níὲ and Mbê kò te'e'a níὲ"
+    }, {
+        "phrase": "Bá'íkà ya na kowa",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Vame",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=mlr",
+    "location": "Cameroon: Far North Region.",
+    "greetings": [{
+        "phrase": "Kə zaya de?",
+        "explanation": "general greeting, literally \"where are you coming from?\""
+    }]
+}, {
+    "name": "Varli",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=vav",
+    "location": "India: Maharashtra, Thane District.",
+    "greetings": [{
+        "phrase": "Ay",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Kasak aahes?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Mi bes aahu na tu kasak",
+        "explanation": "reply to Kasak aahes"
+    }, {
+        "phrase": "Baki kasa chalu aahe?",
+        "explanation": "how are you? informal"
+    }, {
+        "phrase": "Asaga bes aahe",
+        "explanation": "reply to Baki kasa chalu aahe"
+    }]
+}, {
+    "name": "Vasekele",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=vaj",
+    "location": "Namibia: Caprivi.",
+    "greetings": [{
+        "phrase": "!Gao",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "|xòa",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "ǂxòa",
+        "explanation": "morning greeting"
+    }]
+}, {
+    "name": "Veluws",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=vel",
+    "location": "Netherlands: Gelderland Province.",
+    "greetings": [{
+        "phrase": "Aja",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Dag",
+        "explanation": "general greeting in the Nunspeets dialect"
+    }, {
+        "phrase": "Hallo",
+        "explanation": "general greeting in the Nunspeets dialect"
+    }, {
+        "phrase": "Huj",
+        "explanation": "general greeting in the Nunspeets dialect"
+    }, {
+        "phrase": "Hoi",
+        "explanation": "general greeting in the Nunspeets dialect"
+    }, {
+        "phrase": "Gemurregen",
+        "explanation": "morning greeting in the Urkers dialect"
+    }, {
+        "phrase": "Gemurgen",
+        "explanation": "morning greeting in the Urkers dialect"
+    }, {
+        "phrase": "Murregen",
+        "explanation": "morning greeting in the Urkers dialect"
+    }, {
+        "phrase": "Oe got ut?",
+        "explanation": "how are you? in the Urkers dialect"
+    }]
+}, {
+    "name": "Venda",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=ven",
+    "location": "South Africa: Transvaal.",
+    "greetings": [{
+        "phrase": "Ndaa",
+        "explanation": "general greeting spoken by a man"
+    }, {
+        "phrase": "Aa",
+        "explanation": "general greeting spoken by a woman"
+    }, {
+        "phrase": "Lotsha",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Lokovhela",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Ndi matsheloni",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Ndi matsheloni avhuḓi",
+        "explanation": "reply to Ndi matsheloni"
+    }, {
+        "phrase": "Ndi masiari",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Ndi masiari avhuḓi",
+        "explanation": "reply to Ndi masiari"
+    }, {
+        "phrase": "Ndi mathabama",
+        "explanation": "late afternoon and early evening greeting"
+    }, {
+        "phrase": "Ndi mathabama avhuḓi",
+        "explanation": "reply to Ndi mathabama"
+    }, {
+        "phrase": "Ndi madekwana",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Ndi madekwana avhuḓi",
+        "explanation": "reply to Ndi madekwana"
+    }, {
+        "phrase": "Avhuḓi",
+        "explanation": "reply to Ndi matsheloni, Ndi masiari, and Ndi madekwana"
+    }, {
+        "phrase": "Vhadali",
+        "explanation": "greeting spoken to a person who is returning from somewhere"
+    }, {
+        "phrase": "Vhashumi",
+        "explanation": "greeting spoken to a person who is working"
+    }, {
+        "phrase": "Vho twa?",
+        "explanation": "how are you? (\"was your day good?\")"
+    }, {
+        "phrase": "Vho twa hani?",
+        "explanation": "how are you? (\"was your day good?\")"
+    }, {
+        "phrase": "Ndo twa",
+        "explanation": "reply to Vho twa and Vho twa hani"
+    }, {
+        "phrase": "Ndo twa zwavhudi",
+        "explanation": "reply to Vho twa and Vho twa hani"
+    }, {
+        "phrase": "Hu rini?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Hu ita hani?",
+        "explanation": "how are you? informal"
+    }, {
+        "phrase": "Ndi hone",
+        "explanation": "reply to Hu rini and Hu ita hani"
+    }, {
+        "phrase": "Uri mini?",
+        "explanation": "how are you? (\"what do you say?\")"
+    }, {
+        "phrase": "Uri mini fhedzi?",
+        "explanation": "how are you? (\"what do you say?\")"
+    }, {
+        "phrase": "A thi ambi",
+        "explanation": "reply to Uri mini and Uri mini fhedzi"
+    }, {
+        "phrase": "Vho vuwa?",
+        "explanation": "how are you? used in the morning (\"how did you wake up?\")"
+    }, {
+        "phrase": "Vho vuwa hani?",
+        "explanation": "how are you? used in the morning (\"how did you wake up?\")"
+    }, {
+        "phrase": "Ndo vuwa",
+        "explanation": "reply to Vho vuwa and Vho vuwa hani"
+    }, {
+        "phrase": "Nṋe ndo takala vhukuma",
+        "explanation": "reply to Vho vuwa and Vho vuwa hani"
+    }, {
+        "phrase": "Avuwani",
+        "explanation": "how are you? used in the morning (contraction of Vho vuwa hani)"
+    }, {
+        "phrase": "Avuwa",
+        "explanation": "reply to Avuwani"
+    }, {
+        "phrase": "Vho tanganedzwa",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "V'ënen Taut",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=nmb",
+    "location": "Vanuatu: northwest Malekula.",
+    "greetings": [{
+        "phrase": "Ipas",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Ipas metavaren",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Ipas kenarev",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Ipas lirate",
+        "explanation": "nighttime greeting"
+    }]
+}, {
+    "name": "Venetian",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=vec",
+    "location": "Italy.",
+    "greetings": [{
+        "phrase": "Ciau",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Ciao",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Adio",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "'Dio",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Viva",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Bondì",
+        "explanation": "general daytime greeting"
+    }, {
+        "phrase": "Bongìorno",
+        "explanation": "general daytime greeting"
+    }, {
+        "phrase": "Bona sera",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Bona note",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Come xeła?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Come vała?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Stago ben, grassie",
+        "explanation": "reply to Come xeła and Come vała"
+    }, {
+        "phrase": "Stago ben",
+        "explanation": "reply to Come xeła and Come vała"
+    }, {
+        "phrase": "Benvegnùo",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Benvegnù",
+        "explanation": "welcome greeting spoken to a man"
+    }, {
+        "phrase": "Benvegnùa",
+        "explanation": "welcome greeting spoken to a woman"
+    }, {
+        "phrase": "Benvegnùi",
+        "explanation": "welcome greeting spoken to a group"
+    }, {
+        "phrase": "Benvegnùe",
+        "explanation": "welcome greeting spoken to a group of women"
+    }, {
+        "phrase": "Benvegnesto",
+        "explanation": "welcome greeting spoken to a man"
+    }, {
+        "phrase": "Benvegnesta",
+        "explanation": "welcome greeting spoken to a woman"
+    }, {
+        "phrase": "Benvegnesti",
+        "explanation": "welcome greeting spoken to a group"
+    }, {
+        "phrase": "Benvegneste",
+        "explanation": "welcome greeting spoken to a group of women"
+    }, {
+        "phrase": "Zdravo",
+        "explanation": "general greeting in the Istrian dialect of Croatia"
+    }, {
+        "phrase": "Benvenudo",
+        "explanation": "welcome greeting in the Istrian dialect of Croatia"
+    }, {
+        "phrase": "Bondi",
+        "explanation": "general greeting in the Tałian (Brazilian Vêneto) dialect of Brazil"
+    }, {
+        "phrase": "Bonasera",
+        "explanation": "evening greeting in the Tałian (Brazilian Vêneto) dialect of Brazil"
+    }, {
+        "phrase": "Bonanote",
+        "explanation": "nighttime greeting in the Tałian (Brazilian Vêneto) dialect of Brazill"
+    }, {
+        "phrase": "Come vala?",
+        "explanation": "how are you? in the Tałian (Brazilian Vêneto) dialect of Brazil"
+    }, {
+        "phrase": "Come stê?",
+        "explanation": "how are you? in the Tałian (Brazilian Vêneto) dialect of Brazil"
+    }, {
+        "phrase": "Ben, grassie",
+        "explanation": "reply to Come stê"
+    }]
+}, {
+    "name": "Ventureño",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=veo",
+    "location": "United States of America: southern California.",
+    "greetings": [{
+        "phrase": "Haku",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Haku kiy'aliwət",
+        "explanation": "general greeting to a group of people"
+    }, {
+        "phrase": "Lahupwašwášətš?",
+        "explanation": "how are you? to one person"
+    }, {
+        "phrase": "Lahupiwašwášətš?",
+        "explanation": "how are you? to a group of people"
+    }, {
+        "phrase": "Lakwašwášətš",
+        "explanation": "reply to Lahupwašwášətš and Lahupiwašwášətš"
+    }, {
+        "phrase": "Kalaqwa'ay",
+        "explanation": "reply to Lahupwašwášətš and Lahupiwašwášətš"
+    }, {
+        "phrase": "Huki pałhin?",
+        "explanation": "general greeting, \"what are you doing?\""
+    }, {
+        "phrase": "Tapí, tapí",
+        "explanation": "welcome greeting to a person arriving, \"come in\""
+    }]
+}, {
+    "name": "Veps",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=vep",
+    "location": "Russia: western region.",
+    "greetings": [{
+        "phrase": "Tervhen",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Tervhen elät",
+        "explanation": "formal greeting"
+    }, {
+        "phrase": "Tervhen elät tö",
+        "explanation": "formal greeting"
+    }, {
+        "phrase": "Tervhen eläd",
+        "explanation": "informal greeting"
+    }, {
+        "phrase": "Tervhen eläd sinä",
+        "explanation": "informal greeting"
+    }, {
+        "phrase": "Hüväd päiväd",
+        "explanation": "general daytime greeting"
+    }, {
+        "phrase": "Hüväd homendest",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Hüväd ehtad",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Kut elät?",
+        "explanation": "how are you? formal"
+    }, {
+        "phrase": "Kut elät-olet?",
+        "explanation": "how are you? formal"
+    }, {
+        "phrase": "Kut eläd?",
+        "explanation": "how are you? informal"
+    }, {
+        "phrase": "Hüvin",
+        "explanation": "reply to Kut elät and Kut eläd"
+    }, {
+        "phrase": "Spasib, hüvin",
+        "explanation": "reply to Kut elät and Kut eläd"
+    }, {
+        "phrase": "Spasib, ei hubin",
+        "explanation": "reply to Kut elät and Kut eläd"
+    }, {
+        "phrase": "Kut azjad oma?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Kut teiden azjad oma?",
+        "explanation": "how are you?, how are things?"
+    }, {
+        "phrase": "Kut sinun azjad oma?",
+        "explanation": "how are you?, how are things?"
+    }, {
+        "phrase": "Olgat hüväd",
+        "explanation": "reply to Kut azjad oma"
+    }, {
+        "phrase": "Voit-ik?",
+        "explanation": "how are you? formal"
+    }, {
+        "phrase": "Voit-ik tö?",
+        "explanation": "how are you? formal"
+    }, {
+        "phrase": "Void-ik sinä?",
+        "explanation": "how are you? informal"
+    }, {
+        "phrase": "Kut void-ik?",
+        "explanation": "how are you? informal"
+    }, {
+        "phrase": "Voin tervhelaze",
+        "explanation": "reply to Voit-ik, Voit-ik tö, Void-ik sinä, and Kut void-ik"
+    }, {
+        "phrase": "Midä ut?",
+        "explanation": "what's new?"
+    }, {
+        "phrase": "Kut tö mujat ičtatoi?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Kitän, nimidä",
+        "explanation": "reply to Kut tö mujat ičtatoi"
+    }, {
+        "phrase": "Kut teiden tervhuz om?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Kitän teid, hüväd om",
+        "explanation": "reply to Kut teiden tervhuz om"
+    }, {
+        "phrase": "Tervhen tuldes",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Tulgat tervhin",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Tulendanke",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Vietnamese",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=vie",
+    "location": "Vietnam.",
+    "greetings": [{
+        "phrase": "Xin chào",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Xin kính chào",
+        "explanation": "formal greeting"
+    }, {
+        "phrase": "Chào bạn",
+        "explanation": "informal greeting spoken to a group of people"
+    }, {
+        "phrase": "Chào cụ ạ",
+        "explanation": "respectful greeting spoken to a senior citizen (\"great grandmother/great grandfather\")"
+    }, {
+        "phrase": "Chào ông",
+        "explanation": "greeting spoken to an older man (\"grandfather\")"
+    }, {
+        "phrase": "Chào bác",
+        "explanation": "greeting spoken to an older man or woman (\"uncle/aunt older than father\")"
+    }, {
+        "phrase": "Chào bà",
+        "explanation": "greeting spoken to an older woman (\"grandmother\")"
+    }, {
+        "phrase": "Chào anh",
+        "explanation": "greeting spoken to a male friend (\"older brother\")"
+    }, {
+        "phrase": "Chào chú",
+        "explanation": "greeting spoken to a male friend of similar age (\"uncle younger than father\")"
+    }, {
+        "phrase": "Chào ba",
+        "explanation": "informal greeting spoken to an older male friend (\"father\")"
+    }, {
+        "phrase": "Chào cậu",
+        "explanation": "greeting spoken to a young male friend (\"uncle\")"
+    }, {
+        "phrase": "Chào chị",
+        "explanation": "greeting spoken to a close female friend (\"older sister\")"
+    }, {
+        "phrase": "Chào thím",
+        "explanation": "greeting spoken to a young married woman (\"aunt\")"
+    }, {
+        "phrase": "Chào cô",
+        "explanation": "greeting spoken to a young unmarried woman (\"aunt\")"
+    }, {
+        "phrase": "Chào em",
+        "explanation": "greeting spoken to a child (\"younger sibling\")"
+    }, {
+        "phrase": "Chào cháu",
+        "explanation": "greeting spoken to the child of a close friend (\"niece,\" \"nephew,\" \"grandchild\")"
+    }, {
+        "phrase": "Chào con",
+        "explanation": "greeting spoken to the child of a close friend (\"son\", \"daughter\")"
+    }, {
+        "phrase": "Chào qúy vị",
+        "explanation": "formal greeting spoken to a group of people"
+    }, {
+        "phrase": "Chào buổi sáng",
+        "explanation": "morning greeting in the Thành phố Hồ Chí Minh dialect [vie-sou]"
+    }, {
+        "phrase": "Chào buổi chiều",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Chào buổi tối",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Chào đồng chí",
+        "explanation": "general greeting spoken to an equal in the Hà Nội dialect [vie-nor]"
+    }, {
+        "phrase": "Chào bác đồng nghiệp",
+        "explanation": "general greeting to a man of equal age/status in the Hà Nội dialect (\"uncle\") [vie-sou]"
+    }, {
+        "phrase": "Dạ chào ông ạ",
+        "explanation": "respectful greeting to an older man in the Thành phố Hồ Chí Minh dialect [vie-sou]"
+    }, {
+        "phrase": "Con kính chào ông ạ",
+        "explanation": "respectful greeting to an older man in the Thành phố Hồ Chí Minh dialect [vie-sou]"
+    }, {
+        "phrase": "Bạn có khoẻ không?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Anh có khoẻ không?",
+        "explanation": "how are you? spoken to a man"
+    }, {
+        "phrase": "Chị có khoẻ không?",
+        "explanation": "how are you? spoken to a woman"
+    }, {
+        "phrase": "Khỏe chứ?",
+        "explanation": "how are you? informal"
+    }, {
+        "phrase": "Hoanh nghênh",
+        "explanation": "formal welcome greeting"
+    }, {
+        "phrase": "Chào mừng",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Xin chào mừng",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Kính chào quý khách",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Xin kính chào quý khách",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Vili",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=vif",
+    "location": "Congo: Yoombe Island.",
+    "greetings": [{
+        "phrase": "Bwèke",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Èè, bwèke",
+        "explanation": "reply to Bwèke"
+    }, {
+        "phrase": "Èè",
+        "explanation": "reply to Bwèke"
+    }, {
+        "phrase": "Bwèkanu",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Bwèkanu bèno boso",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Èè, bwèke djèvakuè",
+        "explanation": "reply to Bwèkanu and Bwèkanu bèno boso"
+    }, {
+        "phrase": "Bwii",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Uke bu botiè?",
+        "explanation": "morning greeting spoken to one person"
+    }, {
+        "phrase": "Luke bu botièè?",
+        "explanation": "morning greeting spoken to a group"
+    }, {
+        "phrase": "Wa kotukè?",
+        "explanation": "morning greeting spoken to one person"
+    }, {
+        "phrase": "Lwa kotukèè?",
+        "explanation": "morning greeting spoken to a group"
+    }, {
+        "phrase": "Èè",
+        "explanation": "reply to Uke bu botiè and Wa kotukè"
+    }, {
+        "phrase": "Bè nuke bu botiè?",
+        "explanation": "morning greeting spoken to one person"
+    }, {
+        "phrase": "Fwati kwandi toke",
+        "explanation": "reply to Bè nuke bu botiè"
+    }, {
+        "phrase": "Masika",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Ba ti buni?",
+        "explanation": "how are you, \"what's new?\""
+    }, {
+        "phrase": "Mpolo voo",
+        "explanation": "reply to Ba ti buni"
+    }, {
+        "phrase": "Mpolo ku andi e?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Mpolo ku andi",
+        "explanation": "reply to Mpolo ku andi e"
+    }]
+}, {
+    "name": "Vincentian Creole",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=svc",
+    "location": "Saint Vincent and the Grenadines.",
+    "greetings": [{
+        "phrase": "Mawnin'",
+        "explanation": "morning greeting"
+    }]
+}, {
+    "name": "Vinza",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=vin",
+    "location": "Tanzania: Kigoma region.",
+    "greetings": [{
+        "phrase": "Mahoro",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Kature ve gogo",
+        "explanation": "reply to Mahoro"
+    }]
+}, {
+    "name": "Virgin Islands Creole",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=vic",
+    "location": "United States of America: St. Thomas, Virgin Islands.",
+    "greetings": [{
+        "phrase": "Bô jour",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Bô nẅit",
+        "explanation": "nighttime greeting"
+    }]
+}, {
+    "name": "Vitu",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=wiv",
+    "location": "Papua New Guinea: West New Britain Province.",
+    "greetings": [{
+        "phrase": "Ho tu kemi?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Ho tu kemi za?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "E, hau ta kemi za",
+        "explanation": "reply to Ho tu kemi za"
+    }]
+}, {
+    "name": "Vlaams",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=vls",
+    "location": "Belgium: Flanders. Netherlands: Zeeland.",
+    "greetings": [{
+        "phrase": "Goeiendag",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Hallo",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Yo",
+        "explanation": "informal greeting"
+    }, {
+        "phrase": "Jow",
+        "explanation": "informal greeting"
+    }, {
+        "phrase": "Goedemorgen",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Goedenavond",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Goedenacht",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Welgekommn",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Juij",
+        "explanation": "general greeting in the Aalsters dialect"
+    }, {
+        "phrase": "Oewist?",
+        "explanation": "how are you? in the Antwerp [vls-ant] and Iepers dialects"
+    }, {
+        "phrase": "Seluu",
+        "explanation": "general greeting in the Bergs dialect"
+    }, {
+        "phrase": "Eila",
+        "explanation": "general greeting in the Bergs dialect"
+    }, {
+        "phrase": "Hoe is't?",
+        "explanation": "how are you? in the Berlicums dialect"
+    }, {
+        "phrase": "Hoest nou?",
+        "explanation": "how are you? in the Bosch dialect"
+    }, {
+        "phrase": "Bonzoers",
+        "explanation": "general greeting in the Brakels dialect"
+    }, {
+        "phrase": "Halleej",
+        "explanation": "general greeting in the Brabants and Tilburgs dialects"
+    }, {
+        "phrase": "Hallee",
+        "explanation": "general greeting in the Brabants dialect [vls-bra]"
+    }, {
+        "phrase": "Heuj",
+        "explanation": "general greeting in the Brabants dialect [vls-bra]"
+    }, {
+        "phrase": "Euuj",
+        "explanation": "general greeting in the Brabants dialect [vls-bra]"
+    }, {
+        "phrase": "Gallow",
+        "explanation": "general greeting in the Brabants dialect [vls-bra]"
+    }, {
+        "phrase": "Guuin doag",
+        "explanation": "daytime greeting in the Brabants dialect [vls-bra]"
+    }, {
+        "phrase": "Goeie mérge",
+        "explanation": "morning greeting in the Brabants dialect [vls-bra]"
+    }, {
+        "phrase": "Hulloehoe",
+        "explanation": "general greeting in the Cuijks dialect"
+    }, {
+        "phrase": "Hoe gigget?",
+        "explanation": "how are you? in the Eindhoven dialect"
+    }, {
+        "phrase": "Hoest?",
+        "explanation": "how are you? informal greeting spoken in Eindhoven"
+    }, {
+        "phrase": "Djeur",
+        "explanation": "general greeting in the Hams and Zeels dialects"
+    }, {
+        "phrase": "Dsjuir",
+        "explanation": "general greeting in the Hams dialect"
+    }, {
+        "phrase": "Hoi",
+        "explanation": "general greeting in the Cuijks and Helmonds dialects"
+    }, {
+        "phrase": "Eej hoeist naw?",
+        "explanation": "how are you? in the Helmonds dialect"
+    }, {
+        "phrase": "Hoe wizt?",
+        "explanation": "how are you? in the Heuvellands dialect"
+    }, {
+        "phrase": "Hoe geeget?",
+        "explanation": "how are you? in the Hooge Mierde dialect"
+    }, {
+        "phrase": "Oewist me joen?",
+        "explanation": "how are you? in the Iepers dialect"
+    }, {
+        "phrase": "Çava?",
+        "explanation": "how are you? in the Iepers dialect"
+    }, {
+        "phrase": "Cavatn?",
+        "explanation": "how are you? in the Koekelare dialect"
+    }, {
+        "phrase": "Oe wst?",
+        "explanation": "how are you? in the Lauws dialect"
+    }, {
+        "phrase": "Hoe goat ut?",
+        "explanation": "how are you? in the Made (Mays) dialect"
+    }, {
+        "phrase": "Oe est me gie?",
+        "explanation": "how are you? in the Menen dialect"
+    }, {
+        "phrase": "Oe wist?",
+        "explanation": "how are you? in the Roeselaars dialect"
+    }, {
+        "phrase": "Oe' ist?",
+        "explanation": "how are you? in the Roeselaars dialect"
+    }, {
+        "phrase": "Oe gaoget?",
+        "explanation": "how are you? in the Roosendaals dialect"
+    }, {
+        "phrase": "Eej",
+        "explanation": "informal greeting in the Oudenbosch dialect"
+    }, {
+        "phrase": "Hoes est?",
+        "explanation": "how are you? in the Tiens dialect"
+    }, {
+        "phrase": "Alo",
+        "explanation": "general greeting in the Tilburgs dialect"
+    }, {
+        "phrase": "Halléé",
+        "explanation": "general greeting in the Tilburgs dialect"
+    }, {
+        "phrase": "Hoe goa het?",
+        "explanation": "how are you? in the Tilburgs dialect"
+    }, {
+        "phrase": "Hoe gao-g-ut?",
+        "explanation": "how are you? in the Tilburgs dialect"
+    }, {
+        "phrase": "Hoe ist?",
+        "explanation": "how are you? in the Tilburgs dialect"
+    }, {
+        "phrase": "Hoehedeuw?",
+        "explanation": "how are you? in the Turnhouts dialect"
+    }, {
+        "phrase": "Oewiest miaaw?",
+        "explanation": "how are you? in the Turnhouts dialect"
+    }, {
+        "phrase": "Tsjeur",
+        "explanation": "general greeting in the Vrasens dialect"
+    }, {
+        "phrase": "Âllo",
+        "explanation": "general greeting in the Westvlaams dialect [vls-wev]"
+    }, {
+        "phrase": "Môgge",
+        "explanation": "morning greeting in the Westvlaams dialect [vls-wev]"
+    }, {
+        "phrase": "Oe est?",
+        "explanation": "how are you? in the Westvlaams dialect [vls-wev]"
+    }, {
+        "phrase": "Oe ist?",
+        "explanation": "how are you? in the Westvlaams, Langemarks and Lauws dialects [vls-wev]"
+    }, {
+        "phrase": "Oe ist me joun?",
+        "explanation": "how are you? in the Westvlaams dialect [vls-wev]"
+    }, {
+        "phrase": "Oewèst?",
+        "explanation": "how are you? in the Westvlaams dialect [vls-wev]"
+    }, {
+        "phrase": "Wizt?",
+        "explanation": "how are you? in the Westvlaams dialect [vls-wev]"
+    }, {
+        "phrase": "Wist?",
+        "explanation": "how are you? in the Westvlaams dialect [vls-wev]"
+    }, {
+        "phrase": "Wist me je?",
+        "explanation": "how are you? in the Westvlaams dialect [vls-wev]"
+    }, {
+        "phrase": "Wist me je?",
+        "explanation": "how are you? in the Westvlaams dialect [vls-wev]"
+    }, {
+        "phrase": "Oe est me gie?",
+        "explanation": "how are you? in the Wevelgems dialect"
+    }]
+}, {
+    "name": "Vod",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=vot",
+    "location": "Russia: Kingisepp region.",
+    "greetings": [{
+        "phrase": "Tere",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Terve",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Terveh",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Terveüz",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Tervüüz",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Üvvää tervüüttä",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Tere päivä",
+        "explanation": "general daytime greeting"
+    }, {
+        "phrase": "Üvvää päivää",
+        "explanation": "general daytime greeting"
+    }, {
+        "phrase": "Üvä päivää",
+        "explanation": "general daytime greeting"
+    }, {
+        "phrase": "Üvvää oomnikkoa",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Tere oomnikkoa",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Üvä oomni",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Tere õhtagoa",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Üvvää õhtõgoa",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Üvä õhtago",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Tere üüt",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Üvää üütä",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Kui meneb?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Kui meeb?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Passibo, üvässi meeb",
+        "explanation": "reply to Kui meeb"
+    }, {
+        "phrase": "Üvässi meeb",
+        "explanation": "reply to Kui meeb"
+    }, {
+        "phrase": "Kui tyy elätt?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Tervettä tuloa",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Terve tultua",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Võro",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=vro",
+    "location": "Estonia.",
+    "greetings": [{
+        "phrase": "Tereq",
+        "explanation": "general greeting in the Võro dialect"
+    }, {
+        "phrase": "Tereq pääväst",
+        "explanation": "general greeting in the Võro dialect"
+    }, {
+        "phrase": "Tere pääväst",
+        "explanation": "general greeting in the Võro dialect"
+    }, {
+        "phrase": "Pääväst",
+        "explanation": "general greeting in the Võro dialect"
+    }, {
+        "phrase": "Tere hummogust",
+        "explanation": "morning greeting in the Võro dialect"
+    }, {
+        "phrase": "Tereq hummogust",
+        "explanation": "morning greeting in the Võro dialect"
+    }, {
+        "phrase": "Hummogust",
+        "explanation": "morning greeting in the Võro dialect"
+    }, {
+        "phrase": "Hüvvä hummogut",
+        "explanation": "morning greeting in the Võro dialect"
+    }, {
+        "phrase": "Tere hummogut",
+        "explanation": "morning greeting in the Võro dialect of Põlva"
+    }, {
+        "phrase": "Hüvvä lõunaaigo",
+        "explanation": "afternoon greeting in the Võro dialect"
+    }, {
+        "phrase": "Tere õdagust",
+        "explanation": "evening greeting in the Võro dialect"
+    }, {
+        "phrase": "Tereq õdagust",
+        "explanation": "evening greeting in the Võro dialect"
+    }, {
+        "phrase": "Õdagust",
+        "explanation": "evening greeting in the Võro dialect"
+    }, {
+        "phrase": "Kuis lätt?",
+        "explanation": "how are you? in the Võro and Seto dialects"
+    }, {
+        "phrase": "Kuis elät?",
+        "explanation": "how are you? in the Võro dialect"
+    }, {
+        "phrase": "Kuis käsi käü?",
+        "explanation": "how are you? in the Võro dialect"
+    }, {
+        "phrase": "Kuiss käsi käü?",
+        "explanation": "how are you? in the Võro dialect of Hargla"
+    }, {
+        "phrase": "Kuiss sul käbärä käävä?",
+        "explanation": "how are you? in the Võro dialect of Urvaste"
+    }, {
+        "phrase": "Kuiss käbärä käävä?",
+        "explanation": "how are you? in the Võro dialect of Urvaste"
+    }, {
+        "phrase": "Kuiss käbäre käävä?",
+        "explanation": "how are you? in the Võro dialect of Rõuge"
+    }, {
+        "phrase": "Häste",
+        "explanation": "reply to Kuis lätt, Kuis elät, and Kuis käsi käü"
+    }, {
+        "phrase": "Hästeq",
+        "explanation": "reply to Kuis lätt, Kuis elät, and Kuis käsi käü in the Eastern dialect"
+    }, {
+        "phrase": "Hüäste",
+        "explanation": "reply to Kuis käsi käü in the Vastseliina dialect"
+    }, {
+        "phrase": "Lätt häste",
+        "explanation": "reply to Kuis lätt"
+    }, {
+        "phrase": "Aitjumma, lätt häste",
+        "explanation": "reply to Kuis lätt in the Võro dialect"
+    }, {
+        "phrase": "Aitümmä, lätt häste",
+        "explanation": "reply to Kuis lätt in the Seto dialect [vro-set]"
+    }, {
+        "phrase": "Tere tulõmast",
+        "explanation": "welcome greeting in the Võro dialect"
+    }, {
+        "phrase": "Olõq terveq tulõmast",
+        "explanation": "welcome greeting in the Võro dialect"
+    }, {
+        "phrase": "Olõ terve tulõmast",
+        "explanation": "welcome greeting in the Võro dialect"
+    }, {
+        "phrase": "Olkõq terveq tulõmast",
+        "explanation": "welcome greeting in the Võro dialect"
+    }, {
+        "phrase": "Olkõ terve tulõmast",
+        "explanation": "welcome greeting in the Võro dialect"
+    }, {
+        "phrase": "Tereh",
+        "explanation": "general greeting in the Seto dialect [vro-set]"
+    }, {
+        "phrase": "Tervee",
+        "explanation": "general greeting in the Seto dialect [vro-set]"
+    }, {
+        "phrase": "Tereh pääväst",
+        "explanation": "general daytime greeting in the Seto dialect [vro-set]"
+    }, {
+        "phrase": "Pääväst",
+        "explanation": "general daytime greeting in the Seto dialect [vro-set]"
+    }, {
+        "phrase": "Tereh hummogust",
+        "explanation": "morning greeting in the Seto dialect [vro-set]"
+    }, {
+        "phrase": "Tereh õdagust",
+        "explanation": "evening greeting in the Seto dialect [vro-set]"
+    }, {
+        "phrase": "Kuis käsi kaü?",
+        "explanation": "how are you? in the Seto dialect [vro-set]"
+    }, {
+        "phrase": "Kuiss sul käbäŕ käu?",
+        "explanation": "how are you? in the Seto dialect [vro-set]"
+    }, {
+        "phrase": "Höste",
+        "explanation": "reply to Kuis käsi kaü and Kuiss sul käbäŕ käu in the Seto dialect [vro-set]"
+    }, {
+        "phrase": "Tereh tulõmast",
+        "explanation": "welcome greeting in the Seto dialect [vro-set]"
+    }, {
+        "phrase": "Tere päivä",
+        "explanation": "general daytime greeting in the Lutsi dialect of Latvia"
+    }, {
+        "phrase": "Teŕve ka",
+        "explanation": "general daytime greeting in the Lutsi dialect of Latvia"
+    }, {
+        "phrase": "Kuis jelät?",
+        "explanation": "how are you? in the Lutsi dialect of Latvia"
+    }, {
+        "phrase": "Kuis sa jelät?",
+        "explanation": "how are you? in the Lutsi dialect of Latvia"
+    }, {
+        "phrase": "Kuis sa jelät omalt půůlelt?",
+        "explanation": "how are you? in the Lutsi dialect of Latvia"
+    }, {
+        "phrase": "Kuis käsi käib?",
+        "explanation": "how are you? in the Lutsi dialect of Latvia"
+    }, {
+        "phrase": "Kas tehrüs um kõva?",
+        "explanation": "how are you?, \"are you healthy?\", in the Lutsi dialect of Latvia"
+    }, {
+        "phrase": "Kui k'äži k'äüles?",
+        "explanation": "how are you? in the Leivu dialect of Latvia"
+    }]
+}, {
+    "name": "Vunjo",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=vun",
+    "location": "Tanzania: Kilimanjaro region.",
+    "greetings": [{
+        "phrase": "Shimboni mbe",
+        "explanation": "general greeting spoken to a man"
+    }, {
+        "phrase": "Shimboni mai",
+        "explanation": "general greeting spoken to a woman"
+    }]
+}, {
+    "name": "Vurës",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=msn",
+    "location": "Vanuatu: Vanua Lava.",
+    "greetings": [{
+        "phrase": "Timiak avē?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Odian̄ gōwē gem",
+        "explanation": "reply to Timiak avē"
+    }]
+}, {
+    "name": "Vuté",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=vut",
+    "location": "Cameroon.",
+    "greetings": [{
+        "phrase": "Wu jéb àà?",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Wu du rí àà?",
+        "explanation": "afternoon greeting"
+    }]
+}, {
+    "name": "Vwanji",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=wbi",
+    "location": "Tanzania: Iringa region.",
+    "greetings": [{
+        "phrase": "Uwonile",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Mghonile",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Isagha",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Jennifer's Language Pages",
+        "explanation": ""
+    }, {
+        "phrase": "Greetings in more than 3000 languages To find a specific language, click on the first letter of the language's name. [A] [B] [C] [D] [E] [F] [G] [H] [I] [J] [K] [L] [M] [N] [O] [P] [Q] [R] [S] [T] [U] [V] [W] [X] [Y] [Z] Site Navigation Jennifer's Language Page home Greetings in more than 3000 languages Articles about greetings and translation Other phrases in many languages Frequently Asked Questions (FAQ) Purpose of this Site Copyright Information What's New Send comments, additions, or corrections for this page to Jennifer Runner URL for this site: http://users.elite.net/runner/jennifers/",
+        "explanation": ""
+    }, {
+        "phrase": "© 1995 - 2016 Jennifer Runner. All rights reserved. Last updated on January 1, 2016. Click here for copyright information.",
+        "explanation": ""
+    }]
+}]

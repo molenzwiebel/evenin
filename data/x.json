@@ -1,0 +1,377 @@
+[{
+    "name": "Xaasongaxango",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=kao",
+    "location": "Mali and Senegal.",
+    "greetings": [{
+        "phrase": "I sooma",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "I nin sooma",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Alu nin sooma",
+        "explanation": "general greeting spoken to a group"
+    }, {
+        "phrase": "I nin sege",
+        "explanation": "greeting spoken to a person who has been working (\"you and your weariness\")"
+    }, {
+        "phrase": "Alu nin sege",
+        "explanation": "greeting spoken to a group who has been working"
+    }]
+}, {
+    "name": "|Xam",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=xam",
+    "location": "South Africa.",
+    "greetings": [{
+        "phrase": "!Gau-e kke",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "!Gau-e tuken kke",
+        "explanation": "reply to !Gau-e kke"
+    }, {
+        "phrase": "!Gau-e kke kan o",
+        "explanation": "morning greeting spoken to one man"
+    }, {
+        "phrase": "!Gau-e kke kan gu we",
+        "explanation": "morning greeting spoken to a group of men"
+    }, {
+        "phrase": "||Kuonna kke",
+        "explanation": "midday greeting"
+    }, {
+        "phrase": "||Kuonna tuken kke",
+        "explanation": "reply to ||Kuonna kke"
+    }, {
+        "phrase": "!Kui kke",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "!Kui tuken kke",
+        "explanation": "reply to !Kui kke"
+    }, {
+        "phrase": "!Kui ||xa kke",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Kkuerre kkuerre kke",
+        "explanation": "evening greeting"
+    }, {
+        "phrase": "Kkuerre kkuerre tuken kke",
+        "explanation": "reply to Kkuerre kkuerre kke"
+    }, {
+        "phrase": "Ga kke",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Ga tuken kke",
+        "explanation": "reply to Ga kke"
+    }, {
+        "phrase": "!ae",
+        "explanation": "general greeting in an older (19th century) dialect"
+    }, {
+        "phrase": "Oa to",
+        "explanation": "general greeting in an older (19th century) dialect"
+    }, {
+        "phrase": "|abe",
+        "explanation": "general greeting in an older (19th century) dialect"
+    }, {
+        "phrase": "||kaishi ge",
+        "explanation": "greeting spoken when meeting someone, in an older (19th century) dialect"
+    }, {
+        "phrase": "A ty ≠ke |hau",
+        "explanation": "greeting spoken to a person who arrives on foot, in an older (19th century) dialect"
+    }, {
+        "phrase": "||gā",
+        "explanation": "general daytime greeting in an older (19th century) dialect"
+    }, {
+        "phrase": "|guma",
+        "explanation": "early morning greeting used before sunrise in an older (19th century) dialect"
+    }, {
+        "phrase": "Kwebbe",
+        "explanation": "morning greeting used after sunrise in an older (19th century) dialect"
+    }, {
+        "phrase": "||nīŋ",
+        "explanation": "evening greeting in an older (19th century) dialect"
+    }, {
+        "phrase": "≠kensi ||k\"um",
+        "explanation": "nighttime greeting in an older (19th century) dialect"
+    }, {
+        "phrase": "Ga ||kaba la?",
+        "explanation": "how are you, literally \"how do you stand?\" in an older (19th century) dialect"
+    }, {
+        "phrase": "Axa te:n far di:ka?",
+        "explanation": "how are you? in an older (19th century) dialect"
+    }, {
+        "phrase": "N fara /tswi \\||oa llẽ",
+        "explanation": "reply to Axa te:n far di:ka in an older (19th century) dialect (\"I am well, in God's name\")"
+    }]
+}, {
+    "name": "Xârâcùù",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=ane",
+    "location": "New Caledonia.",
+    "greetings": [{
+        "phrase": "Bosu",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Xairéké?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Ke fè tii?",
+        "explanation": "where are you going?"
+    }]
+}, {
+    "name": "Xavánte",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=xav",
+    "location": "Brazil: Mato Grosso.",
+    "greetings": [{
+        "phrase": "Rowa'awẽ",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "E rowẽ di",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Ĩhe, rowẽ di",
+        "explanation": "reply to E rowẽ di"
+    }, {
+        "phrase": "E momo te aimo?",
+        "explanation": "greeting spoken to a person who is going somewhere, literally \"where are you going?\""
+    }]
+}, {
+    "name": "Xetá",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=xet",
+    "location": "Brazil: Paraná.",
+    "greetings": [{
+        "phrase": "Entxeiwi",
+        "explanation": "general greeting"
+    }]
+}, {
+    "name": "Xhosa",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=xho",
+    "location": "South Africa and Lesotho.",
+    "greetings": [{
+        "phrase": "Molo",
+        "explanation": "general greeting spoken to one person"
+    }, {
+        "phrase": "Molweni",
+        "explanation": "general greeting spoken to a group of people"
+    }, {
+        "phrase": "Kunjani?",
+        "explanation": "how are you? spoken to one person"
+    }, {
+        "phrase": "Unjani?",
+        "explanation": "how are you? spoken to one person"
+    }, {
+        "phrase": "Ndiphilile",
+        "explanation": "reply to Kunjani and Unjani"
+    }, {
+        "phrase": "Ndisaphila",
+        "explanation": "reply to Kunjani and Unjani"
+    }, {
+        "phrase": "Ndiyaphila",
+        "explanation": "reply to Kunjani and Unjani"
+    }, {
+        "phrase": "Ninjani?",
+        "explanation": "how are you? spoken to a group of people"
+    }, {
+        "phrase": "Siphilile",
+        "explanation": "reply to Ninjani"
+    }, {
+        "phrase": "Siyaphila",
+        "explanation": "reply to Ninjani"
+    }, {
+        "phrase": "Namkelekile",
+        "explanation": "welcome greeting"
+    }, {
+        "phrase": "Siya namkela nonke",
+        "explanation": "welcome greeting"
+    }]
+}, {
+    "name": "Xibe",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=sjo",
+    "location": "China: Xinjiang Ugyhur Autonomous Region.",
+    "greetings": [{
+        "phrase": "Baitakū na?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Hoju na?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Si hoju na?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Bei hoju na?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Sayin",
+        "explanation": "reply to Si hoju na"
+    }, {
+        "phrase": "Baita ni ijishūn na?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Avsi duluvimareje?",
+        "explanation": "how is everything?"
+    }, {
+        "phrase": "Sian banjuimareje",
+        "explanation": "reply to Avsi duluvimareje"
+    }]
+}, {
+    "name": "Xinca",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=xin",
+    "location": "Guatemala.",
+    "greetings": [{
+        "phrase": "Antarti a na mento",
+        "explanation": "formal greeting"
+    }, {
+        "phrase": "Antarti a na mento t'zimahahli",
+        "explanation": "formal greeting to a group of people"
+    }, {
+        "phrase": "Tarti a na mento",
+        "explanation": "formal greeting"
+    }, {
+        "phrase": "Ansamaj antarti mento",
+        "explanation": "formal greeting"
+    }, {
+        "phrase": "Mento",
+        "explanation": "general greeting"
+    }, {
+        "phrase": "Mento tata",
+        "explanation": "general greeting spoken to a man"
+    }, {
+        "phrase": "Mento nana",
+        "explanation": "general greeting spoken to a woman"
+    }, {
+        "phrase": "Tay nana",
+        "explanation": "general greeting spoken to a woman"
+    }, {
+        "phrase": "Xanki pa'ri",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Xanki na'wu",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Xanki sümah",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Xani yanak?",
+        "explanation": "how are you?, informal"
+    }, {
+        "phrase": "Xani yanaka?",
+        "explanation": "how are you?, formal"
+    }, {
+        "phrase": "Hurum num",
+        "explanation": "reply to Xani yanak and Xani yanaka"
+    }, {
+        "phrase": "Hapay humaray",
+        "explanation": "welcome greeting, \"come in\""
+    }, {
+        "phrase": "Xawuya",
+        "explanation": "welcome greeting, \"have a seat\""
+    }, {
+        "phrase": "Xima nimaqui con Dios",
+        "explanation": "morning greeting in a 19th century dialect from Jalapa"
+    }, {
+        "phrase": "Xima nuoiguai con Dios",
+        "explanation": "nighttime greeting in a 19th century dialect from Jalapa"
+    }, {
+        "phrase": "Xima coy canay sal parri?",
+        "explanation": "how are you? in a 19th century dialect from Chiquimulilla"
+    }, {
+        "phrase": "Nensu",
+        "explanation": "reply to Xima coy canay sal parri in a 19th century dialect from Chiquimulilla"
+    }, {
+        "phrase": "Muy huastaya",
+        "explanation": "welcome greeting in a 19th century dialect from Chiquimulilla, \"come in\""
+    }, {
+        "phrase": "Muy casunuya",
+        "explanation": "welcome greeting in a 19th century dialect from Chiquimulilla, \"have a seat\""
+    }]
+}, {
+    "name": "Xiri",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=xii",
+    "location": "South Africa. Namibia",
+    "greetings": [{
+        "phrase": "Amtis ka fara?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Amtis xa fara?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Amtis ka na di?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Amti ka ʔ na khãĩ?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "t Abete",
+        "explanation": "general greeting in the Eastern Cape Khoekhoe dialect (18th century)"
+    }, {
+        "phrase": "t Kwamoutsi",
+        "explanation": "morning greeting in the Eastern Cape Khoekhoe dialect (18th century)"
+    }, {
+        "phrase": "ts Kormoutsti",
+        "explanation": "evening greeting in the Eastern Cape Khoekhoe dialect (18th century)"
+    }, {
+        "phrase": "'Za am 'li he sats?",
+        "explanation": "how are you? in the Eastern Cape Khoekhoe dialect (18th century)"
+    }, {
+        "phrase": "Tiri 'kai",
+        "explanation": "reply to 'Za am 'li he sats"
+    }]
+}, {
+    "name": "Xokleng",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=xok",
+    "location": "Brazil: Santa Catarina State",
+    "greetings": [{
+        "phrase": "Há mã já?",
+        "explanation": "how are you? spoken to a person who is standing"
+    }, {
+        "phrase": "Há nũ jã",
+        "explanation": "reply to Há mã já"
+    }, {
+        "phrase": "Há mã nẽ?",
+        "explanation": "how are you? spoken to a person who is sitting"
+    }, {
+        "phrase": "Há nũ nẽ",
+        "explanation": "reply to Há mã nẽ"
+    }, {
+        "phrase": "Há mã nõ?",
+        "explanation": "how are you? spoken to a person who is lying down"
+    }, {
+        "phrase": "Há nũ nõ",
+        "explanation": "reply to Há mã nõ"
+    }, {
+        "phrase": "Hã tá a katẽg nũ vã?",
+        "explanation": "where are you coming from?"
+    }, {
+        "phrase": "Hã ló a tẽg nũ vã?",
+        "explanation": "where are you going?"
+    }]
+}, {
+    "name": "Xukurú",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=xoo",
+    "location": "Brazil.",
+    "greetings": [{
+        "phrase": "Břemen",
+        "explanation": "morning greeting"
+    }, {
+        "phrase": "Ilareném",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Iareném",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Tataremen",
+        "explanation": "nighttime greeting"
+    }, {
+        "phrase": "Ákàk'áumà?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Íkáká",
+        "explanation": "reply to Ákàk'áumà"
+    }, {
+        "phrase": "Jennifer's Language Pages",
+        "explanation": ""
+    }, {
+        "phrase": "Greetings in more than 2800 languages To find a specific language, click on the first letter of the language's name. [A] [B] [C] [D] [E] [F] [G] [H] [I] [J] [K] [L] [M] [N] [O] [P] [Q] [R] [S] [T] [U] [V] [W] [X] [Y] [Z] Site Navigation Jennifer's Language Page home Greetings in more than 3000 languages Articles about greetings and translation Other phrases in many languages Frequently Asked Questions (FAQ) Purpose of this Site Copyright Information What's New Send comments, additions, or corrections for this page to Jennifer Runner URL for this site: http://users.elite.net/runner/jennifers/",
+        "explanation": ""
+    }, {
+        "phrase": "© 1995 - 2017 Jennifer Runner. All rights reserved. Last updated on June 22, 2017 Click here for copyright information.",
+        "explanation": ""
+    }]
+}]
