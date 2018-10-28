@@ -46,7 +46,7 @@ function hasGreeting(text) {
     // Ignore words of length 1 (especially 'a') since they clutter too much.
     const potentialMatches = [];
 
-    for (const word of text.split(/\s+/)) {
+    for (const word of text.split(/[\s.,?!":;-–—]+/)) {
         potentialMatches.push(...matchGreetings(word));
     }
 
